@@ -10,6 +10,23 @@ class Lesson {
     required this.topic,
     required this.conversations,
   });
+
+  factory Lesson.fromJson(Map<String, dynamic> json) {
+    var conversationsJson = json['conversations'] as List;
+    List<ConversationLine> conversationsList = conversationsJson
+        .map((line) => ConversationLine(
+              arabic: line['arabic'],
+              english: line['english'],
+            ))
+        .toList();
+
+    return Lesson(
+      id: json['id'],
+      title: json['title'],
+      topic: json['topic'],
+      conversations: conversationsList,
+    );
+  }
 }
 
 class ConversationLine {

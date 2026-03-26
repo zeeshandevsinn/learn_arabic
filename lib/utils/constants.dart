@@ -4,9 +4,9 @@ class AppConstants {
   static const String appName = 'Learn Arabic in English';
   static const String appLogo = 'assets/app_logo.png';
   static const String appVersion = '1.0.0';
-  static const String developer = 'Language Bridge';
-  static const String supportEmail = 'mohammadjaber6991@gmail.com';
-  
+  static const String developer = 'Divine Technology';
+  static const String supportEmail = 'support.learnarabic.eng@gmail.com';
+
   // Colors
   static const Color primaryColor = Color(0xFF075E54); // Dark Green
   static const Color secondaryColor = Color(0xFF128C7E); // Green
@@ -17,15 +17,14 @@ class AppConstants {
   static const Color errorColor = Color(0xFFE53935);
   static const Color successColor = Color(0xFF43A047);
   static const Color warningColor = Color(0xFFFFA000);
-  
+
   // Font Sizes
   static const double headingSize = 24.0;
   static const double subheadingSize = 20.0;
   static const double bodySize = 16.0;
   static const double smallSize = 14.0;
-  
 
-   // Splash Screen Text
+  // Splash Screen Text
   static const List<String> splashQuotes = [
     'Language is the road map of a culture',
     'Learn a new language, discover a new world',
@@ -37,7 +36,7 @@ class AppConstants {
   static const double defaultPadding = 16.0;
   static const double smallPadding = 8.0;
   static const double largePadding = 24.0;
-  
+
   // Animation Durations
   static const Duration shortAnimation = Duration(milliseconds: 200);
   static const Duration mediumAnimation = Duration(milliseconds: 500);

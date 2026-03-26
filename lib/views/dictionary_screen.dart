@@ -25,36 +25,37 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   void initState() {
     super.initState();
     _initTts();
+    _controller.initialize();
   }
 
   Future<void> _initTts() async {
     try {
       // Initialize TTS
       await _flutterTts.awaitSpeakCompletion(true);
-      
+
       // Get available languages
       List<dynamic>? languages = await _flutterTts.getLanguages;
       print('Available languages: $languages');
-      
+
       // Try to find and set Arabic language
       bool arabicSet = false;
-      
+
       // List of Arabic language codes to try
       List<String> arabicCodes = [
-        "ar-SA",  // Saudi Arabia
-        "ar-EG",  // Egypt
-        "ar",     // Generic Arabic
-        "ar-AE",  // UAE
-        "ar-LB",  // Lebanon
-        "ar-SY",  // Syria
-        "ar-JO",  // Jordan
+        "ar-SA", // Saudi Arabia
+        "ar-EG", // Egypt
+        "ar", // Generic Arabic
+        "ar-AE", // UAE
+        "ar-LB", // Lebanon
+        "ar-SY", // Syria
+        "ar-JO", // Jordan
       ];
-      
+
       for (String code in arabicCodes) {
         try {
           var result = await _flutterTts.setLanguage(code);
           print('Trying language $code: result = $result');
-          
+
           // Check if language was set successfully
           if (result == 1 || result == true) {
             currentLanguage = code;
@@ -66,24 +67,25 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           print('Failed to set language $code: $e');
         }
       }
-      
+
       if (!arabicSet) {
         print('No Arabic language found, using default language');
         setState(() {
           _isTtsAvailable = false;
         });
-        _showSnackBar('Arabic TTS not installed. Please install Arabic voice pack.');
+        _showSnackBar(
+            'Arabic TTS not installed. Please install Arabic voice pack.');
       } else {
         setState(() {
           _isTtsAvailable = true;
         });
       }
-      
+
       // Set speech properties
       await _flutterTts.setSpeechRate(0.5);
       await _flutterTts.setPitch(1.0);
       await _flutterTts.setVolume(1.0);
-      
+
       // Set completion handler
       _flutterTts.setCompletionHandler(() {
         if (mounted) {
@@ -93,7 +95,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           });
         }
       });
-      
+
       // Set error handler
       _flutterTts.setErrorHandler((msg) {
         print('TTS Error: $msg');
@@ -105,7 +107,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           _showSnackBar('Error playing audio: $msg');
         }
       });
-      
+
       // Set start handler
       _flutterTts.setStartHandler(() {
         if (mounted) {
@@ -114,7 +116,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           });
         }
       });
-      
+
       // Set cancel handler
       _flutterTts.setCancelHandler(() {
         if (mounted) {
@@ -124,7 +126,6 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           });
         }
       });
-      
     } catch (e) {
       print('TTS Initialization Error: $e');
       if (mounted) {
@@ -141,7 +142,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
       _showInstallDialog();
       return;
     }
-    
+
     if (_isSpeaking && _currentPlayingWord == wordId) {
       // Stop if currently speaking the same word
       try {
@@ -164,7 +165,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           print('Stop error: $e');
         }
       }
-      
+
       // Start new speech
       if (mounted) {
         setState(() {
@@ -172,12 +173,12 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
           _currentPlayingWord = wordId;
         });
       }
-      
+
       try {
         // Try to set Arabic language before speaking
         bool languageSet = false;
         List<String> arabicCodes = ["ar-SA", "ar", "ar-EG"];
-        
+
         for (String code in arabicCodes) {
           try {
             var result = await _flutterTts.setLanguage(code);
@@ -190,14 +191,14 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
             print('Language set error: $e');
           }
         }
-        
+
         if (!languageSet) {
           print('Could not set Arabic language, using default');
         }
-        
+
         // Speak the word
         int result = await _flutterTts.speak(word);
-        
+
         if (result != 1) {
           if (mounted) {
             setState(() {
@@ -205,7 +206,8 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
               _currentPlayingWord = null;
             });
           }
-          _showSnackBar('Could not play audio. Please check text-to-speech settings.');
+          _showSnackBar(
+              'Could not play audio. Please check text-to-speech settings.');
         }
       } catch (e) {
         print('Speak error: $e');
@@ -245,7 +247,8 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                 const Text('2. Go to System → Languages & input'),
                 const Text('3. Tap on Text-to-speech output'),
                 const Text('4. Select Google Text-to-Speech engine'),
-                const Text('5. Tap Settings icon next to Google Text-to-Speech'),
+                const Text(
+                    '5. Tap Settings icon next to Google Text-to-Speech'),
                 const Text('6. Tap on Install voice data'),
                 const Text('7. Select Arabic (العربية) and download'),
                 const SizedBox(height: 16),
@@ -353,7 +356,8 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                 decoration: InputDecoration(
                   hintText: 'Search Arabic or English...',
                   hintStyle: TextStyle(color: Colors.grey[400]),
-                  prefixIcon: Icon(Icons.search, color: AppConstants.primaryColor),
+                  prefixIcon:
+                      Icon(Icons.search, color: AppConstants.primaryColor),
                   suffixIcon: _searchController.text.isNotEmpty
                       ? IconButton(
                           icon: Icon(Icons.clear, color: Colors.grey[400]),
@@ -390,97 +394,105 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
             colors: [AppConstants.backgroundColor, Colors.white],
           ),
         ),
-        child: Column(
-          children: [
-            // TTS Status Banner
-            if (!_isTtsAvailable)
-              Container(
-                margin: const EdgeInsets.all(16),
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                decoration: BoxDecoration(
-                  color: Colors.amber.shade50,
-                  borderRadius: BorderRadius.circular(10),
-                  border: Border.all(color: Colors.amber.shade700),
-                ),
-                child: Row(
-                  children: [
-                    Icon(Icons.warning_amber, color: Colors.amber.shade700, size: 20),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      child: Text(
-                        'Arabic voice not installed. Tap to install.',
-                        style: TextStyle(
-                          fontSize: 12,
-                          color: Colors.amber.shade800,
-                        ),
-                      ),
-                    ),
-                    TextButton(
-                      onPressed: _showInstallDialog,
-                      child: Text(
-                        'Install',
-                        style: TextStyle(color: AppConstants.primaryColor),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            
-            // Stats Bar
-            Container(
-              padding: const EdgeInsets.symmetric(
-                horizontal: AppConstants.defaultPadding,
-                vertical: 10,
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        child: _controller.isLoading
+            ? Center(
+                child: CircularProgressIndicator.adaptive(),
+              )
+            : Column(
                 children: [
-                  Text(
-                    '${_controller.searchResults.length} words found',
-                    style: TextStyle(
-                      fontSize: AppConstants.smallSize,
-                      color: Colors.grey[600],
-                      fontWeight: FontWeight.w500,
+                  // TTS Status Banner
+                  if (!_isTtsAvailable)
+                    Container(
+                      margin: const EdgeInsets.all(16),
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 12, vertical: 8),
+                      decoration: BoxDecoration(
+                        color: Colors.amber.shade50,
+                        borderRadius: BorderRadius.circular(10),
+                        border: Border.all(color: Colors.amber.shade700),
+                      ),
+                      child: Row(
+                        children: [
+                          Icon(Icons.warning_amber,
+                              color: Colors.amber.shade700, size: 20),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              'Arabic voice not installed. Tap to install.',
+                              style: TextStyle(
+                                fontSize: 12,
+                                color: Colors.amber.shade800,
+                              ),
+                            ),
+                          ),
+                          TextButton(
+                            onPressed: _showInstallDialog,
+                            child: Text(
+                              'Install',
+                              style:
+                                  TextStyle(color: AppConstants.primaryColor),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+
+                  // Stats Bar
+                  Container(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: AppConstants.defaultPadding,
+                      vertical: 10,
+                    ),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Text(
+                          '${_controller.searchResults.length} words found',
+                          style: TextStyle(
+                            fontSize: AppConstants.smallSize,
+                            color: Colors.grey[600],
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        if (_isSearching)
+                          Container(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 10,
+                              vertical: 5,
+                            ),
+                            decoration: BoxDecoration(
+                              color: AppConstants.accentColor.withOpacity(0.1),
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                            child: Text(
+                              'Search Results',
+                              style: TextStyle(
+                                fontSize: 11,
+                                color: AppConstants.accentColor,
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                          ),
+                      ],
                     ),
                   ),
-                  if (_isSearching)
-                    Container(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 10,
-                        vertical: 5,
-                      ),
-                      decoration: BoxDecoration(
-                        color: AppConstants.accentColor.withOpacity(0.1),
-                        borderRadius: BorderRadius.circular(20),
-                      ),
-                      child: Text(
-                        'Search Results',
-                        style: TextStyle(
-                          fontSize: 11,
-                          color: AppConstants.accentColor,
-                          fontWeight: FontWeight.w500,
-                        ),
-                      ),
-                    ),
+
+                  // Results List
+                  Expanded(
+                    child: _controller.searchResults.isEmpty
+                        ? _buildEmptyState()
+                        : ListView.builder(
+                            padding: const EdgeInsets.all(
+                                AppConstants.defaultPadding),
+                            itemCount: _controller.searchResults.length,
+                            itemBuilder: (context, index) {
+                              final word = _controller.searchResults[index];
+                              return _buildWordCard(word, index);
+                            },
+                          ),
+                  ),
                 ],
               ),
-            ),
-            
-            // Results List
-            Expanded(
-              child: _controller.searchResults.isEmpty
-                  ? _buildEmptyState()
-                  : ListView.builder(
-                      padding: const EdgeInsets.all(AppConstants.defaultPadding),
-                      itemCount: _controller.searchResults.length,
-                      itemBuilder: (context, index) {
-                        final word = _controller.searchResults[index];
-                        return _buildWordCard(word, index);
-                      },
-                    ),
-            ),
-          ],
-        ),
       ),
     );
   }
@@ -523,7 +535,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
 
   Widget _buildWordCard(Word word, int index) {
     final isPlaying = _isSpeaking && _currentPlayingWord == word.arabicWord;
-    
+
     return TweenAnimationBuilder(
       duration: Duration(milliseconds: 300 + (index * 50)),
       tween: Tween<double>(begin: 0, end: 1),
@@ -601,7 +613,8 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                       ),
                       // Voice Button
                       GestureDetector(
-                        onTap: () => _speakWord(word.arabicWord, word.arabicWord),
+                        onTap: () =>
+                            _speakWord(word.arabicWord, word.arabicWord),
                         child: Container(
                           padding: const EdgeInsets.all(8),
                           decoration: BoxDecoration(
@@ -680,7 +693,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
 
   void _showWordDetails(Word word) {
     final isPlaying = _isSpeaking && _currentPlayingWord == word.arabicWord;
-    
+
     showModalBottomSheet(
       context: context,
       shape: const RoundedRectangleBorder(
@@ -746,13 +759,15 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                             ),
                             child: AnimatedSwitcher(
                               duration: const Duration(milliseconds: 300),
-                              child: isPlaying && _currentPlayingWord == word.arabicWord
+                              child: isPlaying &&
+                                      _currentPlayingWord == word.arabicWord
                                   ? const SizedBox(
                                       width: 24,
                                       height: 24,
                                       child: CircularProgressIndicator(
                                         strokeWidth: 2,
-                                        valueColor: AlwaysStoppedAnimation<Color>(
+                                        valueColor:
+                                            AlwaysStoppedAnimation<Color>(
                                           AppConstants.accentColor,
                                         ),
                                       ),
@@ -817,7 +832,8 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                             _speakWord(word.arabicWord, word.arabicWord);
                           },
                           style: OutlinedButton.styleFrom(
-                            side: const BorderSide(color: AppConstants.primaryColor),
+                            side: const BorderSide(
+                                color: AppConstants.primaryColor),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(10),
                             ),
@@ -842,7 +858,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                           ),
                           child: const Text(
                             'Close',
-                            style: TextStyle(fontSize: 16,color: Colors.white),
+                            style: TextStyle(fontSize: 16, color: Colors.white),
                           ),
                         ),
                       ),

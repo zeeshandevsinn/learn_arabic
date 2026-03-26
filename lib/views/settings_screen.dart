@@ -39,7 +39,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             // App Header
             _buildAppHeader(),
             const SizedBox(height: 20),
-            
+
             // Settings Sections
             _buildSettingsSection(
               'App Settings',
@@ -75,9 +75,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ],
             ),
-            
+
             const SizedBox(height: 20),
-            
+
             // About App Section
             _buildSettingsSection(
               'About App',
@@ -103,9 +103,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ],
             ),
-            
+
             const SizedBox(height: 20),
-            
+
             // Additional Section
             _buildSettingsSection(
               'More',
@@ -131,9 +131,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ],
             ),
-            
+
             const SizedBox(height: 30),
-            
+
             // Version Info
             Center(
               child: Column(
@@ -156,7 +156,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
             ),
-            
+
             const SizedBox(height: 20),
           ],
         ),
@@ -226,7 +226,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
     );
   }
 
-  Widget _buildSettingsSection(String title, IconData icon, List<Widget> children) {
+  Widget _buildSettingsSection(
+      String title, IconData icon, List<Widget> children) {
     return Container(
       decoration: BoxDecoration(
         color: Colors.white,
@@ -298,7 +299,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
           color: Colors.grey[600],
         ),
       ),
-      trailing: trailing ?? (onTap != null ? const Icon(Icons.chevron_right) : null),
+      trailing:
+          trailing ?? (onTap != null ? const Icon(Icons.chevron_right) : null),
       onTap: onTap,
       contentPadding: const EdgeInsets.symmetric(
         horizontal: AppConstants.defaultPadding,
@@ -609,11 +611,13 @@ class _SettingsScreenState extends State<SettingsScreen> {
                       ),
                       const SizedBox(height: 10),
                       InkWell(
-                        onTap: () => _launchEmail(),
+                        onTap: () =>
+                            openEmail(email: AppConstants.supportEmail),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            const Icon(Icons.email, color: AppConstants.primaryColor),
+                            const Icon(Icons.email,
+                                color: AppConstants.primaryColor),
                             const SizedBox(width: 10),
                             Flexible(
                               child: Text(
@@ -661,21 +665,28 @@ class _SettingsScreenState extends State<SettingsScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text('Data Collection', style: TextStyle(fontWeight: FontWeight.bold)),
+                Text('Data Collection',
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 SizedBox(height: 5),
-                Text('We do not collect any personal data. All content is stored locally on your device.'),
+                Text(
+                    'We do not collect any personal data. All content is stored locally on your device.'),
                 SizedBox(height: 10),
-                Text('Offline Access', style: TextStyle(fontWeight: FontWeight.bold)),
+                Text('Offline Access',
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 SizedBox(height: 5),
-                Text('The app works completely offline. No internet connection is required.'),
+                Text(
+                    'The app works completely offline. No internet connection is required.'),
                 SizedBox(height: 10),
-                Text('Third Party Services', style: TextStyle(fontWeight: FontWeight.bold)),
+                Text('Third Party Services',
+                    style: TextStyle(fontWeight: FontWeight.bold)),
                 SizedBox(height: 5),
-                Text('We do not use any third-party analytics or tracking services.'),
+                Text(
+                    'We do not use any third-party analytics or tracking services.'),
                 SizedBox(height: 10),
                 Text('Updates', style: TextStyle(fontWeight: FontWeight.bold)),
                 SizedBox(height: 5),
-                Text('Future updates may add features but will maintain privacy standards.'),
+                Text(
+                    'Future updates may add features but will maintain privacy standards.'),
               ],
             ),
           ),
@@ -707,21 +718,29 @@ class _SettingsScreenState extends State<SettingsScreen> {
     _showComingSoon();
   }
 
-  Future<void> _launchEmail() async {
-    final Uri emailUri = Uri(
+  static Future<void> openEmail({
+    required String email,
+    String subject = "Barberz Link App Inquiry",
+    String body = "Hello Barberz Link Team,",
+  }) async {
+    final Uri gmailUri = Uri(
       scheme: 'mailto',
       path: AppConstants.supportEmail,
-      query: 'subject=Support Request - Learn Arabic App&body=Hello, I need help with...',
+      query: Uri.encodeQueryComponent(
+        "subject=$subject&body=$body",
+      ),
     );
-    
-    try {
-      if (await canLaunchUrl(emailUri)) {
-        await launchUrl(emailUri);
-      } else {
-        _showComingSoon();
-      }
-    } catch (e) {
-      _showComingSoon();
+
+    if (await canLaunchUrl(gmailUri)) {
+      await launchUrl(gmailUri, mode: LaunchMode.externalApplication);
+    } else {
+      // Fallback (if Gmail not available)
+      final Uri fallbackUri = Uri(
+        scheme: 'mailto',
+        path: email,
+      );
+
+      await launchUrl(fallbackUri, mode: LaunchMode.externalApplication);
     }
   }
 }

@@ -1,0 +1,1250 @@
+[
+  {
+    "arabicWord": "سَلَامٌ",
+    "englishMeaning": "Peace/Greeting",
+    "exampleSentence": "السَّلَامُ عَلَيْكُمْ"
+  },
+  {
+    "arabicWord": "شُكْرًا",
+    "englishMeaning": "Thank you",
+    "exampleSentence": "شُكْرًا جَزِيلًا"
+  },
+
+  {
+    "arabicWord": "عَائِلَةٌ",
+    "englishMeaning": "Family",
+    "exampleSentence": "عَائِلَتِي كَبِيرَةٌ"
+  },
+
+  {
+    "arabicWord": "فُطُورٌ",
+    "englishMeaning": "Breakfast",
+    "exampleSentence": "أَتَنَاوَلُ الْفُطُورَ صَبَاحًا"
+  },
+
+  {
+    "arabicWord": "مَنْزِلٌ",
+    "englishMeaning": "Home",
+    "exampleSentence": "مَنْزِلِي جَمِيلٌ"
+  },
+
+  {
+    "arabicWord": "مَكْتَبٌ",
+    "englishMeaning": "Office",
+    "exampleSentence": "أَعْمَلُ فِي مَكْتَبٍ"
+  },
+  {
+    "arabicWord": "مَكْتَبَةٌ",
+    "englishMeaning": "Library",
+    "exampleSentence": "أَذْهَبُ إِلَى الْمَكْتَبَةِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag",
+    "exampleSentence": "حَقِيبَتِي جَدِيدَةٌ"
+  },
+  {
+    "arabicWord": "سَبُّورَةٌ",
+    "englishMeaning": "Board",
+    "exampleSentence": "الْمُعَلِّمُ يَكْتُبُ عَلَى السَّبُّورَةِ"
+  }
+,
+  {
+    "arabicWord": "وَقْتٌ",
+    "englishMeaning": "Time",
+    "exampleSentence": "الْوَقْتُ مُهِمٌّ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Hour",
+    "exampleSentence": "سَأَعُودُ بَعْدَ سَاعَةٍ"
+  },
+  {
+    "arabicWord": "دَقِيقَةٌ",
+    "englishMeaning": "Minute",
+    "exampleSentence": "اِنْتَظِرْ دَقِيقَةً"
+  },
+
+  {
+    "arabicWord": "مَالٌ",
+    "englishMeaning": "Money",
+    "exampleSentence": "أُرِيدُ مَالًا"
+  },
+  {
+    "arabicWord": "عَمَلٌ",
+    "englishMeaning": "Work",
+    "exampleSentence": "أَذْهَبُ إِلَى الْعَمَلِ"
+  },
+
+  {
+    "arabicWord": "دُكَّانٌ",
+    "englishMeaning": "Shop",
+    "exampleSentence": "الدُّكَّانُ مَفْتُوحٌ"
+  },
+  {
+    "arabicWord": "شَارِعٌ",
+    "englishMeaning": "Street",
+    "exampleSentence": "الشَّارِعُ طَوِيلٌ"
+  },
+
+  {
+    "arabicWord": "سَيَّارَةٌ",
+    "englishMeaning": "Car",
+    "exampleSentence": "السَّيَّارَةُ سَرِيعَةٌ"
+  },
+  {
+    "arabicWord": "حَافِلَةٌ",
+    "englishMeaning": "Bus",
+    "exampleSentence": "أَرْكَبُ الْحَافِلَةَ"
+  },
+
+  {
+    "arabicWord": "مَدِينَةٌ",
+    "englishMeaning": "City",
+    "exampleSentence": "الْمَدِينَةُ كَبِيرَةٌ"
+  },
+  {
+    "arabicWord": "قَرْيَةٌ",
+    "englishMeaning": "Village",
+    "exampleSentence": "أَسْكُنُ فِي قَرْيَةٍ"
+  }
+,
+  {
+    "arabicWord": "دَرَّاجَةٌ",
+    "englishMeaning": "Bicycle",
+    "exampleSentence": "أَرْكَبُ الدَّرَّاجَةَ"
+  },
+  {
+    "arabicWord": "طَائِرَةٌ",
+    "englishMeaning": "Airplane",
+    "exampleSentence": "الطَّائِرَةُ سَرِيعَةٌ"
+  },
+
+  {
+    "arabicWord": "سَفَرٌ",
+    "englishMeaning": "Travel",
+    "exampleSentence": "أُحِبُّ السَّفَرَ"
+  },
+  {
+    "arabicWord": "رِحْلَةٌ",
+    "englishMeaning": "Trip",
+    "exampleSentence": "هَذِهِ رِحْلَةٌ جَمِيلَةٌ"
+  },
+
+  {
+    "arabicWord": "دُرُوسٌ",
+    "englishMeaning": "Lessons",
+    "exampleSentence": "عِنْدِي دُرُوسٌ كَثِيرَةٌ"
+  },
+  {
+    "arabicWord": "اِمْتِحَانٌ",
+    "englishMeaning": "Exam",
+    "exampleSentence": "الِامْتِحَانُ صَعْبٌ"
+  },
+
+  {
+    "arabicWord": "نَجَاحٌ",
+    "englishMeaning": "Success",
+    "exampleSentence": "النَّجَاحُ مُهِمٌّ"
+  },
+  {
+    "arabicWord": "رُسُوبٌ",
+    "englishMeaning": "Failure",
+    "exampleSentence": "الرُّسُوبُ لَيْسَ جَيِّدًا"
+  },
+
+  {
+    "arabicWord": "سُؤَالٌ",
+    "englishMeaning": "Question",
+    "exampleSentence": "عِنْدِي سُؤَالٌ"
+  },
+  {
+    "arabicWord": "جَوَابٌ",
+    "englishMeaning": "Answer",
+    "exampleSentence": "هَذَا جَوَابٌ صَحِيحٌ"
+  }
+,
+  {
+    "arabicWord": "حِسَابٌ",
+    "englishMeaning": "Account",
+    "exampleSentence": "هَذَا حِسَابِي"
+  },
+  {
+    "arabicWord": "كَلِمَةُ مُرُورٍ",
+    "englishMeaning": "Password",
+    "exampleSentence": "أَدْخِلْ كَلِمَةَ الْمُرُورِ"
+  },
+
+  {
+    "arabicWord": "اِتِّصَالٌ",
+    "englishMeaning": "Call",
+    "exampleSentence": "عِنْدِي اِتِّصَالٌ"
+  },
+  {
+    "arabicWord": "رِسَالَةٌ",
+    "englishMeaning": "Message",
+    "exampleSentence": "أُرْسِلُ رِسَالَةً"
+  },
+
+  {
+    "arabicWord": "شَبَكَةٌ",
+    "englishMeaning": "Network",
+    "exampleSentence": "الشَّبَكَةُ ضَعِيفَةٌ"
+  },
+  {
+    "arabicWord": "بَيَانَاتٌ",
+    "englishMeaning": "Data",
+    "exampleSentence": "اِسْتِخْدَامُ الْبَيَانَاتِ كَثِيرٌ"
+  },
+
+  {
+    "arabicWord": "سِعْرٌ",
+    "englishMeaning": "Price",
+    "exampleSentence": "السِّعْرُ مُرْتَفِعٌ"
+  },
+  {
+    "arabicWord": "خَصْمٌ",
+    "englishMeaning": "Discount",
+    "exampleSentence": "هُنَاكَ خَصْمٌ"
+  },
+
+  {
+    "arabicWord": "طَلَبٌ",
+    "englishMeaning": "Order",
+    "exampleSentence": "أُرِيدُ طَلَبًا"
+  },
+  {
+    "arabicWord": "دَفْعٌ",
+    "englishMeaning": "Payment",
+    "exampleSentence": "كَيْفَ الدَّفْعُ؟"
+  }
+,
+  {
+    "arabicWord": "مُسْتَشْفَى",
+    "englishMeaning": "Hospital",
+    "exampleSentence": "أَذْهَبُ إِلَى الْمُسْتَشْفَى"
+  },
+  {
+    "arabicWord": "صَيْدَلِيَّةٌ",
+    "englishMeaning": "Pharmacy",
+    "exampleSentence": "أَشْتَرِي دَوَاءً مِنَ الصَّيْدَلِيَّةِ"
+  },
+
+  {
+    "arabicWord": "مَحَطَّةٌ",
+    "englishMeaning": "Station",
+    "exampleSentence": "الْحَافِلَةُ فِي الْمَحَطَّةِ"
+  },
+  {
+    "arabicWord": "قِطَارٌ",
+    "englishMeaning": "Train",
+    "exampleSentence": "الْقِطَارُ سَرِيعٌ"
+  },
+
+  {
+    "arabicWord": "مُدِيرٌ",
+    "englishMeaning": "Manager",
+    "exampleSentence": "الْمُدِيرُ فِي الْمَكْتَبِ"
+  },
+  {
+    "arabicWord": "زَمِيلٌ",
+    "englishMeaning": "Colleague",
+    "exampleSentence": "زَمِيلِي لَطِيفٌ"
+  },
+
+  {
+    "arabicWord": "اِسْتِرَاحَةٌ",
+    "englishMeaning": "Break/Rest",
+    "exampleSentence": "آخُذُ اِسْتِرَاحَةً"
+  },
+  {
+    "arabicWord": "عُطْلَةٌ",
+    "englishMeaning": "Holiday",
+    "exampleSentence": "عِنْدِي عُطْلَةٌ"
+  },
+
+  {
+    "arabicWord": "تَعَبٌ",
+    "englishMeaning": "Fatigue",
+    "exampleSentence": "أَشْعُرُ بِالتَّعَبِ"
+  },
+  {
+    "arabicWord": "رَاحَةٌ",
+    "englishMeaning": "راحة/Comfort",
+    "exampleSentence": "أُرِيدُ رَاحَةً"
+  }
+,
+  {
+    "arabicWord": "مُسَاعَدَةٌ طَارِئَةٌ",
+    "englishMeaning": "Emergency help",
+    "exampleSentence": "أَحْتَاجُ مُسَاعَدَةً طَارِئَةً"
+  },
+  {
+    "arabicWord": "رَقْمُ الطَّوَارِئِ",
+    "englishMeaning": "Emergency number",
+    "exampleSentence": "اِتَّصِلْ بِرَقْمِ الطَّوَارِئِ"
+  },
+
+  {
+    "arabicWord": "مَكْتَبُ التَّذَاكِرِ",
+    "englishMeaning": "Ticket office",
+    "exampleSentence": "أَذْهَبُ إِلَى مَكْتَبِ التَّذَاكِرِ"
+  },
+  {
+    "arabicWord": "بِطَاقَةُ صُعُودٍ",
+    "englishMeaning": "Boarding pass",
+    "exampleSentence": "أَيْنَ بِطَاقَةُ الصُّعُودِ؟"
+  },
+
+  {
+    "arabicWord": "مُكَالَمَةٌ",
+    "englishMeaning": "Phone call",
+    "exampleSentence": "عِنْدِي مُكَالَمَةٌ"
+  },
+  {
+    "arabicWord": "مُكَالَمَةٌ فَائِتَةٌ",
+    "englishMeaning": "Missed call",
+    "exampleSentence": "عِنْدِي مُكَالَمَةٌ فَائِتَةٌ"
+  },
+
+  {
+    "arabicWord": "تَطْبِيقٌ",
+    "englishMeaning": "App/Application",
+    "exampleSentence": "هَذَا تَطْبِيقٌ جَدِيدٌ"
+  },
+  {
+    "arabicWord": "تَحْمِيلٌ",
+    "englishMeaning": "Download",
+    "exampleSentence": "التَّحْمِيلُ بَطِيءٌ"
+  },
+
+  {
+    "arabicWord": "تَسْجِيلٌ",
+    "englishMeaning": "Registration",
+    "exampleSentence": "أُكْمِلُ التَّسْجِيلَ"
+  },
+  {
+    "arabicWord": "تَسْجِيلُ الدُّخُولِ",
+    "englishMeaning": "Login",
+    "exampleSentence": "أُدْخِلُ تَسْجِيلَ الدُّخُولِ"
+  }
+,
+  {
+    "arabicWord": "حِسَابٌ بَنْكِيٌّ",
+    "englishMeaning": "Bank account",
+    "exampleSentence": "لَدَيَّ حِسَابٌ بَنْكِيٌّ"
+  },
+  {
+    "arabicWord": "سَحْبٌ",
+    "englishMeaning": "Withdrawal",
+    "exampleSentence": "أُرِيدُ سَحْبَ نُقُودٍ"
+  },
+  {
+    "arabicWord": "إِيدَاعٌ",
+    "englishMeaning": "Deposit",
+    "exampleSentence": "أَقُومُ بِإِيدَاعٍ"
+  },
+
+  {
+    "arabicWord": "عَقْدٌ",
+    "englishMeaning": "Contract",
+    "exampleSentence": "أُوَقِّعُ الْعَقْدَ"
+  },
+  {
+    "arabicWord": "مَالِكٌ",
+    "englishMeaning": "Owner",
+    "exampleSentence": "الْمَالِكُ طَيِّبٌ"
+  },
+
+  {
+    "arabicWord": "مَوْقِعٌ",
+    "englishMeaning": "Location",
+    "exampleSentence": "هَذَا الْمَوْقِعُ جَيِّدٌ"
+  },
+  {
+    "arabicWord": "مَسَافَةٌ",
+    "englishMeaning": "Distance",
+    "exampleSentence": "الْمَسَافَةُ بَعِيدَةٌ"
+  },
+
+  {
+    "arabicWord": "تَوْقِيتٌ",
+    "englishMeaning": "Timing",
+    "exampleSentence": "التَّوْقِيتُ مُهِمٌّ"
+  },
+  {
+    "arabicWord": "تَأْكِيدٌ",
+    "englishMeaning": "Confirmation",
+    "exampleSentence": "أَحْتَاجُ تَأْكِيدًا"
+  },
+
+  {
+    "arabicWord": "إِشَارَةٌ",
+    "englishMeaning": "Signal",
+    "exampleSentence": "الإِشَارَةُ ضَعِيفَةٌ"
+  },
+  {
+    "arabicWord": "تَغْطِيَةٌ",
+    "englishMeaning": "Coverage",
+    "exampleSentence": "التَّغْطِيَةُ جَيِّدَةٌ"
+  }
+,
+  {
+    "arabicWord": "خِدْمَةُ الْعُمَلَاءِ",
+    "englishMeaning": "Customer service",
+    "exampleSentence": "أَتَّصِلُ بِخِدْمَةِ الْعُمَلَاءِ"
+  },
+  {
+    "arabicWord": "دَعْمٌ فَنِّيٌّ",
+    "englishMeaning": "Technical support",
+    "exampleSentence": "أَحْتَاجُ دَعْمًا فَنِّيًّا"
+  },
+
+  {
+    "arabicWord": "مَرْكَزُ صِيَانَةٍ",
+    "englishMeaning": "Service center",
+    "exampleSentence": "أَذْهَبُ إِلَى مَرْكَزِ الصِّيَانَةِ"
+  },
+  {
+    "arabicWord": "قِطْعَةُ غِيَارٍ",
+    "englishMeaning": "Spare part",
+    "exampleSentence": "أَحْتَاجُ قِطْعَةَ غِيَارٍ"
+  },
+
+  {
+    "arabicWord": "طَلَبٌ خَاصٌّ",
+    "englishMeaning": "Special order",
+    "exampleSentence": "هَذَا طَلَبٌ خَاصٌّ"
+  },
+  {
+    "arabicWord": "طَلَبٌ مُسْتَعْجِلٌ",
+    "englishMeaning": "Urgent order",
+    "exampleSentence": "هَذَا طَلَبٌ مُسْتَعْجِلٌ"
+  },
+
+  {
+    "arabicWord": "مَوْعِدُ التَّسْلِيمِ",
+    "englishMeaning": "Delivery time",
+    "exampleSentence": "مَوْعِدُ التَّسْلِيمِ غَدًا"
+  },
+  {
+    "arabicWord": "تَأْخِيرُ التَّسْلِيمِ",
+    "englishMeaning": "Delivery delay",
+    "exampleSentence": "هُنَاكَ تَأْخِيرُ التَّسْلِيمِ"
+  },
+
+  {
+    "arabicWord": "جَوْدَةٌ",
+    "englishMeaning": "Quality",
+    "exampleSentence": "الْجَوْدَةُ عَالِيَةٌ"
+  },
+  {
+    "arabicWord": "ضَمَانٌ",
+    "englishMeaning": "Warranty",
+    "exampleSentence": "هَلْ هُنَاكَ ضَمَانٌ؟"
+  }
+,
+  {
+    "arabicWord": "وَصْفَةُ أَكْلٍ",
+    "englishMeaning": "Food recipe",
+    "exampleSentence": "أُحِبُّ تَجْرِبَةَ وَصْفَةٍ جَدِيدَةٍ"
+  },
+  {
+    "arabicWord": "مَوْقِفُ طَوَارِئ",
+    "englishMeaning": "Emergency stop",
+    "exampleSentence": "اضْغَطْ عَلَى مَوْقِفِ الطَّوَارِئِ فِي الحَافِلَةِ"
+  },
+  {
+    "arabicWord": "خِدْمَةُ طَبِيبٍ",
+    "englishMeaning": "Doctor service",
+    "exampleSentence": "أَحْتَاجُ خِدْمَةَ طَبِيبٍ سَرِيعًا"
+  },
+  {
+    "arabicWord": "سَاعَةُ صَفٍّ",
+    "englishMeaning": "Class hour",
+    "exampleSentence": "سَاعَةُ الصَّفِّ بَدَأَتْ"
+  },
+  {
+    "arabicWord": "مَكْتَبَةٌ",
+    "englishMeaning": "Library",
+    "exampleSentence": "أَدْرُسُ فِي المَكْتَبَةِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ قِطَارٍ",
+    "englishMeaning": "Train station",
+    "exampleSentence": "أَصِلُ إِلَى مَحَطَّةِ القِطَارِ قَبْلَ السَّاعَةِ الثَّانِيَةِ"
+  },
+  {
+    "arabicWord": "تَأْمِينٌ صِحِيّ",
+    "englishMeaning": "Health insurance",
+    "exampleSentence": "هَلْ لَدَيْكَ تَأْمِينٌ صِحِيّ؟"
+  },
+  {
+    "arabicWord": "طَارِئٌ صِحِّيّ",
+    "englishMeaning": "Health emergency",
+    "exampleSentence": "حَدَثَ طَارِئٌ صِحِّيّ فِي المَنْزِلِ"
+  }
+,
+  {
+    "arabicWord": "مَاءٌ",
+    "englishMeaning": "Water",
+    "exampleSentence": "أَشْرَبُ الْمَاءَ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "طَعَامٌ",
+    "englishMeaning": "Food",
+    "exampleSentence": "أُحِبُ الطَّعَامَ اللَّذِي تُعِدُّهُ أُمِّي"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا كُلَّ لَيْلَةٍ"
+  },
+  {
+    "arabicWord": "مَدْرَسَةٌ",
+    "englishMeaning": "School",
+    "exampleSentence": "أَذْهَبُ إِلَى الْمَدْرَسَةِ صَبَاحًا"
+  },
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "أَكْتُبُ بِالْقَلَمِ عَلَى الْوَرَقِ"
+  }
+,
+  {
+    "arabicWord": "سَيَّارَةٌ",
+    "englishMeaning": "Car",
+    "exampleSentence": "أَمْتَلِكُ سَيَّارَةً جَدِيدَةً"
+  },
+  {
+    "arabicWord": "دَرَّاجَةٌ",
+    "englishMeaning": "Bicycle",
+    "exampleSentence": "أُسَافِرُ بِالدَّرَّاجَةِ إِلَى الْمَدْرَسَةِ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ",
+    "englishMeaning": "Phone",
+    "exampleSentence": "أَتَحَدَّثُ فِي الْهَاتِفِ مَعَ صَدِيقِي"
+  },
+  {
+    "arabicWord": "حِاسُوبٌ",
+    "englishMeaning": "Computer",
+    "exampleSentence": "أَسْتَخْدِمُ الْحِاسُوبَ لِلدِّرَاسَةِ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Clock / Watch",
+    "exampleSentence": "أَنَا أَنظُرُ إِلَى السَّاعَةِ كُلَّ صَبَاحٍ"
+  },
+  {
+    "arabicWord": "مَكْتَبٌ",
+    "englishMeaning": "Desk / Office",
+    "exampleSentence": "أَجْلِسُ عَلَى الْمَكْتَبِ لِلْعَمَلِ"
+  },
+  {
+    "arabicWord": "كُرْسِيٌّ",
+    "englishMeaning": "Chair",
+    "exampleSentence": "أَجْلِسُ عَلَى الْكُرْسِيِّ فِي الْغُرْفَةِ"
+  },
+  {
+    "arabicWord": "نَافِذَةٌ",
+    "englishMeaning": "Window",
+    "exampleSentence": "أَفْتَحُ النَّافِذَةَ لِلدُّخُولِ النَّسِيمِ"
+  },
+  {
+    "arabicWord": "بَابٌ",
+    "englishMeaning": "Door",
+    "exampleSentence": "أُغْلِقُ الْبَابَ قَبْلَ النَّوْمِ"
+  },
+  {
+    "arabicWord": "سَجَادَةٌ",
+    "englishMeaning": "Carpet / Prayer rug",
+    "exampleSentence": "أَرْتَكِبُ السَّجَادَةَ فِي الْغُرْفَةِ"
+  }
+,
+  {
+    "arabicWord": "صَبَاحُ الْخَيْرِ",
+    "englishMeaning": "Good morning",
+    "exampleSentence": "صَبَاحُ الْخَيْرِ، كَيْفَ نِمْتَ اللَّيْلَةَ؟"
+  },
+  {
+    "arabicWord": "مَسَاءُ الْخَيْرِ",
+    "englishMeaning": "Good evening",
+    "exampleSentence": "مَسَاءُ الْخَيْرِ، كَيْفَ كَانَ يَوْمُكَ؟"
+  },
+  {
+    "arabicWord": "كَيْفَ حَالُكَ؟",
+    "englishMeaning": "How are you?",
+    "exampleSentence": "كَيْفَ حَالُكَ الْيَوْمَ؟"
+  },
+  {
+    "arabicWord": "أَنَا بِخَيْرٍ، شُكْرًا",
+    "englishMeaning": "I am fine, thank you",
+    "exampleSentence": "أَنَا بِخَيْرٍ، شُكْرًا عَلَى سُؤَالِكَ"
+  },
+  {
+    "arabicWord": "مَعَ السَّلَامَةِ",
+    "englishMeaning": "Goodbye",
+    "exampleSentence": "إِلَى الْقَاءِ، مَعَ السَّلَامَةِ"
+  },
+  {
+    "arabicWord": "أَيْنَ الْمَطْعَمُ؟",
+    "englishMeaning": "Where is the restaurant?",
+    "exampleSentence": "هَلْ تَعْلَمُ أَيْنَ الْمَطْعَمُ؟"
+  },
+  {
+    "arabicWord": "أُرِيدُ أَنْ أَذْهَبَ إِلَى...",
+    "englishMeaning": "I want to go to...",
+    "exampleSentence": "أُرِيدُ أَنْ أَذْهَبَ إِلَى السُّوقِ"
+  },
+  {
+    "arabicWord": "كَمْ السَّاعَةُ؟",
+    "englishMeaning": "What time is it?",
+    "exampleSentence": "مُمكِنٌ أَنْ تُخْبِرَنِي كَمْ السَّاعَةُ؟"
+  },
+  {
+    "arabicWord": "أَكَلْتُ فُطُورِي",
+    "englishMeaning": "I ate my breakfast",
+    "exampleSentence": "صَبَاحَ الْيَوْمِ، أَكَلْتُ فُطُورِي فِي الْمَنْزِلِ"
+  },
+  {
+    "arabicWord": "أَحْتَاجُ إِلَى الْمَسَاعَدَةِ",
+    "englishMeaning": "I need help",
+    "exampleSentence": "لَوْ سَمَحْتَ، أَحْتَاجُ إِلَى الْمَسَاعَدَةِ"
+  }
+,
+  {
+    "arabicWord": "أَيْنَ الْحَمَّامُ؟",
+    "englishMeaning": "Where is the bathroom?",
+    "exampleSentence": "مُمكِنٌ أَنْ تُرِينِي أَيْنَ الْحَمَّامُ؟"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكُمُ الْمُسَاعَدَةَ؟",
+    "englishMeaning": "Can you help me?",
+    "exampleSentence": "هَلْ يُمْكِنُكُمُ الْمُسَاعَدَةَ فِي الْمَطْعَمِ؟"
+  },
+  {
+    "arabicWord": "أَنَا جَائِعٌ",
+    "englishMeaning": "I am hungry",
+    "exampleSentence": "أَنَا جَائِعٌ، هَلْ نَذْهَبُ إِلَى الْمَطْعَمِ؟"
+  },
+  {
+    "arabicWord": "أَنَا عَطْشَانُ",
+    "englishMeaning": "I am thirsty",
+    "exampleSentence": "أَنَا عَطْشَانُ، أُرِيدُ زُجَاجَةَ مَاءٍ"
+  },
+  {
+    "arabicWord": "أُحِبُّ الْقِرَاءَةَ",
+    "englishMeaning": "I love reading",
+    "exampleSentence": "أُحِبُّ الْقِرَاءَةَ فِي الْمَكْتَبَةِ"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ مُسْتَعِدٌّ؟",
+    "englishMeaning": "Are you ready?",
+    "exampleSentence": "هَلْ أَنْتَ مُسْتَعِدٌّ لِلذَّهَابِ إِلَى الْمَدْرَسَةِ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ السُّوقُ؟",
+    "englishMeaning": "Where is the market?",
+    "exampleSentence": "أَيْنَ أَقْرَبُ سُوقٍ مِنْ هُنَا؟"
+  },
+  {
+    "arabicWord": "كَمْ الثَّمَنُ؟",
+    "englishMeaning": "How much is it?",
+    "exampleSentence": "مُمكِنٌ أَنْ تُخْبِرَنِي كَمْ الثَّمَنُ هَذَا؟"
+  },
+  {
+    "arabicWord": "أَنَا أُسَافِرُ غَدًا",
+    "englishMeaning": "I am traveling tomorrow",
+    "exampleSentence": "أَنَا أُسَافِرُ غَدًا إِلَى الْمَدِينَةِ الْجَدِيدَةِ"
+  },
+  {
+    "arabicWord": "مَتَى سَنَتَقَابَلُ؟",
+    "englishMeaning": "When will we meet?",
+    "exampleSentence": "مَتَى سَنَتَقَابَلُ فِي الْمَدْرَسَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا مُتْعَبٌ",
+    "englishMeaning": "I am tired",
+    "exampleSentence": "بَعْدَ النَّوْمِ قَلِيلًا، أَنَا مُتْعَبٌ"
+  },
+  {
+    "arabicWord": "أُرِيدُ شُرْبَ قَهْوَةٍ",
+    "englishMeaning": "I want to drink coffee",
+    "exampleSentence": "أُرِيدُ شُرْبَ قَهْوَةٍ بَعْدَ الْغَدَاءِ"
+  },
+  {
+    "arabicWord": "مَا هَذَا؟",
+    "englishMeaning": "What is this?",
+    "exampleSentence": "مَا هَذَا الْكِتَابُ عَلَى الْمَكْتَبِ؟"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ مِنْ هُنَا؟",
+    "englishMeaning": "Are you from here?",
+    "exampleSentence": "هَلْ أَنْتَ مِنْ هُنَا أَمْ مِنْ بَلَدٍ آخَر؟"
+  },
+  {
+    "arabicWord": "أَنَا أَدْرُسُ الْعَرَبِيَّةَ",
+    "englishMeaning": "I study Arabic",
+    "exampleSentence": "أَنَا أَدْرُسُ الْعَرَبِيَّةَ لِلتَّحَدُّثِ مَعَ النَّاسِ"
+  }
+  ,
+  
+  {
+    "arabicWord": "أَنَا أَسْكُنُ فِي بَيْتٍ صَغِيرٍ",
+    "englishMeaning": "I live in a small house",
+    "exampleSentence": "أَنَا أَسْكُنُ فِي بَيْتٍ صَغِيرٍ مَعَ عَائِلَتِي"
+  },
+  {
+    "arabicWord": "هَلْ تُحِبُّ الرِّيَاضَةَ؟",
+    "englishMeaning": "Do you like sports?",
+    "exampleSentence": "هَلْ تُحِبُّ الرِّيَاضَةَ أَمْ تَفَضِّلُ القِرَاءَةَ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَعْمَلُ فِي مَكْتَبٍ",
+    "englishMeaning": "I work in an office",
+    "exampleSentence": "أَنَا أَعْمَلُ فِي مَكْتَبٍ كَبِيرٍ فِي المَدِينَةِ"
+  },
+  {
+    "arabicWord": "أُرِيدُ شِرَاءَ خُبْزٍ",
+    "englishMeaning": "I want to buy bread",
+    "exampleSentence": "أُرِيدُ شِرَاءَ خُبْزٍ طَازَجٍ مِنَ الْمَخْبَزِ"
+  },
+  {
+    "arabicWord": "مَا اسْمُكَ؟",
+    "englishMeaning": "What is your name?",
+    "exampleSentence": "مَا اسْمُكَ وَمِنْ أَيْنَ أَنْتَ؟"
+  },
+  {
+    "arabicWord": "هَلْ تَتَكَلَّمُ إِنْجِلِيزِيَّةً؟",
+    "englishMeaning": "Do you speak English?",
+    "exampleSentence": "هَلْ تَتَكَلَّمُ إِنْجِلِيزِيَّةً لِأَنِّي أُرِيدُ الْمُسَاعَدَةَ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ السَّفَرَ",
+    "englishMeaning": "I love traveling",
+    "exampleSentence": "أَنَا أُحِبُّ السَّفَرَ إِلَى الْبِلَادِ الْجَدِيدَةِ"
+  },
+  {
+    "arabicWord": "أَيْنَ الْمَكْتَبَةُ؟",
+    "englishMeaning": "Where is the library?",
+    "exampleSentence": "أَيْنَ الْمَكْتَبَةُ لِأَذْهَبَ لِلقِرَاءَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَشْتَرِي الْخُضَرَ وَالْفَوَاكِهَ",
+    "englishMeaning": "I buy vegetables and fruits",
+    "exampleSentence": "أَنَا أَشْتَرِي الْخُضَرَ وَالْفَوَاكِهَ مِنَ السُّوقِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكُمُ إِعَادَةَ ذَلِكَ؟",
+    "englishMeaning": "Can you repeat that?",
+    "exampleSentence": "هَلْ يُمْكِنُكُمُ إِعَادَةَ ذَلِكَ بِبُطْءٍ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ الطَّعَامَ الْمَحَلِّيّ",
+    "englishMeaning": "I love local food",
+    "exampleSentence": "أَنَا أُحِبُّ الطَّعَامَ الْمَحَلِّيّ وَالْمَشْرُوبَاتِ الطَّازَجَةِ"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ جَاهِزٌ لِلمَسَافَرَةِ؟",
+    "englishMeaning": "Are you ready for the trip?",
+    "exampleSentence": "هَلْ أَنْتَ جَاهِزٌ لِلمَسَافَرَةِ غَدًا؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ التَّعَلُّمَ",
+    "englishMeaning": "I want to learn",
+    "exampleSentence": "أَنَا أُرِيدُ التَّعَلُّمَ الْعَرَبِيَّةَ وَالْإِنْجِلِيزِيَّةَ"
+  },
+  {
+    "arabicWord": "أَيْنَ أَقْرَبُ مَسْجِدٍ؟",
+    "englishMeaning": "Where is the nearest mosque?",
+    "exampleSentence": "أَيْنَ أَقْرَبُ مَسْجِدٍ لِلصَّلَاةِ؟"
+  },
+  {
+    "arabicWord": "مَا هِيَ هِوَايَتُكَ؟",
+    "englishMeaning": "What is your hobby?",
+    "exampleSentence": "مَا هِيَ هِوَايَتُكَ وَمَاذَا تُحِبُّ أَنْ تَفْعَلَ فِي وَقْتِ فَرَاغِكَ؟"
+  }
+,
+  {
+    "arabicWord": "أَنَا جَائِعٌ",
+    "englishMeaning": "I am hungry",
+    "exampleSentence": "أَنَا جَائِعٌ فِي هَذَا الصَّبَاحِ"
+  },
+  {
+    "arabicWord": "هَلْ لَدَيْكَ وَقْتٌ؟",
+    "englishMeaning": "Do you have time?",
+    "exampleSentence": "هَلْ لَدَيْكَ وَقْتٌ لِلذِّهَابِ إِلَى المَكْتَبَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا عَطْشَانُ",
+    "englishMeaning": "I am thirsty",
+    "exampleSentence": "أَنَا عَطْشَانُ، أُرِيدُ شُرْبَ مَاءِ"
+  },
+  {
+    "arabicWord": "مَا هُوَ الرَّقْمُ؟",
+    "englishMeaning": "What is the number?",
+    "exampleSentence": "مَا هُوَ رَقْمُ هَاتِفِكَ لِلتَّوَاصُلِ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ السُّوقُ؟",
+    "englishMeaning": "Where is the market?",
+    "exampleSentence": "أَيْنَ السُّوقُ لِشِرَاءِ الْخُضَرِ؟"
+  },
+  {
+    "arabicWord": "هَلْ تَفْهَمُ؟",
+    "englishMeaning": "Do you understand?",
+    "exampleSentence": "هَلْ تَفْهَمُ مَا قُلْتُهُ؟"
+  },
+  {
+    "arabicWord": "أَنَا مُتْعَبٌ",
+    "englishMeaning": "I am tired",
+    "exampleSentence": "أَنَا مُتْعَبٌ بَعْدَ اليَوْمِ الطَّوِيلِ"
+  },
+  {
+    "arabicWord": "مَا هِيَ السَّاعَةُ؟",
+    "englishMeaning": "What time is it?",
+    "exampleSentence": "مَا هِيَ السَّاعَةُ الآنَ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ الْقِرَاءَةَ",
+    "englishMeaning": "I love reading",
+    "exampleSentence": "أَنَا أُحِبُّ الْقِرَاءَةَ فِي الْوَقْتِ الْفَرَاغِ"
+  },
+  {
+    "arabicWord": "مَا طَعْمُ هَذَا الطَّعَامِ؟",
+    "englishMeaning": "How does this food taste?",
+    "exampleSentence": "مَا طَعْمُ هَذَا الطَّعَامِ؟ هَلْ هُوَ لَذِيذٌ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ الْمَطْعَمُ؟",
+    "englishMeaning": "Where is the restaurant?",
+    "exampleSentence": "أَيْنَ الْمَطْعَمُ لِتَنَاوُلِ الْغَدَاءِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَسْتَمِعُ إِلَى الْمُوسِيقَى",
+    "englishMeaning": "I am listening to music",
+    "exampleSentence": "أَنَا أَسْتَمِعُ إِلَى الْمُوسِيقَى فِي الْمَنْزِلِ"
+  },
+  {
+    "arabicWord": "هَلْ تُحِبُّ السِّيَارَةَ؟",
+    "englishMeaning": "Do you like driving?",
+    "exampleSentence": "هَلْ تُحِبُّ السِّيَارَةَ فِي الْمَدِينَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ أَنْ أَذْهَبَ إِلَى السَّاحِلِ",
+    "englishMeaning": "I want to go to the beach",
+    "exampleSentence": "أَنَا أُرِيدُ أَنْ أَذْهَبَ إِلَى السَّاحِلِ لِلِاسْتِرْخَاءِ"
+  },
+  {
+    "arabicWord": "هَلْ تُرِيدُ شُرْبَ قَهْوَةٍ؟",
+    "englishMeaning": "Do you want to drink coffee?",
+    "exampleSentence": "هَلْ تُرِيدُ شُرْبَ قَهْوَةٍ أَوْ شَايٍ؟"
+  }
+,
+  {
+    "arabicWord": "أَنَا سَعِيدٌ",
+    "englishMeaning": "I am happy",
+    "exampleSentence": "أَنَا سَعِيدٌ بِالرُّؤْيَةِ صَدِيقِي"
+  },
+  {
+    "arabicWord": "مَا هِيَ خُطَطُكَ لِلْعُطْلَةِ؟",
+    "englishMeaning": "What are your plans for the holiday?",
+    "exampleSentence": "مَا هِيَ خُطَطُكَ لِلْعُطْلَةِ الْقَادِمَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ الْمُسَاعَدَةَ",
+    "englishMeaning": "I need help",
+    "exampleSentence": "أَنَا أُرِيدُ الْمُسَاعَدَةَ فِي فَهْمِ الدَّرْسِ"
+  },
+  {
+    "arabicWord": "هَلْ تَسْكُنُ هُنَا؟",
+    "englishMeaning": "Do you live here?",
+    "exampleSentence": "هَلْ تَسْكُنُ هُنَا فِي هَذِهِ الْمَدِينَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَسِيرُ إِلَى الْمَدْرَسَةِ",
+    "englishMeaning": "I am walking to school",
+    "exampleSentence": "أَنَا أَسِيرُ إِلَى الْمَدْرَسَةِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "مَا هُوَ طَعْمُ الْفَاكِهَةِ؟",
+    "englishMeaning": "How does the fruit taste?",
+    "exampleSentence": "مَا هُوَ طَعْمُ الْفَاكِهَةِ؟ هَلْ هِيَ حُلْوَةٌ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ شِرَاءَ الْخُضَرِ",
+    "englishMeaning": "I want to buy vegetables",
+    "exampleSentence": "أَنَا أُرِيدُ شِرَاءَ الْخُضَرِ مِنَ السُّوقِ"
+  },
+  {
+    "arabicWord": "هَلْ تَفَضِّلُ الشَّايَ أَمِ الْقَهْوَةَ؟",
+    "englishMeaning": "Do you prefer tea or coffee?",
+    "exampleSentence": "هَلْ تَفَضِّلُ الشَّايَ أَمِ الْقَهْوَةَ فِي الصَّبَاحِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَعْمَلُ فِي الْمَكْتَبِ",
+    "englishMeaning": "I work in the office",
+    "exampleSentence": "أَنَا أَعْمَلُ فِي الْمَكْتَبِ كُلَّ يَوْمٍ مِنَ الثَّامِنَةِ إِلَى الْخَامِسَةِ"
+  },
+  {
+    "arabicWord": "مَا هِيَ هِوَايَاتُكَ؟",
+    "englishMeaning": "What are your hobbies?",
+    "exampleSentence": "مَا هِيَ هِوَايَاتُكَ فِي الْوَقْتِ الْفَرَاغِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ السَّفَرَ",
+    "englishMeaning": "I love traveling",
+    "exampleSentence": "أَنَا أُحِبُّ السَّفَرَ إِلَى دُوَلٍ مُخْتَلِفَةٍ"
+  },
+  {
+    "arabicWord": "هَلْ تَعْرِفُ هَذِهِ الشَّخْصِيَّةَ؟",
+    "englishMeaning": "Do you know this person?",
+    "exampleSentence": "هَلْ تَعْرِفُ هَذِهِ الشَّخْصِيَّةَ فِي الصُّورَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ أَنْ أَتَعَلَّمَ الْعَرَبِيَّةَ",
+    "englishMeaning": "I want to learn Arabic",
+    "exampleSentence": "أَنَا أُرِيدُ أَنْ أَتَعَلَّمَ الْعَرَبِيَّةَ لِلتَّحَدُّثِ مَعَ النَّاسِ"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ جَاهِزٌ؟",
+    "englishMeaning": "Are you ready?",
+    "exampleSentence": "هَلْ أَنْتَ جَاهِزٌ لِلذِّهَابِ إِلَى الْمَدْرَسَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ الرِّيَاضَةَ",
+    "englishMeaning": "I love sports",
+    "exampleSentence": "أَنَا أُحِبُّ الرِّيَاضَةَ وَأَلْعَبُ كُرَةَ الْقَدَمِ"
+  }
+,
+  {
+    "arabicWord": "أَنَا جَوْعَانٌ",
+    "englishMeaning": "I am hungry",
+    "exampleSentence": "أَنَا جَوْعَانٌ وَأُرِيدُ أَنْ أَأْكُلَ"
+  },
+  {
+    "arabicWord": "أَنَا عَطْشَانُ",
+    "englishMeaning": "I am thirsty",
+    "exampleSentence": "أَنَا عَطْشَانُ فَهَلْ هُنَاكَ مَاءٌ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ الْمَسْجِدُ؟",
+    "englishMeaning": "Where is the mosque?",
+    "exampleSentence": "أَيْنَ الْمَسْجِدُ فِي هَذِهِ الْمَدِينَةِ؟"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+    "englishMeaning": "Can you help me?",
+    "exampleSentence": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي وَجْهِ هَذِهِ الْمُشْكِلَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا تَعْبَانٌ",
+    "englishMeaning": "I am tired",
+    "exampleSentence": "أَنَا تَعْبَانٌ بَعْدَ يَوْمٍ طَوِيلٍ مِنَ الْعَمَلِ"
+  },
+  {
+    "arabicWord": "مَا هِيَ السَّاعَةُ؟",
+    "englishMeaning": "What time is it?",
+    "exampleSentence": "مَا هِيَ السَّاعَةُ الآنَ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ الْمَطْعَمُ الْقَرِيبُ؟",
+    "englishMeaning": "Where is the nearest restaurant?",
+    "exampleSentence": "أَيْنَ الْمَطْعَمُ الْقَرِيبُ لِتَنَاوُلِ الْغَدَاءِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ الْقِرَاءَةَ",
+    "englishMeaning": "I love reading",
+    "exampleSentence": "أَنَا أُحِبُّ الْقِرَاءَةَ فِي وَقْتِ الْفَرَاغِ"
+  },
+  {
+    "arabicWord": "هَلْ تُرِيدُ أَنْ تَذْهَبَ مَعِي؟",
+    "englishMeaning": "Do you want to go with me?",
+    "exampleSentence": "هَلْ تُرِيدُ أَنْ تَذْهَبَ مَعِي إِلَى السُّوقِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ",
+    "englishMeaning": "I am learning Arabic",
+    "exampleSentence": "أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ لِلتَّحَدُّثِ مَعَ النَّاسِ"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ جَائِزٌ؟",
+    "englishMeaning": "Are you ready?",
+    "exampleSentence": "هَلْ أَنْتَ جَائِزٌ لِلذِّهَابِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ السِّيَاحَةَ",
+    "englishMeaning": "I love tourism/traveling",
+    "exampleSentence": "أَنَا أُحِبُّ السِّيَاحَةَ وَاسْتِكْشَافَ دُوَلٍ جَدِيدَةٍ"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ مُسْتَعِدٌ لِلْامْتِحَانِ؟",
+    "englishMeaning": "Are you ready for the exam?",
+    "exampleSentence": "هَلْ أَنْتَ مُسْتَعِدٌ لِلْامْتِحَانِ غَدًا؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ السَّفَرَ بِالطَّائِرَةِ",
+    "englishMeaning": "I love traveling by plane",
+    "exampleSentence": "أَنَا أُحِبُّ السَّفَرَ بِالطَّائِرَةِ لِزِيَارَةِ دُوَلٍ بَعِيدَةٍ"
+  },
+  {
+    "arabicWord": "هَلْ تَتَكَلَّمُ الْإِنْجِلِيزِيَّةَ؟",
+    "englishMeaning": "Do you speak English?",
+    "exampleSentence": "هَلْ تَتَكَلَّمُ الْإِنْجِلِيزِيَّةَ بِطَلاَقَةٍ؟"
+  }
+,
+  {
+    "arabicWord": "أَنَا مَرِيضٌ",
+    "englishMeaning": "I am sick",
+    "exampleSentence": "أَنَا مَرِيضٌ وَأَحْتَاجُ إِلَى طَبِيبٍ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكَ تَكْلِيمُ الطَّبِيبِ؟",
+    "englishMeaning": "Can you call the doctor?",
+    "exampleSentence": "هَلْ يُمْكِنُكَ تَكْلِيمُ الطَّبِيبِ فِي أَقْرَبِ وَقْتٍ؟"
+  },
+  {
+    "arabicWord": "أَيْنَ الصَّيْدَلِيَّةُ؟",
+    "englishMeaning": "Where is the pharmacy?",
+    "exampleSentence": "أَيْنَ الصَّيْدَلِيَّةُ لِشِرَاءِ الدَّوَاءِ؟"
+  },
+  {
+    "arabicWord": "هَلْ تَشْعُرُ بِالآلَامِ؟",
+    "englishMeaning": "Do you feel pain?",
+    "exampleSentence": "هَلْ تَشْعُرُ بِالآلَامِ فِي رِجْلِكَ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ شُرْبَ مَاءٍ",
+    "englishMeaning": "I want to drink water",
+    "exampleSentence": "أَنَا أُرِيدُ شُرْبَ مَاءٍ بَعْدَ الْعَمَلِ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُنَا الْذِّهَابُ إِلَى السُّوقِ؟",
+    "englishMeaning": "Can we go to the market?",
+    "exampleSentence": "هَلْ يُمْكِنُنَا الْذِّهَابُ إِلَى السُّوقِ لِشِرَاءِ الْخُضَرِ؟"
+  },
+  {
+    "arabicWord": "كَمْ سِعْرُ هَذَا؟",
+    "englishMeaning": "How much is this?",
+    "exampleSentence": "كَمْ سِعْرُ هَذَا الْفَاكِهَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ شِرَاءَ هَدِيَّةٍ",
+    "englishMeaning": "I want to buy a gift",
+    "exampleSentence": "أَنَا أُرِيدُ شِرَاءَ هَدِيَّةٍ لِصَدِيقِي"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكُمْ إِنْقَاذِي؟",
+    "englishMeaning": "Can you save/help me?",
+    "exampleSentence": "هَلْ يُمْكِنُكُمْ إِنْقَاذِي فِي هَذِهِ الْمُشْكِلَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا ضَائِعٌ",
+    "englishMeaning": "I am lost",
+    "exampleSentence": "أَنَا ضَائِعٌ فِي هَذِهِ الْمَدِينَةِ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكَ إِعَادَةُ ذَلِكَ؟",
+    "englishMeaning": "Can you repeat that?",
+    "exampleSentence": "هَلْ يُمْكِنُكَ إِعَادَةُ ذَلِكَ بِطُولٍ وَوُضُوحٍ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُحِبُّ الْمُوسِيقَى",
+    "englishMeaning": "I love music",
+    "exampleSentence": "أَنَا أُحِبُّ الْمُوسِيقَى وَأَسْمَعُهَا كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "هَلْ تَفْهَمُ مَا أَقُولُ؟",
+    "englishMeaning": "Do you understand what I am saying?",
+    "exampleSentence": "هَلْ تَفْهَمُ مَا أَقُولُ فِي هَذَا الدَّرْسِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أُرِيدُ تَعَلُّمَ الطَّبْخِ",
+    "englishMeaning": "I want to learn cooking",
+    "exampleSentence": "أَنَا أُرِيدُ تَعَلُّمَ الطَّبْخِ لِصُنْعِ أَطْعِمَةٍ لَذِيذَةٍ"
+  },
+  {
+    "arabicWord": "هَلْ تُحِبُّ الْقِرَاءَةَ؟",
+    "englishMeaning": "Do you like reading?",
+    "exampleSentence": "هَلْ تُحِبُّ الْقِرَاءَةَ فِي وَقْتِ الْفَرَاغِ؟"
+  }
+,
+  {
+    "arabicWord": "أَيْنَ الْحَمَّامُ؟",
+    "englishMeaning": "Where is the bathroom?",
+    "exampleSentence": "أَيْنَ الْحَمَّامُ فِي هَذِهِ الْمَنْزِلَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا جَوْعَانٌ",
+    "englishMeaning": "I am hungry",
+    "exampleSentence": "أَنَا جَوْعَانٌ وَأُرِيدُ أَنْ أَتَنَاوَلَ طَعَامًا"
+  },
+  {
+    "arabicWord": "أَنَا عَطْشَانٌ",
+    "englishMeaning": "I am thirsty",
+    "exampleSentence": "أَنَا عَطْشَانٌ فِي هَذَا الْيَوْمِ الحَارِّ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي؟",
+    "englishMeaning": "Can you help me?",
+    "exampleSentence": "هَلْ يُمْكِنُكَ مُسَاعَدَتِي فِي حَمْلِ هَذِهِ الْحَقِيبَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا سَعِيدٌ",
+    "englishMeaning": "I am happy",
+    "exampleSentence": "أَنَا سَعِيدٌ بِوُجُودِ أَصْدِقَائِي هُنَا"
+  },
+  {
+    "arabicWord": "أَنَا حَزِينٌ",
+    "englishMeaning": "I am sad",
+    "exampleSentence": "أَنَا حَزِينٌ لِأَنِّي فَقَدْتُ أَلَعِبِي المَفَضَّل"
+  },
+  {
+    "arabicWord": "هَلْ أَنْتَ مُسْتَعِدٌّ؟",
+    "englishMeaning": "Are you ready?",
+    "exampleSentence": "هَلْ أَنْتَ مُسْتَعِدٌّ لِلذِّهَابِ إِلَى الْمَدْرَسَةِ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ",
+    "englishMeaning": "I am learning Arabic",
+    "exampleSentence": "أَنَا أَتَعَلَّمُ الْعَرَبِيَّةَ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "هَلْ يُمْكِنُنَا الْتَقَاؤُ؟",
+    "englishMeaning": "Can we meet?",
+    "exampleSentence": "هَلْ يُمْكِنُنَا الْتَقَاؤُ فِي الْمَقْهَى غَدًا؟"
+  },
+  {
+    "arabicWord": "أَنَا أَسْتَمِعُ إِلَى الْمُوسِيقَى",
+    "englishMeaning": "I am listening to music",
+    "exampleSentence": "أَنَا أَسْتَمِعُ إِلَى الْمُوسِيقَى فِي الْمَسَاءِ"
+  },
+  {
+    "arabicWord": "أَنَا أَتَسَوَّقُ",
+    "englishMeaning": "I am shopping",
+    "exampleSentence": "أَنَا أَتَسَوَّقُ لِشِرَاءِ الْمَلَابِسِ"
+  },
+  {
+    "arabicWord": "هَلْ تَشْتَرِي الطَّعَامَ؟",
+    "englishMeaning": "Do you buy food?",
+    "exampleSentence": "هَلْ تَشْتَرِي الطَّعَامَ مِنَ السُّوقِ كُلَّ أُسْبُوعٍ؟"
+  },
+  {
+    "arabicWord": "أَنَا أَذْهَبُ إِلَى الْمَكْتَبَةِ",
+    "englishMeaning": "I am going to the library",
+    "exampleSentence": "أَنَا أَذْهَبُ إِلَى الْمَكْتَبَةِ لِقِرَاءَةِ الْكُتُبِ"
+  },
+  {
+    "arabicWord": "أَنَا أَرْسِلُ رِسَالَةً",
+    "englishMeaning": "I am sending a message",
+    "exampleSentence": "أَنَا أَرْسِلُ رِسَالَةً إِلَى صَدِيقِي"
+  },
+  {
+    "arabicWord": "هَلْ تُرِيدُ شُرْبَ شَايٍ؟",
+    "englishMeaning": "Do you want to drink tea?",
+    "exampleSentence": "هَلْ تُرِيدُ شُرْبَ شَايٍ مَعِي فِي الصَّبَاحِ؟"
+  }
+,
+  {
+    "arabicWord": "مَطَارٌ",
+    "englishMeaning": "Airport",
+    "exampleSentence": "أَذْهَبُ إِلَى المَطَارِ لِاسْتِقْبَالِ صَدِيقِي"
+  },
+  {
+    "arabicWord": "تَذْكِرَةُ طَيَرَانٍ",
+    "englishMeaning": "Plane ticket",
+    "exampleSentence": "حَجَزْتُ تَذْكِرَةَ الطَّيَرَانِ إِلَى دُبَي"
+  },
+  {
+    "arabicWord": "مَوْقِفُ سَيَّارَةٍ",
+    "englishMeaning": "Parking lot",
+    "exampleSentence": "وَقَفْتُ سَيَّارَتِي فِي مَوْقِفِ السَّيَّارَاتِ"
+  },
+  {
+    "arabicWord": "حَافِلَةٌ",
+    "englishMeaning": "Bus",
+    "exampleSentence": "أَرْكَبُ الحَافِلَةَ كُلَّ صَبَاحٍ إِلَى الْمَدْرَسَةِ"
+  },
+  {
+    "arabicWord": "سِكَّةُ حَدِيدٍ",
+    "englishMeaning": "Railway / Train track",
+    "exampleSentence": "تَمُرُّ القِطَارُ عَلَى السِّكَّةِ الحَدِيدِيَّةِ"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ قِطَارٍ",
+    "englishMeaning": "Train station",
+    "exampleSentence": "اِلْتَقَيْتُ أَصْدِقَائِي فِي مَحَطَّةِ القِطَارِ"
+  },
+  {
+    "arabicWord": "سَفَرٌ",
+    "englishMeaning": "Travel / Journey",
+    "exampleSentence": "أُحِبُ السَّفَرَ إِلَى بَلَدَاتٍ جَدِيدَةٍ"
+  },
+  {
+    "arabicWord": "خُرُوجٌ",
+    "englishMeaning": "Going out",
+    "exampleSentence": "سَأَخْرُجُ مَعَ أَصْدِقَائِي بَعْدَ الظُّهْرِ"
+  },
+  {
+    "arabicWord": "دُخُولٌ",
+    "englishMeaning": "Entry",
+    "exampleSentence": "يَجِبُ عَلَى كُلِّ شَخْصٍ إِبْرَازُ التَّذْكِرَةِ لِلْدُّخُولِ"
+  },
+  {
+    "arabicWord": "مَتْجَرٌ",
+    "englishMeaning": "Shop / Store",
+    "exampleSentence": "ذَهَبْتُ إِلَى المَتْجَرِ لِشِرَاءِ الْخُبْزِ"
+  },
+  {
+    "arabicWord": "سُوقٌ",
+    "englishMeaning": "Market",
+    "exampleSentence": "تَجَوَّلْتُ فِي السُّوقِ لِلْتَّسَوُّقِ"
+  },
+  {
+    "arabicWord": "خَضَارٌ",
+    "englishMeaning": "Vegetables",
+    "exampleSentence": "اشْتَرَيْتُ خَضَارًا طَازَجًا مِنَ السُّوقِ"
+  },
+  {
+    "arabicWord": "فَوَاكِهُ",
+    "englishMeaning": "Fruits",
+    "exampleSentence": "أُحِبُ أَنْ أَأْكُلَ الفَوَاكِهَ بَعْدَ الغَدَاءِ"
+  },
+  {
+    "arabicWord": "مَكْتَبَةٌ",
+    "englishMeaning": "Library",
+    "exampleSentence": "أَقْرَأُ الكُتُبَ فِي المَكْتَبَةِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "كُرْسِيٌّ",
+    "englishMeaning": "Chair",
+    "exampleSentence": "أَجْلِسُ عَلَى الكُرْسِيِّ فِي المَنْزِلِ"
+  },
+  {
+    "arabicWord": "طَاوِلَةٌ",
+    "englishMeaning": "Table",
+    "exampleSentence": "وَضَعْتُ الكُتُبَ عَلَى الطَّاوِلَةِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag",
+    "exampleSentence": "أَحْمِلُ حَقِيبَتِي كُلَّ صَبَاحٍ إِلَى الْمَدْرَسَةِ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Clock / Watch",
+    "exampleSentence": "أَنَا أُنْظُرُ إِلَى السَّاعَةِ لِأَعْرِفَ الوَقْتَ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ",
+    "englishMeaning": "Phone",
+    "exampleSentence": "أَتَكَلَّمُ عَلَى الهَاتِفِ مَعَ أَصْدِقَائِي"
+  },
+  {
+    "arabicWord": "حِسَابٌ",
+    "englishMeaning": "Account",
+    "exampleSentence": "فَتَحْتُ حِسَابِي فِي البَنْكِ"
+  }
+
+]

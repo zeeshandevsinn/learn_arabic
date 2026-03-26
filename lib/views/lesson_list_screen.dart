@@ -35,15 +35,20 @@ class _LessonListScreenState extends State<LessonListScreen> {
     super.initState();
     _filteredLessons = _controller.lessons;
     _initTts();
+    _controller.initialize().then((_) {
+      setState(() {
+        _filteredLessons = _controller.lessons;
+      });
+    });
   }
 
   Future<void> _initTts() async {
     try {
       await _flutterTts.awaitSpeakCompletion(true);
-      
+
       bool arabicSet = false;
       List<String> arabicCodes = ["ar-SA", "ar-EG", "ar", "ar-AE", "ar-LB"];
-      
+
       for (String code in arabicCodes) {
         try {
           var result = await _flutterTts.setLanguage(code);
@@ -56,7 +61,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
           print('LessonList: Failed to set language $code: $e');
         }
       }
-      
+
       if (!arabicSet) {
         setState(() {
           _isTtsAvailable = false;
@@ -66,11 +71,11 @@ class _LessonListScreenState extends State<LessonListScreen> {
           _isTtsAvailable = true;
         });
       }
-      
+
       await _flutterTts.setSpeechRate(0.5);
       await _flutterTts.setPitch(1.0);
       await _flutterTts.setVolume(1.0);
-      
+
       _flutterTts.setCompletionHandler(() {
         if (mounted) {
           setState(() {
@@ -79,7 +84,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
           });
         }
       });
-      
+
       _flutterTts.setErrorHandler((msg) {
         print('LessonList TTS Error: $msg');
         if (mounted) {
@@ -89,7 +94,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
           });
         }
       });
-      
+
       _flutterTts.setStartHandler(() {
         if (mounted) {
           setState(() {
@@ -97,7 +102,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
           });
         }
       });
-      
+
       _flutterTts.setCancelHandler(() {
         if (mounted) {
           setState(() {
@@ -106,7 +111,6 @@ class _LessonListScreenState extends State<LessonListScreen> {
           });
         }
       });
-      
     } catch (e) {
       print('LessonList TTS Initialization Error: $e');
       setState(() {
@@ -120,7 +124,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
       _showInstallDialog();
       return;
     }
-    
+
     if (_isSpeaking && _currentPlayingTitle == lessonId) {
       try {
         await _flutterTts.stop();
@@ -141,14 +145,14 @@ class _LessonListScreenState extends State<LessonListScreen> {
           print('Stop error: $e');
         }
       }
-      
+
       if (mounted) {
         setState(() {
           _isSpeaking = true;
           _currentPlayingTitle = lessonId;
         });
       }
-      
+
       try {
         List<String> arabicCodes = ["ar-SA", "ar", "ar-EG"];
         for (String code in arabicCodes) {
@@ -161,9 +165,9 @@ class _LessonListScreenState extends State<LessonListScreen> {
             print('Language set error: $e');
           }
         }
-        
+
         int result = await _flutterTts.speak(title);
-        
+
         if (result != 1) {
           if (mounted) {
             setState(() {
@@ -210,7 +214,8 @@ class _LessonListScreenState extends State<LessonListScreen> {
                 const Text('2. Go to System → Languages & input'),
                 const Text('3. Tap on Text-to-speech output'),
                 const Text('4. Select Google Text-to-Speech engine'),
-                const Text('5. Tap Settings icon next to Google Text-to-Speech'),
+                const Text(
+                    '5. Tap Settings icon next to Google Text-to-Speech'),
                 const Text('6. Tap on Install voice data'),
                 const Text('7. Select Arabic (العربية) and download'),
                 const SizedBox(height: 16),
@@ -295,7 +300,8 @@ class _LessonListScreenState extends State<LessonListScreen> {
                   padding: const EdgeInsets.symmetric(horizontal: 16),
                   child: Container(
                     margin: const EdgeInsets.only(bottom: 8),
-                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                     decoration: BoxDecoration(
                       color: Colors.amber.shade50,
                       borderRadius: BorderRadius.circular(10),
@@ -303,7 +309,8 @@ class _LessonListScreenState extends State<LessonListScreen> {
                     ),
                     child: Row(
                       children: [
-                        Icon(Icons.warning_amber, color: Colors.amber.shade700, size: 20),
+                        Icon(Icons.warning_amber,
+                            color: Colors.amber.shade700, size: 20),
                         const SizedBox(width: 8),
                         Expanded(
                           child: Text(
@@ -345,7 +352,8 @@ class _LessonListScreenState extends State<LessonListScreen> {
                     decoration: InputDecoration(
                       hintText: 'Search lessons...',
                       hintStyle: TextStyle(color: Colors.grey[400]),
-                      prefixIcon: const Icon(Icons.search, color: Color(0xFF00A884)),
+                      prefixIcon:
+                          const Icon(Icons.search, color: Color(0xFF00A884)),
                       suffixIcon: _searchController.text.isNotEmpty
                           ? IconButton(
                               icon: Icon(Icons.clear, color: Colors.grey[400]),
@@ -396,8 +404,11 @@ class _LessonListScreenState extends State<LessonListScreen> {
                         selectedColor: const Color(0xFF00A884).withOpacity(0.2),
                         checkmarkColor: const Color(0xFF00A884),
                         labelStyle: TextStyle(
-                          color: isSelected ? const Color(0xFF00A884) : Colors.grey[600],
-                          fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                          color: isSelected
+                              ? const Color(0xFF00A884)
+                              : Colors.grey[600],
+                          fontWeight:
+                              isSelected ? FontWeight.bold : FontWeight.normal,
                         ),
                       ),
                     );
@@ -416,16 +427,23 @@ class _LessonListScreenState extends State<LessonListScreen> {
             colors: [AppConstants.backgroundColor, Colors.white],
           ),
         ),
-        child: _filteredLessons.isEmpty
-            ? _buildEmptyState()
-            : ListView.builder(
-                padding: const EdgeInsets.all(AppConstants.defaultPadding),
-                itemCount: _filteredLessons.length,
-                itemBuilder: (context, index) {
-                  final lesson = _filteredLessons[index];
-                  return _buildLessonCard(lesson, index);
-                },
-              ),
+        child: _controller.isLoading
+            ? Center(
+                child: CircularProgressIndicator.adaptive(),
+              )
+            : _filteredLessons.isEmpty
+                ? Center(child: CircularProgressIndicator.adaptive())
+                : _filteredLessons.isEmpty
+                    ? _buildEmptyState()
+                    : ListView.builder(
+                        padding:
+                            const EdgeInsets.all(AppConstants.defaultPadding),
+                        itemCount: _filteredLessons.length,
+                        itemBuilder: (context, index) {
+                          final lesson = _filteredLessons[index];
+                          return _buildLessonCard(lesson, index);
+                        },
+                      ),
       ),
     );
   }
@@ -467,7 +485,7 @@ class _LessonListScreenState extends State<LessonListScreen> {
 
   Widget _buildLessonCard(Lesson lesson, int index) {
     final isPlaying = _isSpeaking && _currentPlayingTitle == lesson.id;
-    
+
     return TweenAnimationBuilder(
       duration: Duration(milliseconds: 300 + (index * 50)),
       tween: Tween<double>(begin: 0, end: 1),

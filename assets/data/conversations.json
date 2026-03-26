@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "1",
+    "title": "Basic Greetings",
+    "topic": "Essential Greetings",
+    "conversations": [
+      {
+        "arabic": "السَّلَامُ عَلَيْكُمْ",
+        "english": "Peace be upon you (Hello)"
+      },
+      {
+        "arabic": "وَعَلَيْكُمُ السَّلَامُ",
+        "english": "And upon you be peace"
+      },
+      {
+        "arabic": "كَيْفَ حَالُكَ؟",
+        "english": "How are you?"
+      },
+      {
+        "arabic": "أَنَا بِخَيْرٍ، الْحَمْدُ لِلَّهِ",
+        "english": "I am fine, praise be to God"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "At School",
+    "topic": "Classroom Interactions",
+    "conversations": [
+      {
+        "arabic": "مَا اسْمُكَ؟",
+        "english": "What is your name?"
+      },
+      {
+        "arabic": "اسْمِي أَحْمَدُ",
+        "english": "My name is Ahmad"
+      },
+      {
+        "arabic": "هَلْ تَفْهَمُ الدَّرْسَ؟",
+        "english": "Do you understand the lesson?"
+      },
+      {
+        "arabic": "نَعَمْ، أَفْهَمُ",
+        "english": "Yes, I understand"
+      },
+      {
+        "arabic": "اِفْتَحِ الْكِتَابَ",
+        "english": "Open the book"
+      },
+      {
+        "arabic": "نَعَمْ يَا أُسْتَاذُ",
+        "english": "Yes teacher"
+      },
+      {
+        "arabic": "اِقْرَأِ الدَّرْسَ",
+        "english": "Read the lesson"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Shopping & Bargaining",
+    "topic": "At the Market",
+    "conversations": [
+      {
+        "arabic": "بِكَمْ هَذَا؟",
+        "english": "How much is this?"
+      },
+      {
+        "arabic": "هَذَا بِعَشَرَةِ دَرَاهِمَ",
+        "english": "This is 10 dirhams"
+      },
+      {
+        "arabic": "هَلْ عِنْدَكَ أَرْخَصُ؟",
+        "english": "Do you have cheaper?"
+      },
+      {
+        "arabic": "نَعَمْ، هَذَا أَرْخَصُ",
+        "english": "Yes, this is cheaper"
+      },
+      {
+        "arabic": "كَمِ السِّعْرُ؟",
+        "english": "What is the price?"
+      },
+      {
+        "arabic": "عِشْرُونَ",
+        "english": "Twenty"
+      },
+      {
+        "arabic": "هَلْ هُنَاكَ خَصْمٌ؟",
+        "english": "Is there a discount?"
+      },
+      {
+        "arabic": "هَلْ هَذَا جَيِّدُ الْجَوْدَةِ؟",
+        "english": "Is this good quality?"
+      },
+      {
+        "arabic": "نَعَمْ، مَعَهُ ضَمَانٌ",
+        "english": "Yes, it has a warranty"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Dining Out",
+    "topic": "At Restaurant",
+    "conversations": [
+      {
+        "arabic": "مَاذَا تُرِيدُ؟",
+        "english": "What do you want?"
+      },
+      {
+        "arabic": "أُرِيدُ طَعَامًا وَمَاءً",
+        "english": "I want food and water"
+      },
+      {
+        "arabic": "حَاضِرٌ",
+        "english": "Okay / حاضر"
+      },
+      {
+        "arabic": "هَلْ لَدَيْكُمْ قَائِمَةُ الطَّعَامِ؟",
+        "english": "Do you have a menu?"
+      },
+      {
+        "arabic": "نَعَمْ، تَفَضَّل هَذِهِ القَائِمَةُ",
+        "english": "Yes, here is the menu"
+      },
+      {
+        "arabic": "أُرِيدُ وُجْبَةً سَرِيعَةً وَصِحِّيَّةً",
+        "english": "I want a quick and healthy meal"
+      },
+      {
+        "arabic": "حَسَنًا، سَأَحْضِرُهَا لَكَ قَرِيبًا",
+        "english": "Okay, I will bring it to you soon"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Getting Around",
+    "topic": "Asking for Directions",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ الْمَسْجِدُ؟",
+        "english": "Where is the mosque?"
+      },
+      {
+        "arabic": "الْمَسْجِدُ قَرِيبٌ",
+        "english": "The mosque is near"
+      },
+      {
+        "arabic": "شُكْرًا",
+        "english": "Thank you"
+      },
+      {
+        "arabic": "عَفْوًا",
+        "english": "You're welcome"
+      },
+      {
+        "arabic": "أَيْنَ الْحَافِلَةُ؟",
+        "english": "Where is the bus?"
+      },
+      {
+        "arabic": "فِي الْمَحَطَّةِ",
+        "english": "At the station"
+      },
+      {
+        "arabic": "مَتَى تَصِلُ؟",
+        "english": "When will it arrive?"
+      },
+      {
+        "arabic": "اذْهَبْ مُسْتَقِيمًا ثُمَّ يَمِينًا",
+        "english": "Go straight then right"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Health & Pharmacy",
+    "topic": "Medical Situations",
+    "conversations": [
+      {
+        "arabic": "مَا الْمَشْكِلَةُ؟",
+        "english": "What is the problem?"
+      },
+      {
+        "arabic": "أَنَا مَرِيضٌ",
+        "english": "I am sick"
+      },
+      {
+        "arabic": "هَلْ عِنْدَكَ أَلَمٌ؟",
+        "english": "Do you have pain?"
+      },
+      {
+        "arabic": "نَعَمْ، عِنْدِي أَلَمٌ",
+        "english": "Yes, I have pain"
+      },
+      {
+        "arabic": "أَحْتَاجُ دَوَاءً",
+        "english": "I need medicine"
+      },
+      {
+        "arabic": "مَا الْمَرَضُ؟",
+        "english": "What is the illness?"
+      },
+      {
+        "arabic": "عِنْدِي صُدَاعٌ",
+        "english": "I have a headache"
+      },
+      {
+        "arabic": "أَشْعُرُ بِأَلَمٍ فِي الْمَعِدَةِ",
+        "english": "I feel pain in my stomach"
+      },
+      {
+        "arabic": "سَنَجْرِي فَحْصًا",
+        "english": "We will do a check-up"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Travel Essentials",
+    "topic": "Airport & Travel",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ تَذْهَبُ؟",
+        "english": "Where are you going?"
+      },
+      {
+        "arabic": "أَذْهَبُ إِلَى الْمَطَارِ",
+        "english": "I am going to the airport"
+      },
+      {
+        "arabic": "هَلْ تُسَافِرُ؟",
+        "english": "Are you traveling?"
+      },
+      {
+        "arabic": "نَعَمْ",
+        "english": "Yes"
+      },
+      {
+        "arabic": "أَيْنَ جَوَازُ السَّفَرِ؟",
+        "english": "Where is your passport?"
+      },
+      {
+        "arabic": "هَذَا جَوَازِي",
+        "english": "This is my passport"
+      },
+      {
+        "arabic": "أَيْنَ بِطَاقَةُ الصُّعُودِ؟",
+        "english": "Where is your boarding pass?"
+      },
+      {
+        "arabic": "أُرِيدُ تَذْكِرَةً إِلَى دِمَشْقَ",
+        "english": "I want a ticket to Damascus"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Technology Issues",
+    "topic": "Phone & Internet Problems",
+    "conversations": [
+      {
+        "arabic": "جَوَّالِي لَا يَعْمَلُ",
+        "english": "My phone is not working"
+      },
+      {
+        "arabic": "هَلْ عِنْدَكَ شَاحِنٌ؟",
+        "english": "Do you have a charger?"
+      },
+      {
+        "arabic": "نَعَمْ وَلَكِنْ لَا يَشْحَنُ",
+        "english": "Yes, but it is not charging"
+      },
+      {
+        "arabic": "الْإِنْتِرْنِتُ ضَعِيفٌ",
+        "english": "The internet is weak"
+      },
+      {
+        "arabic": "نَعَمْ، الشَّبَكَةُ سَيِّئَةٌ",
+        "english": "Yes, the network is bad"
+      },
+      {
+        "arabic": "هَلْ يُمْكِنُنِي الاِتِّصَالُ؟",
+        "english": "Can I make a call?"
+      },
+      {
+        "arabic": "نَعَمْ، تَفَضَّلْ",
+        "english": "Yes, go ahead"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Work & Appointments",
+    "topic": "Professional Interactions",
+    "conversations": [
+      {
+        "arabic": "هَلْ أَنْهَيْتَ الْعَمَلَ؟",
+        "english": "Did you finish the work?"
+      },
+      {
+        "arabic": "نَعَمْ، اِنْتَهَيْتُ",
+        "english": "Yes, I finished"
+      },
+      {
+        "arabic": "لَدَيَّ مَوْعِدٌ",
+        "english": "I have an appointment"
+      },
+      {
+        "arabic": "مَتَى؟",
+        "english": "When?"
+      },
+      {
+        "arabic": "فِي السَّاعَةِ الثَّانِيَةِ",
+        "english": "At 2 o'clock"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Emergencies",
+    "topic": "Emergency Situations",
+    "conversations": [
+      {
+        "arabic": "سَاعِدْنِي! هُنَاكَ خَطَرٌ",
+        "english": "Help me! There is danger"
+      },
+      {
+        "arabic": "مَاذَا حَدَثَ؟",
+        "english": "What happened?"
+      },
+      {
+        "arabic": "هُنَاكَ حَادِثٌ",
+        "english": "There is an accident"
+      },
+      {
+        "arabic": "حَدَثَ حَادِثٌ سَيَّارَةٌ!",
+        "english": "There is a car accident!"
+      },
+      {
+        "arabic": "اتَّصِلْ بِالأَسْعَافِ سَرِيعًا",
+        "english": "Call the ambulance quickly"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Banking & Services",
+    "topic": "Financial Transactions",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ فَتْحَ حِسَابٍ",
+        "english": "I want to open an account"
+      },
+      {
+        "arabic": "مِنْ فَضْلِكَ، أَعْطِنِي هُوِيَّتَكَ",
+        "english": "Please give me your ID"
+      },
+      {
+        "arabic": "كَمِ الإِيجَارُ؟",
+        "english": "How much is the rent?"
+      },
+      {
+        "arabic": "الإِيجَارُ خَمْسُمِائَةٍ",
+        "english": "The rent is 500"
+      },
+      {
+        "arabic": "أَرِيدُ سَحْبَ نَقُودٍ",
+        "english": "I want to withdraw money"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Social Interactions",
+    "topic": "Invitations & Requests",
+    "conversations": [
+      {
+        "arabic": "مِنْ فَضْلِكَ، أَحْتَاجُ مُسَاعَدَةً",
+        "english": "Please, I need help"
+      },
+      {
+        "arabic": "بِكُلِّ سُرُورٍ",
+        "english": "With pleasure"
+      },
+      {
+        "arabic": "هَلْ تَأْتِي إِلَى الْحَفْلَةِ؟",
+        "english": "Will you come to the party?"
+      },
+      {
+        "arabic": "نَعَمْ، شُكْرًا عَلَى الدَّعْوَةِ",
+        "english": "Yes, thank you for the invitation"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Time & Communication",
+    "topic": "Useful Everyday Phrases",
+    "conversations": [
+      {
+        "arabic": "كَمِ السَّاعَةُ؟",
+        "english": "What time is it?"
+      },
+      {
+        "arabic": "السَّاعَةُ الثَّانِيَةُ عَشْرَةَ دَقِيقَةً",
+        "english": "It is 12:02"
+      },
+      {
+        "arabic": "هَلْ أَرْسَلْتَ الرِّسَالَةَ؟",
+        "english": "Did you send the message?"
+      },
+      {
+        "arabic": "نَعَمْ، أَرْسَلْتُهَا",
+        "english": "Yes, I sent it"
+      },
+      {
+        "arabic": "هَذَا الْجِهَازُ لَا يَعْمَلُ",
+        "english": "This device is not working"
+      },
+      {
+        "arabic": "سَنُصْلِحُهُ",
+        "english": "We will fix it"
+      },
+      {
+        "arabic": "أَيْنَ طَلَبِي؟",
+        "english": "Where is my order?"
+      },
+      {
+        "arabic": "سَيَصِلُ قَرِيبًا",
+        "english": "It will arrive soon"
+      }
+    ]
+  },
+
+  
+  {
+    "id": "14",
+    "title": "At the Pharmacy",
+    "topic": "Medical & Health",
+    "conversations": [
+      {
+        "arabic": "هَلْ لَدَيْكُمْ دَوَاءٌ لِلصُّدَاعِ؟",
+        "english": "Do you have medicine for headache?"
+      },
+      {
+        "arabic": "نَعَمْ، هَذَا الدَّوَاءُ يُسَاعِدُ كَثِيرًا",
+        "english": "Yes, this medicine helps a lot"
+      },
+      {
+        "arabic": "كَمْ سِعْرُهُ؟",
+        "english": "How much does it cost?"
+      },
+      {
+        "arabic": "عَشَرَةُ دَرَاهِمَ",
+        "english": "Ten dirhams"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "At the Bus Station",
+    "topic": "Transportation",
+    "conversations": [
+      {
+        "arabic": "مَتَى تَغَادِرُ الحَافِلَةُ إِلَى الدِّمَشْقِ؟",
+        "english": "When does the bus to Damascus leave?"
+      },
+      {
+        "arabic": "تَغَادِرُ الحَافِلَةُ فِي السَّاعَةِ الثَّامِنَةِ صَبَاحًا",
+        "english": "The bus leaves at 8 AM"
+      },
+      {
+        "arabic": "أَيْنَ أَقِفُ لِلصُّعُودِ؟",
+        "english": "Where should I stand to board?"
+      },
+      {
+        "arabic": "عِنْدَ الرَّصِيفِ الثَّالِثِ",
+        "english": "At platform three"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Making Friends",
+    "topic": "Social Interactions",
+    "conversations": [
+      {
+        "arabic": "مَا اسْمُكَ؟",
+        "english": "What is your name?"
+      },
+      {
+        "arabic": "اسْمِي سَلِيمٌ، وَأَنْتَ؟",
+        "english": "My name is Salim, and you?"
+      },
+      {
+        "arabic": "أَنَا فَاطِمَةُ",
+        "english": "I am Fatimah"
+      },
+      {
+        "arabic": "سَعِيدٌ بِلِقَائِكِ",
+        "english": "Nice to meet you"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Asking the Time",
+    "topic": "Time & Numbers",
+    "conversations": [
+      {
+        "arabic": "كَمِ السَّاعَةُ الآنَ؟",
+        "english": "What time is it now?"
+      },
+      {
+        "arabic": "السَّاعَةُ الثَّالِثَةُ وَالنِّصْفُ",
+        "english": "It is 3:30"
+      },
+      {
+        "arabic": "شُكْرًا جَزِيلًا",
+        "english": "Thank you very much"
+      },
+      {
+        "arabic": "عَفْوًا",
+        "english": "You're welcome"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "At the Grocery Store",
+    "topic": "Shopping",
+    "conversations": [
+      {
+        "arabic": "هَلْ لَدَيْكُمْ خُبْزٌ طَازَجٌ؟",
+        "english": "Do you have fresh bread?"
+      },
+      {
+        "arabic": "نَعَمْ، تَفَضَّل تِلكَ الرُّغَفُ",
+        "english": "Yes, here are the loaves"
+      },
+      {
+        "arabic": "أُرِيدُ خَمْسَةً مِنْهَا",
+        "english": "I want five of them"
+      },
+      {
+        "arabic": "تَفَضَّل، هَا هِيَ",
+        "english": "Here you go"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "At the Restaurant",
+    "topic": "Dining Out",
+    "conversations": [
+      {
+        "arabic": "هَلْ يُمْكِنُنِي الطَّلَبُ الآنَ؟",
+        "english": "Can I order now?"
+      },
+      {
+        "arabic": "نَعَمْ، مَاذَا تَرْغَبُ فِي الطَّعَامِ؟",
+        "english": "Yes, what would you like to eat?"
+      },
+      {
+        "arabic": "أُرِيدُ سَلَطَةً وَشُوَايًا دَجَاجٍ",
+        "english": "I want a salad and grilled chicken"
+      },
+      {
+        "arabic": "حَسَنًا، سَتَصِلُ طَلْبِيَتُكَ فِي خَمْسِ دَقَائِقَ",
+        "english": "Okay, your order will arrive in 5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Asking for Directions",
+    "topic": "Getting Around",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ مَحَطَّةُ القِطَارِ الأَقْرَبُ؟",
+        "english": "Where is the nearest train station?"
+      },
+      {
+        "arabic": "إِمْشِ مُسْتَقِيمًا حَتَّى تَرَى الإِشَارَةَ، ثُمَّ اِسْتَدِر يَمِينًا",
+        "english": "Walk straight until you see the sign, then turn right"
+      },
+      {
+        "arabic": "شُكْرًا لَكَ",
+        "english": "Thank you"
+      },
+      {
+        "arabic": "عَفْوًا، تَمَنَّى لَكَ رِحْلَةً سَعِيدَةً",
+        "english": "You're welcome, have a nice trip"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Buying Clothes",
+    "topic": "Shopping",
+    "conversations": [
+      {
+        "arabic": "هَلْ هَذَا القَمِيصُ بِالمَقَاسِ الصَّغِيرِ؟",
+        "english": "Is this shirt available in small size?"
+      },
+      {
+        "arabic": "نَعَمْ، هَا هُوَ فِي المَقَاسِ الصَّغِيرِ",
+        "english": "Yes, here it is in small size"
+      },
+      {
+        "arabic": "كَمْ سِعْرُهُ؟",
+        "english": "How much does it cost?"
+      },
+      {
+        "arabic": "خَمْسُونَ دَرْهَمًا",
+        "english": "Fifty dirhams"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "At the Airport",
+    "topic": "Travel",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ مَكَانُ تَسْلِيمِ الأَمْتِعَةِ؟",
+        "english": "Where is the luggage drop-off?"
+      },
+      {
+        "arabic": "إِتْبِعِ الإِشَارَاتِ حَتَّى تَصِلَ إِلَيْهَا",
+        "english": "Follow the signs until you reach it"
+      },
+      {
+        "arabic": "هَلْ يَجِبُ عَلَيَّ أَنْ أُرِي جَوَازِي؟",
+        "english": "Do I need to show my passport?"
+      },
+      {
+        "arabic": "نَعَمْ، رَجَاءً أَرِهِ لِي",
+        "english": "Yes, please show it to me"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "At the Hospital Reception",
+    "topic": "Medical & Health",
+    "conversations": [
+      {
+        "arabic": "أَرْغَبُ فِي حَجْزِ مَوْعِدٍ لِلطَّبِيبِ",
+        "english": "I would like to book an appointment with the doctor"
+      },
+      {
+        "arabic": "مَتَى تُرِيدُ زِيَارَتَهُ؟",
+        "english": "When do you want to visit?"
+      },
+      {
+        "arabic": "غَدًا فِي الصَّبَاحِ",
+        "english": "Tomorrow morning"
+      },
+      {
+        "arabic": "حَسَنًا، هَذَا مَوْعِدُكَ",
+        "english": "Okay, this is your appointment"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "At the Pharmacy",
+    "topic": "Medical & Health",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ حِبْرَةً لِلصُّدَاعِ",
+        "english": "I want medicine for headache"
+      },
+      {
+        "arabic": "هَلْ لَدَيْكَ أَيّ أَلَرْجِيَاتٌ؟",
+        "english": "Do you have any allergies?"
+      },
+      {
+        "arabic": "لَا، لَا أَعْنِي أَيّ أَلَرْجِيَاتٍ",
+        "english": "No, I don't have any allergies"
+      },
+      {
+        "arabic": "حَسَنًا، هَذِهِ الحُبُوبُ، خُذْ وَاحِدَةً كُلَّ ثَلَاثِ سَاعَاتٍ",
+        "english": "Okay, these pills, take one every three hours"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "At the Coffee Shop",
+    "topic": "Dining Out",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ فِنْجَانَ قَهْوَةٍ مَعَ حَلْوَى",
+        "english": "I want a cup of coffee with dessert"
+      },
+      {
+        "arabic": "هَلْ تُرِيدُهَا سَاخِنَةً أَمْ بَارِدَةً؟",
+        "english": "Do you want it hot or cold?"
+      },
+      {
+        "arabic": "سَاخِنَةً، مِنْ فَضْلِكَ",
+        "english": "Hot, please"
+      },
+      {
+        "arabic": "حَسَنًا، سَتَكُونُ جَاهِزَةً فِي دَقِيقَتَيْنِ",
+        "english": "Okay, it will be ready in two minutes"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "At the Market",
+    "topic": "Shopping",
+    "conversations": [
+      {
+        "arabic": "كَمْ سِعْرُ التُّفَّاحِ؟",
+        "english": "How much is the apple?"
+      },
+      {
+        "arabic": "خَمْسُونَ دِرْهَمًا لِلْكِيلُو غَرَام",
+        "english": "50 dirhams per kilogram"
+      },
+      {
+        "arabic": "أَنَا أُرِيدُ كِلُو غَرَامٍ وَاحِدٍ، مِنْ فَضْلِكَ",
+        "english": "I want one kilogram, please"
+      },
+      {
+        "arabic": "تَفَضَّلْ، هَذَا وَثِمَنُهُ خَمْسُونَ دِرْهَمًا",
+        "english": "Here you go, and the price is 50 dirhams"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Booking a Taxi",
+    "topic": "Transportation",
+    "conversations": [
+      {
+        "arabic": "هَلْ يُمْكِنُنِي حَجْزُ سَيَّارَةٍ لِذَهَابٍ إِلَى المَطَارِ؟",
+        "english": "Can I book a car to go to the airport?"
+      },
+      {
+        "arabic": "نَعَمْ، مَتَى تُرِيدُ الرِّحْلَةَ؟",
+        "english": "Yes, when do you want the ride?"
+      },
+      {
+        "arabic": "الآنَ، مِنْ فَضْلِكَ",
+        "english": "Now, please"
+      },
+      {
+        "arabic": "حَسَنًا، سَنَغَادِرُ فِي دَقِيقَةٍ",
+        "english": "Okay, we will leave in a minute"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "At the Library",
+    "topic": "Education",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ أَنْ أُسْتَعِيرَ كِتَابًا عَنْ التَّارِيخِ",
+        "english": "I want to borrow a book about history"
+      },
+      {
+        "arabic": "هَلْ لَدَيْكَ بِطَاقَةُ المَكْتَبَةِ؟",
+        "english": "Do you have a library card?"
+      },
+      {
+        "arabic": "نَعَمْ، هَذِهِ بِي",
+        "english": "Yes, here it is"
+      },
+      {
+        "arabic": "حَسَنًا، يُمْكِنُكَ أَنْ تَسْتَعِيرَهُ لِمُدَّةِ أُسْبُوعٍ",
+        "english": "Okay, you can borrow it for a week"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Buying Groceries",
+    "topic": "Shopping",
+    "conversations": [
+      {
+        "arabic": "كَمْ سِعْرُ هَذِهِ التُّفَّاحَةِ؟",
+        "english": "How much is this apple?"
+      },
+      {
+        "arabic": "خَمْسَةُ دَرَاهِمٍ لِلواحدةِ",
+        "english": "5 dirhams each"
+      },
+      {
+        "arabic": "أُرِيدُ خَمْسَ تُفَّاحَاتٍ",
+        "english": "I want five apples"
+      },
+      {
+        "arabic": "تَفَضَّلْ، هَذِهِ هِيَ",
+        "english": "Here you go"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Asking About Weather",
+    "topic": "Everyday Conversations",
+    "conversations": [
+      {
+        "arabic": "كَيْفَ الطَّقْسُ اليَوْمَ؟",
+        "english": "How is the weather today?"
+      },
+      {
+        "arabic": "الطَّقْسُ جَمِيلٌ وَالشَّمْسُ مُشْرِقَةٌ",
+        "english": "The weather is nice and the sun is shining"
+      },
+      {
+        "arabic": "هَلْ سَتُمْطِرُ فِي المَسَاءِ؟",
+        "english": "Will it rain in the evening?"
+      },
+      {
+        "arabic": "لَا، السَّمَاءُ صَافِيَةٌ",
+        "english": "No, the sky is clear"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "At the Pharmacy",
+    "topic": "Medical & Health",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ دَوَاءً لِلصُّدَاعِ",
+        "english": "I want medicine for headache"
+      },
+      {
+        "arabic": "هَلْ هُوَ صُدَاعٌ خَفِيفٌ أَمْ شَدِيدٌ؟",
+        "english": "Is it a mild or severe headache?"
+      },
+      {
+        "arabic": "صُدَاعٌ شَدِيدٌ",
+        "english": "It is a severe headache"
+      },
+      {
+        "arabic": "تَفَضَّلْ، هَذَا الدَّوَاءُ يُسَاعِدُكَ",
+        "english": "Here, this medicine will help you"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Making a Phone Call",
+    "topic": "Communication",
+    "conversations": [
+      {
+        "arabic": "أَهْلًا، مَعَ مَنَ أَتَحَدَّثُ؟",
+        "english": "Hello, who am I speaking with?"
+      },
+      {
+        "arabic": "أَنَا مُحَمَّدٌ",
+        "english": "I am Mohammed"
+      },
+      {
+        "arabic": "هَلْ يُمْكِنُ أَنْ أَتَحَدَّثَ إِلَى أَخِيكَ؟",
+        "english": "Can I speak to your brother?"
+      },
+      {
+        "arabic": "نَعَمْ، سَأَنْقُلُ رِسَالَتَكَ",
+        "english": "Yes, I will pass your message"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "Asking About Time",
+    "topic": "Time & Numbers",
+    "conversations": [
+      {
+        "arabic": "كَمِ السَّاعَةُ الآنَ؟",
+        "english": "What time is it now?"
+      },
+      {
+        "arabic": "السَّاعَةُ الثَّانِيَةُ عَشْرَةَ وَنِصْفٌ",
+        "english": "It is 12:30"
+      },
+      {
+        "arabic": "هَلْ لَدَيْكُم سَاعَةٌ صَغِيرَةٌ؟",
+        "english": "Do you have a small watch?"
+      },
+      {
+        "arabic": "نَعَمْ، هَذِهِ السَّاعَةُ مُتَاحَةٌ لِلشِّرَاء",
+        "english": "Yes, this watch is available for purchase"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "At the Restaurant",
+    "topic": "Dining Out",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ طَبَقًا مِنَ الطَّعَامِ",
+        "english": "I want a dish of food"
+      },
+      {
+        "arabic": "هَلْ تُرِيدُ أَنْ تَكُونَ الحِسَابَةُ مَعَ شَرَابٍ؟",
+        "english": "Do you want the dish with a drink?"
+      },
+      {
+        "arabic": "نَعَمْ، أُرِيدُ عَصِيرَ بُرْتُقَالٍ",
+        "english": "Yes, I want orange juice"
+      },
+      {
+        "arabic": "تَفَضَّلْ، هَذَا طَبَقُكَ وَالعَصِيرُ",
+        "english": "Here you go, your dish and the juice"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Asking for Directions",
+    "topic": "Getting Around",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ المَكْتَبَةُ؟",
+        "english": "Where is the library?"
+      },
+      {
+        "arabic": "المَكْتَبَةُ قَرِيبَةٌ مِنْ هَذَا الشَّارِعِ",
+        "english": "The library is near this street"
+      },
+      {
+        "arabic": "هَلْ أَسْتَمِرُ فِي السَّيْرِ يَمِينًا أَمْ يَسَارًا؟",
+        "english": "Should I go right or left?"
+      },
+      {
+        "arabic": "اسْتَمِرْ يَمِينًا ثُمَّ تَوَقَّفْ عِنْدَ الزَّاوِيَةِ",
+        "english": "Go right and then stop at the corner"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "At the Market",
+    "topic": "Shopping",
+    "conversations": [
+      {
+        "arabic": "هَلْ لَدَيْكُم خُضَارٌ طَازَجٌ؟",
+        "english": "Do you have fresh vegetables?"
+      },
+      {
+        "arabic": "نَعَمْ، هَذِهِ الطَّازَجَةُ وَجَدِيدَةٌ مِنَ الْحَقْلِ",
+        "english": "Yes, these are fresh and just from the field"
+      },
+      {
+        "arabic": "أُرِيدُ كِيلُو طَمَاطِمٍ وَنِصْفَ كِيلُو بَصَلٍ",
+        "english": "I want a kilo of tomatoes and half a kilo of onions"
+      },
+      {
+        "arabic": "تَفَضَّلْ، هَذِهِ المَكَانَاتُ",
+        "english": "Here you go, these are your items"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "At the Airport",
+    "topic": "Travel",
+    "conversations": [
+      {
+        "arabic": "أَيْنَ مَكَانُ تَحْقِيقِ الهُوِيَّةِ؟",
+        "english": "Where is the ID check area?"
+      },
+      {
+        "arabic": "تَفَضَّلْ إِلَى الأَمَامِ وَحَافَظْ عَلَى جَوَازِ سَفَرِكَ",
+        "english": "Go straight ahead and keep your passport ready"
+      },
+      {
+        "arabic": "هَلْ هُنَاكَ مَطَاعِمُ فِي المَطَارِ؟",
+        "english": "Are there restaurants in the airport?"
+      },
+      {
+        "arabic": "نَعَمْ، فِي الطَّابِقِ الثَّانِي مَطَاعِمٌ كَثِيرَةٌ",
+        "english": "Yes, there are many restaurants on the second floor"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Making an Appointment",
+    "topic": "Professional Interactions",
+    "conversations": [
+      {
+        "arabic": "أُرِيدُ حَجْزَ مَوْعِدٍ لِلطَّبِيبِ",
+        "english": "I want to make an appointment with the doctor"
+      },
+      {
+        "arabic": "مَتَى تُرِيدُ الْحُجُوزَ؟",
+        "english": "When do you want the appointment?"
+      },
+      {
+        "arabic": "غَدًا فِي الصَّبَاحِ",
+        "english": "Tomorrow morning"
+      },
+      {
+        "arabic": "حَسَنًا، هَلْ تُرِيدُ الطَّبِيبَ خَالِدَ أَمْ فَرِيدًا؟",
+        "english": "Okay, do you want Dr. Khalid or Dr. Farid?"
+      }
+    ]
+  }
+]

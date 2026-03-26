@@ -26,23 +26,28 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     super.initState();
     _filteredItems = _controller.getTodaysVocabulary();
     _initTts();
+    _controller.initialize().then((_) {
+      setState(() {
+        _filteredItems = _controller.getTodaysVocabulary();
+      });
+    });
   }
 
   Future<void> _initTts() async {
     try {
       // Initialize TTS
       await _flutterTts.awaitSpeakCompletion(true);
-      
+
       // Try to find and set Arabic language
       bool arabicSet = false;
       List<String> arabicCodes = [
-        "ar-SA",  // Saudi Arabia
-        "ar-EG",  // Egypt
-        "ar",     // Generic Arabic
-        "ar-AE",  // UAE
-        "ar-LB",  // Lebanon
+        "ar-SA", // Saudi Arabia
+        "ar-EG", // Egypt
+        "ar", // Generic Arabic
+        "ar-AE", // UAE
+        "ar-LB", // Lebanon
       ];
-      
+
       for (String code in arabicCodes) {
         try {
           var result = await _flutterTts.setLanguage(code);
@@ -55,7 +60,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           print('Vocabulary: Failed to set language $code: $e');
         }
       }
-      
+
       if (!arabicSet) {
         print('Vocabulary: No Arabic language found');
         setState(() {
@@ -66,12 +71,12 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           _isTtsAvailable = true;
         });
       }
-      
+
       // Set speech properties
       await _flutterTts.setSpeechRate(0.5);
       await _flutterTts.setPitch(1.0);
       await _flutterTts.setVolume(1.0);
-      
+
       // Set completion handler
       _flutterTts.setCompletionHandler(() {
         if (mounted) {
@@ -81,7 +86,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           });
         }
       });
-      
+
       // Set error handler
       _flutterTts.setErrorHandler((msg) {
         print('Vocabulary TTS Error: $msg');
@@ -92,7 +97,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           });
         }
       });
-      
+
       // Set start handler
       _flutterTts.setStartHandler(() {
         if (mounted) {
@@ -101,7 +106,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           });
         }
       });
-      
+
       // Set cancel handler
       _flutterTts.setCancelHandler(() {
         if (mounted) {
@@ -111,7 +116,6 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           });
         }
       });
-      
     } catch (e) {
       print('Vocabulary TTS Initialization Error: $e');
       if (mounted) {
@@ -127,7 +131,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
       _showInstallDialog();
       return;
     }
-    
+
     if (_isSpeaking && _currentPlayingWord == wordId) {
       // Stop if currently speaking the same word
       try {
@@ -150,7 +154,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           print('Stop error: $e');
         }
       }
-      
+
       // Start new speech
       if (mounted) {
         setState(() {
@@ -158,7 +162,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
           _currentPlayingWord = wordId;
         });
       }
-      
+
       try {
         // Try to set Arabic language before speaking
         List<String> arabicCodes = ["ar-SA", "ar", "ar-EG"];
@@ -172,10 +176,10 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
             print('Language set error: $e');
           }
         }
-        
+
         // Speak the word
         int result = await _flutterTts.speak(word);
-        
+
         if (result != 1) {
           if (mounted) {
             setState(() {
@@ -183,7 +187,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
               _currentPlayingWord = null;
             });
           }
-          _showSnackBar('Could not play audio. Please check text-to-speech settings.');
+          _showSnackBar(
+              'Could not play audio. Please check text-to-speech settings.');
         }
       } catch (e) {
         print('Speak error: $e');
@@ -223,7 +228,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 const Text('2. Go to System → Languages & input'),
                 const Text('3. Tap on Text-to-speech output'),
                 const Text('4. Select Google Text-to-Speech engine'),
-                const Text('5. Tap Settings icon next to Google Text-to-Speech'),
+                const Text(
+                    '5. Tap Settings icon next to Google Text-to-Speech'),
                 const Text('6. Tap on Install voice data'),
                 const Text('7. Select Arabic (العربية) and download'),
                 const SizedBox(height: 16),
@@ -332,14 +338,16 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 decoration: InputDecoration(
                   hintText: 'Search vocabulary...',
                   hintStyle: TextStyle(color: Colors.grey[400]),
-                  prefixIcon: Icon(Icons.search, color: AppConstants.secondaryColor),
+                  prefixIcon:
+                      Icon(Icons.search, color: AppConstants.secondaryColor),
                   suffixIcon: _searchController.text.isNotEmpty
                       ? IconButton(
                           icon: Icon(Icons.clear, color: Colors.grey[400]),
                           onPressed: () {
                             _searchController.clear();
                             setState(() {
-                              _filteredItems = _controller.getTodaysVocabulary();
+                              _filteredItems =
+                                  _controller.getTodaysVocabulary();
                             });
                           },
                         )
@@ -384,7 +392,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
             if (!_isTtsAvailable)
               Container(
                 margin: const EdgeInsets.all(16),
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                 decoration: BoxDecoration(
                   color: Colors.amber.shade50,
                   borderRadius: BorderRadius.circular(10),
@@ -392,7 +401,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 ),
                 child: Row(
                   children: [
-                    Icon(Icons.warning_amber, color: Colors.amber.shade700, size: 20),
+                    Icon(Icons.warning_amber,
+                        color: Colors.amber.shade700, size: 20),
                     const SizedBox(width: 8),
                     Expanded(
                       child: Text(
@@ -413,21 +423,27 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                   ],
                 ),
               ),
-            
+
             // Daily Progress Header
             _buildProgressHeader(),
-            
+
             // Vocabulary List
             Expanded(
-              child: _filteredItems.isEmpty
-                  ? _buildEmptyState()
-                  : ListView.builder(
-                      padding: const EdgeInsets.all(AppConstants.defaultPadding),
-                      itemCount: _filteredItems.length,
-                      itemBuilder: (context, index) {
-                        return _buildVocabularyCard(_filteredItems[index], index);
-                      },
-                    ),
+              child: _controller.isLoading
+                  ? Center(
+                      child: CircularProgressIndicator.adaptive(),
+                    )
+                  : _filteredItems.isEmpty
+                      ? _buildEmptyState()
+                      : ListView.builder(
+                          padding:
+                              const EdgeInsets.all(AppConstants.defaultPadding),
+                          itemCount: _filteredItems.length,
+                          itemBuilder: (context, index) {
+                            return _buildVocabularyCard(
+                                _filteredItems[index], index);
+                          },
+                        ),
             ),
           ],
         ),
@@ -438,7 +454,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   Widget _buildProgressHeader() {
     int totalItems = _controller.getTodaysVocabulary().length;
     int learnedItems = _favoriteWords.length;
-    
+
     return Container(
       margin: const EdgeInsets.all(AppConstants.defaultPadding),
       padding: const EdgeInsets.all(16),
@@ -527,7 +543,9 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
                   Text(
-                    totalItems > 0 ? '${((learnedItems / totalItems) * 100).toInt()}%' : '0%',
+                    totalItems > 0
+                        ? '${((learnedItems / totalItems) * 100).toInt()}%'
+                        : '0%',
                     style: const TextStyle(
                       fontSize: 28,
                       fontWeight: FontWeight.bold,
@@ -585,7 +603,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   Widget _buildVocabularyCard(VocabularyItem item, int index) {
     final isPlaying = _isSpeaking && _currentPlayingWord == item.arabicWord;
     final isFavorite = _favoriteWords.contains(item.arabicWord);
-    
+
     return TweenAnimationBuilder(
       duration: Duration(milliseconds: 300 + (index * 50)),
       tween: Tween<double>(begin: 0, end: 1),
@@ -670,7 +688,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                           ),
                           // Voice Button
                           GestureDetector(
-                            onTap: () => _speakWord(item.arabicWord, item.arabicWord),
+                            onTap: () =>
+                                _speakWord(item.arabicWord, item.arabicWord),
                             child: Container(
                               padding: const EdgeInsets.all(8),
                               decoration: BoxDecoration(
@@ -693,7 +712,8 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                                         height: 20,
                                         child: CircularProgressIndicator(
                                           strokeWidth: 2,
-                                          valueColor: AlwaysStoppedAnimation<Color>(
+                                          valueColor:
+                                              AlwaysStoppedAnimation<Color>(
                                             AppConstants.accentColor,
                                           ),
                                         ),
@@ -779,15 +799,21 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Icon(
-                                isFavorite ? Icons.favorite : Icons.favorite_border,
+                                isFavorite
+                                    ? Icons.favorite
+                                    : Icons.favorite_border,
                                 size: 16,
-                                color: isFavorite ? Colors.red : AppConstants.secondaryColor,
+                                color: isFavorite
+                                    ? Colors.red
+                                    : AppConstants.secondaryColor,
                               ),
                               const SizedBox(width: 4),
                               Text(
                                 isFavorite ? 'Saved' : 'Save',
                                 style: TextStyle(
-                                  color: isFavorite ? Colors.red : AppConstants.secondaryColor,
+                                  color: isFavorite
+                                      ? Colors.red
+                                      : AppConstants.secondaryColor,
                                 ),
                               ),
                             ],
@@ -808,7 +834,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   void _showVocabularyDetails(VocabularyItem item) {
     final isPlaying = _isSpeaking && _currentPlayingWord == item.arabicWord;
     final isFavorite = _favoriteWords.contains(item.arabicWord);
-    
+
     showModalBottomSheet(
       context: context,
       shape: const RoundedRectangleBorder(
@@ -874,13 +900,15 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                             ),
                             child: AnimatedSwitcher(
                               duration: const Duration(milliseconds: 300),
-                              child: isPlaying && _currentPlayingWord == item.arabicWord
+                              child: isPlaying &&
+                                      _currentPlayingWord == item.arabicWord
                                   ? const SizedBox(
                                       width: 24,
                                       height: 24,
                                       child: CircularProgressIndicator(
                                         strokeWidth: 2,
-                                        valueColor: AlwaysStoppedAnimation<Color>(
+                                        valueColor:
+                                            AlwaysStoppedAnimation<Color>(
                                           AppConstants.accentColor,
                                         ),
                                       ),
@@ -945,7 +973,9 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                           },
                           style: OutlinedButton.styleFrom(
                             side: BorderSide(
-                              color: isFavorite ? Colors.red : AppConstants.secondaryColor,
+                              color: isFavorite
+                                  ? Colors.red
+                                  : AppConstants.secondaryColor,
                             ),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(10),
@@ -955,15 +985,21 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Icon(
-                                isFavorite ? Icons.favorite : Icons.favorite_border,
+                                isFavorite
+                                    ? Icons.favorite
+                                    : Icons.favorite_border,
                                 size: 16,
-                                color: isFavorite ? Colors.red : AppConstants.secondaryColor,
+                                color: isFavorite
+                                    ? Colors.red
+                                    : AppConstants.secondaryColor,
                               ),
                               const SizedBox(width: 4),
                               Text(
                                 isFavorite ? 'Saved' : 'Save',
                                 style: TextStyle(
-                                  color: isFavorite ? Colors.red : AppConstants.secondaryColor,
+                                  color: isFavorite
+                                      ? Colors.red
+                                      : AppConstants.secondaryColor,
                                 ),
                               ),
                             ],
@@ -983,7 +1019,10 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                               borderRadius: BorderRadius.circular(10),
                             ),
                           ),
-                          child: const Text('Repeat',style: TextStyle(color: Colors.white),),
+                          child: const Text(
+                            'Repeat',
+                            style: TextStyle(color: Colors.white),
+                          ),
                         ),
                       ),
                       const SizedBox(width: 10),
@@ -996,7 +1035,10 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
                               borderRadius: BorderRadius.circular(10),
                             ),
                           ),
-                          child: const Text('Close',style: TextStyle(color: Colors.white),),
+                          child: const Text(
+                            'Close',
+                            style: TextStyle(color: Colors.white),
+                          ),
                         ),
                       ),
                     ],

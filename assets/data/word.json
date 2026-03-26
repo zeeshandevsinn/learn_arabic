@@ -1,0 +1,2480 @@
+[
+  {
+    "arabicWord": "مَرْحَبًا",
+    "englishMeaning": "Hello",
+    "exampleSentence": "مَرْحَبًا بِكَ - Welcome"
+  },
+  {
+    "arabicWord": "السَّلَامُ عَلَيْكُمْ",
+    "englishMeaning": "Peace be upon you",
+    "exampleSentence": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ - Peace be upon you and God's mercy"
+  },
+  {
+    "arabicWord": "وَعَلَيْكُمُ السَّلَامُ",
+    "englishMeaning": "And upon you be peace",
+    "exampleSentence": "وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللَّهِ"
+  },
+  {
+    "arabicWord": "صَبَاحُ الْخَيْرِ",
+    "englishMeaning": "Good morning",
+    "exampleSentence": "صَبَاحُ الْخَيْرِ يَا صَدِيقِي"
+  },
+  {
+    "arabicWord": "مَسَاءُ الْخَيْرِ",
+    "englishMeaning": "Good evening",
+    "exampleSentence": "مَسَاءُ الْخَيْرِ كَيْفَ حَالُكَ"
+  },
+
+  {
+    "arabicWord": "وَاحِدٌ",
+    "englishMeaning": "One",
+    "exampleSentence": "عِنْدِي كِتَابٌ وَاحِدٌ"
+  },
+  {
+    "arabicWord": "اِثْنَانِ",
+    "englishMeaning": "Two",
+    "exampleSentence": "عِنْدِي قَلَمَانِ"
+  },
+
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا مُفِيدًا"
+  },
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "أَكْتُبُ بِقَلَمٍ أَزْرَقَ"
+  },
+
+  {
+    "arabicWord": "أَبٌ",
+    "englishMeaning": "Father",
+    "exampleSentence": "أَبِي مُهَنْدِسٌ"
+  },
+  {
+    "arabicWord": "أُمٌّ",
+    "englishMeaning": "Mother",
+    "exampleSentence": "أُمِّي طَبِيبَةٌ"
+  },
+
+  {
+    "arabicWord": "سَعِيدٌ",
+    "englishMeaning": "Happy",
+    "exampleSentence": "أَنَا سَعِيدٌ الْيَوْمَ"
+  },
+
+  {
+    "arabicWord": "أَكَلَ",
+    "englishMeaning": "Eat",
+    "exampleSentence": "آكُلُ التُّفَّاحَ"
+  },
+
+  {
+    "arabicWord": "مَدْرَسَةٌ",
+    "englishMeaning": "School",
+    "exampleSentence": "أَذْهَبُ إِلَى الْمَدْرَسَةِ"
+  },
+
+  {
+    "arabicWord": "مُعَلِّمٌ",
+    "englishMeaning": "Teacher",
+    "exampleSentence": "الْمُعَلِّمُ يَشْرَحُ الدَّرْسَ"
+  },
+  {
+    "arabicWord": "طَالِبٌ",
+    "englishMeaning": "Student",
+    "exampleSentence": "الطَّالِبُ مُجْتَهِدٌ"
+  },
+  {
+    "arabicWord": "لُغَةٌ",
+    "englishMeaning": "Language",
+    "exampleSentence": "أُحِبُّ اللُّغَةَ الْعَرَبِيَّةَ"
+  },
+  {
+    "arabicWord": "دَرْسٌ",
+    "englishMeaning": "Lesson",
+    "exampleSentence": "هَذَا دَرْسٌ سَهْلٌ"
+  }
+,
+  {
+    "arabicWord": "سُوقٌ",
+    "englishMeaning": "Market",
+    "exampleSentence": "أَذْهَبُ إِلَى السُّوقِ"
+  },
+  {
+    "arabicWord": "مَطْعَمٌ",
+    "englishMeaning": "Restaurant",
+    "exampleSentence": "آكُلُ فِي الْمَطْعَمِ"
+  },
+  {
+    "arabicWord": "مَطَارٌ",
+    "englishMeaning": "Airport",
+    "exampleSentence": "أَذْهَبُ إِلَى الْمَطَارِ"
+  },
+  {
+    "arabicWord": "حَدِيقَةٌ",
+    "englishMeaning": "Park",
+    "exampleSentence": "أَمْشِي فِي الْحَدِيقَةِ"
+  },
+  {
+    "arabicWord": "شَاطِئٌ",
+    "englishMeaning": "Beach",
+    "exampleSentence": "أَسْبَحُ فِي الشَّاطِئِ"
+  },
+
+  {
+    "arabicWord": "مَفْتُوحٌ",
+    "englishMeaning": "Open",
+    "exampleSentence": "الْبَابُ مَفْتُوحٌ"
+  },
+  {
+    "arabicWord": "مُغْلَقٌ",
+    "englishMeaning": "Closed",
+    "exampleSentence": "الْمَحَلُّ مُغْلَقٌ"
+  },
+
+  {
+    "arabicWord": "قَرِيبٌ",
+    "englishMeaning": "Near",
+    "exampleSentence": "الْمَدْرَسَةُ قَرِيبَةٌ"
+  },
+  {
+    "arabicWord": "بَعِيدٌ",
+    "englishMeaning": "Far",
+    "exampleSentence": "الْمَطَارُ بَعِيدٌ"
+  },
+
+  {
+    "arabicWord": "سَمَاءٌ",
+    "englishMeaning": "Sky",
+    "exampleSentence": "السَّمَاءُ زَرْقَاءُ"
+  },
+  {
+    "arabicWord": "أَرْضٌ",
+    "englishMeaning": "Earth",
+    "exampleSentence": "الأَرْضُ كَبِيرَةٌ"
+  },
+
+  {
+    "arabicWord": "رَجُلٌ",
+    "englishMeaning": "Man",
+    "exampleSentence": "هَذَا رَجُلٌ طَيِّبٌ"
+  },
+  {
+    "arabicWord": "اِمْرَأَةٌ",
+    "englishMeaning": "Woman",
+    "exampleSentence": "هَذِهِ اِمْرَأَةٌ كَرِيمَةٌ"
+  },
+
+  {
+    "arabicWord": "وَلَدٌ",
+    "englishMeaning": "Boy",
+    "exampleSentence": "الْوَلَدُ يَلْعَبُ"
+  },
+  {
+    "arabicWord": "بِنْتٌ",
+    "englishMeaning": "Girl",
+    "exampleSentence": "الْبِنْتُ تَدْرُسُ"
+  },
+
+  {
+    "arabicWord": "نَهَارٌ",
+    "englishMeaning": "Day",
+    "exampleSentence": "النَّهَارُ جَمِيلٌ"
+  },
+  {
+    "arabicWord": "لَيْلٌ",
+    "englishMeaning": "Night",
+    "exampleSentence": "اللَّيْلُ هَادِئٌ"
+  }
+,
+  {
+    "arabicWord": "جَبَلٌ",
+    "englishMeaning": "Mountain",
+    "exampleSentence": "الْجَبَلُ عَالٍ"
+  },
+  {
+    "arabicWord": "نَهْرٌ",
+    "englishMeaning": "River",
+    "exampleSentence": "النَّهْرُ طَوِيلٌ"
+  },
+  {
+    "arabicWord": "بَحْرٌ",
+    "englishMeaning": "Sea",
+    "exampleSentence": "الْبَحْرُ جَمِيلٌ"
+  },
+  {
+    "arabicWord": "شَمْسٌ",
+    "englishMeaning": "Sun",
+    "exampleSentence": "الشَّمْسُ سَاطِعَةٌ"
+  },
+  {
+    "arabicWord": "قَمَرٌ",
+    "englishMeaning": "Moon",
+    "exampleSentence": "الْقَمَرُ مُنِيرٌ"
+  },
+
+  {
+    "arabicWord": "طَبِيبٌ",
+    "englishMeaning": "Doctor",
+    "exampleSentence": "الطَّبِيبُ يُسَاعِدُ الْمَرْضَى"
+  },
+  {
+    "arabicWord": "مُهَنْدِسٌ",
+    "englishMeaning": "Engineer",
+    "exampleSentence": "الْمُهَنْدِسُ يَبْنِي الْبُيُوتَ"
+  },
+  {
+    "arabicWord": "مُدَرِّسٌ",
+    "englishMeaning": "Teacher",
+    "exampleSentence": "الْمُدَرِّسُ يَشْرَحُ الدَّرْسَ"
+  },
+
+  {
+    "arabicWord": "مَرِيضٌ",
+    "englishMeaning": "Sick",
+    "exampleSentence": "أَنَا مَرِيضٌ الْيَوْمَ"
+  },
+  {
+    "arabicWord": "صِحَّةٌ",
+    "englishMeaning": "Health",
+    "exampleSentence": "الصِّحَّةُ مُهِمَّةٌ"
+  },
+
+  {
+    "arabicWord": "قَوِيٌّ",
+    "englishMeaning": "Strong",
+    "exampleSentence": "هُوَ قَوِيٌّ"
+  },
+  {
+    "arabicWord": "ضَعِيفٌ",
+    "englishMeaning": "Weak",
+    "exampleSentence": "هُوَ ضَعِيفٌ"
+  },
+
+  {
+    "arabicWord": "حَارٌّ",
+    "englishMeaning": "Hot",
+    "exampleSentence": "الْجَوُّ حَارٌّ"
+  },
+  {
+    "arabicWord": "بَارِدٌ",
+    "englishMeaning": "Cold",
+    "exampleSentence": "الْمَاءُ بَارِدٌ"
+  },
+
+  {
+    "arabicWord": "سَمِعَ",
+    "englishMeaning": "Hear",
+    "exampleSentence": "أَسْمَعُ الصَّوْتَ"
+  },
+  {
+    "arabicWord": "رَأَى",
+    "englishMeaning": "See",
+    "exampleSentence": "أَرَى الْبَحْرَ"
+  },
+
+  {
+    "arabicWord": "فَتَحَ",
+    "englishMeaning": "Open",
+    "exampleSentence": "أَفْتَحُ الْبَابَ"
+  },
+  {
+    "arabicWord": "أَغْلَقَ",
+    "englishMeaning": "Close",
+    "exampleSentence": "أُغْلِقُ الْبَابَ"
+  }
+,
+  {
+    "arabicWord": "جَوَّالٌ",
+    "englishMeaning": "Mobile phone",
+    "exampleSentence": "جَوَّالِي جَدِيدٌ"
+  },
+  {
+    "arabicWord": "شَاحِنٌ",
+    "englishMeaning": "Charger",
+    "exampleSentence": "أَيْنَ الشَّاحِنُ؟"
+  },
+  {
+    "arabicWord": "إِنْتِرْنِتٌ",
+    "englishMeaning": "Internet",
+    "exampleSentence": "الْإِنْتِرْنِتُ بَطِيءٌ"
+  },
+  {
+    "arabicWord": "كَهْرَبَاءُ",
+    "englishMeaning": "Electricity",
+    "exampleSentence": "الْكَهْرَبَاءُ مَقْطُوعَةٌ"
+  },
+  {
+    "arabicWord": "مَاءٌ",
+    "englishMeaning": "Water",
+    "exampleSentence": "أُرِيدُ مَاءً"
+  },
+
+  {
+    "arabicWord": "مُسَاعَدَةٌ",
+    "englishMeaning": "Help",
+    "exampleSentence": "أَحْتَاجُ مُسَاعَدَةً"
+  },
+  {
+    "arabicWord": "مُشْكِلَةٌ",
+    "englishMeaning": "Problem",
+    "exampleSentence": "عِنْدِي مُشْكِلَةٌ"
+  },
+  {
+    "arabicWord": "حَلٌّ",
+    "englishMeaning": "Solution",
+    "exampleSentence": "هَذَا حَلٌّ جَيِّدٌ"
+  },
+
+  {
+    "arabicWord": "مُمْكِنٌ",
+    "englishMeaning": "Possible",
+    "exampleSentence": "هَذَا مُمْكِنٌ"
+  },
+  {
+    "arabicWord": "مُسْتَحِيلٌ",
+    "englishMeaning": "Impossible",
+    "exampleSentence": "هَذَا مُسْتَحِيلٌ"
+  },
+
+  {
+    "arabicWord": "سُرْعَةٌ",
+    "englishMeaning": "Speed",
+    "exampleSentence": "السُّرْعَةُ مُهِمَّةٌ"
+  },
+  {
+    "arabicWord": "تَأْخِيرٌ",
+    "englishMeaning": "Delay",
+    "exampleSentence": "هُنَاكَ تَأْخِيرٌ"
+  },
+
+  {
+    "arabicWord": "بَدَأَ",
+    "englishMeaning": "Start",
+    "exampleSentence": "نَبْدَأُ الدَّرْسَ"
+  },
+  {
+    "arabicWord": "اِنْتَهَى",
+    "englishMeaning": "Finish",
+    "exampleSentence": "اِنْتَهَى الدَّرْسُ"
+  },
+
+  {
+    "arabicWord": "اِنْتَظَرَ",
+    "englishMeaning": "Wait",
+    "exampleSentence": "اِنْتَظِرْ قَلِيلًا"
+  },
+  {
+    "arabicWord": "عَجِلَ",
+    "englishMeaning": "Hurry",
+    "exampleSentence": "اِعْجَلْ مِنْ فَضْلِكَ"
+  }
+,
+  {
+    "arabicWord": "حَافِلَةٌ",
+    "englishMeaning": "Bus",
+    "exampleSentence": "أَرْكَبُ الْحَافِلَةَ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "تَذْكِرَةٌ",
+    "englishMeaning": "Ticket",
+    "exampleSentence": "أُرِيدُ تَذْكِرَةً"
+  },
+  {
+    "arabicWord": "مَوْعِدٌ",
+    "englishMeaning": "Appointment",
+    "exampleSentence": "لَدَيَّ مَوْعِدٌ الْيَوْمَ"
+  },
+  {
+    "arabicWord": "دَوَاءٌ",
+    "englishMeaning": "Medicine",
+    "exampleSentence": "أَحْتَاجُ إِلَى دَوَاءٍ"
+  },
+  {
+    "arabicWord": "أَلَمٌ",
+    "englishMeaning": "Pain",
+    "exampleSentence": "عِنْدِي أَلَمٌ فِي رَأْسِي"
+  },
+
+  {
+    "arabicWord": "رَاتِبٌ",
+    "englishMeaning": "Salary",
+    "exampleSentence": "رَاتِبِي قَلِيلٌ"
+  },
+  {
+    "arabicWord": "وَظِيفَةٌ",
+    "englishMeaning": "Job",
+    "exampleSentence": "أَبْحَثُ عَنْ وَظِيفَةٍ"
+  },
+
+  {
+    "arabicWord": "صَدَاعٌ",
+    "englishMeaning": "Headache",
+    "exampleSentence": "عِنْدِي صُدَاعٌ"
+  },
+  {
+    "arabicWord": "حُمَّى",
+    "englishMeaning": "Fever",
+    "exampleSentence": "عِنْدِي حُمَّى"
+  },
+
+  {
+    "arabicWord": "مُتَأَخِّرٌ",
+    "englishMeaning": "Late",
+    "exampleSentence": "أَنَا مُتَأَخِّرٌ"
+  },
+  {
+    "arabicWord": "مُبَكِّرٌ",
+    "englishMeaning": "Early",
+    "exampleSentence": "أَسْتَيْقِظُ مُبَكِّرًا"
+  },
+
+  {
+    "arabicWord": "مُزْدَحِمٌ",
+    "englishMeaning": "Crowded",
+    "exampleSentence": "السُّوقُ مُزْدَحِمٌ"
+  },
+  {
+    "arabicWord": "فَارِغٌ",
+    "englishMeaning": "Empty",
+    "exampleSentence": "الْمَكَانُ فَارِغٌ"
+  },
+
+  {
+    "arabicWord": "حَجَزَ",
+    "englishMeaning": "Book/Reserve",
+    "exampleSentence": "أَحْجِزُ تَذْكِرَةً"
+  },
+  {
+    "arabicWord": "أَلْغَى",
+    "englishMeaning": "Cancel",
+    "exampleSentence": "أَلْغَيْتُ الْمَوْعِدَ"
+  }
+,
+  {
+    "arabicWord": "شُرْطِيٌّ",
+    "englishMeaning": "Police officer",
+    "exampleSentence": "الشُّرْطِيُّ يُسَاعِدُ النَّاسَ"
+  },
+  {
+    "arabicWord": "مُسْعِفٌ",
+    "englishMeaning": "Paramedic",
+    "exampleSentence": "الْمُسْعِفُ سَرِيعٌ"
+  },
+  {
+    "arabicWord": "حَادِثٌ",
+    "englishMeaning": "Accident",
+    "exampleSentence": "هُنَاكَ حَادِثٌ"
+  },
+  {
+    "arabicWord": "خَطَرٌ",
+    "englishMeaning": "Danger",
+    "exampleSentence": "هَذَا خَطَرٌ"
+  },
+
+  {
+    "arabicWord": "مِفْتَاحٌ",
+    "englishMeaning": "Key",
+    "exampleSentence": "أَيْنَ الْمِفْتَاحُ؟"
+  },
+  {
+    "arabicWord": "حَقِيبَةُ سَفَرٍ",
+    "englishMeaning": "Suitcase",
+    "exampleSentence": "حَقِيبَةُ السَّفَرِ كَبِيرَةٌ"
+  },
+
+  {
+    "arabicWord": "جَوَازُ سَفَرٍ",
+    "englishMeaning": "Passport",
+    "exampleSentence": "أَيْنَ جَوَازُ السَّفَرِ؟"
+  },
+  {
+    "arabicWord": "تَأْشِيرَةٌ",
+    "englishMeaning": "Visa",
+    "exampleSentence": "عِنْدِي تَأْشِيرَةٌ"
+  },
+
+  {
+    "arabicWord": "مَطَرٌ",
+    "englishMeaning": "Rain",
+    "exampleSentence": "الْمَطَرُ يَنْزِلُ"
+  },
+  {
+    "arabicWord": "رِيحٌ",
+    "englishMeaning": "Wind",
+    "exampleSentence": "الرِّيحُ قَوِيَّةٌ"
+  },
+
+  {
+    "arabicWord": "جَائِزَةٌ",
+    "englishMeaning": "Prize",
+    "exampleSentence": "فُزْتُ بِجَائِزَةٍ"
+  },
+  {
+    "arabicWord": "هَدِيَّةٌ",
+    "englishMeaning": "Gift",
+    "exampleSentence": "هَذِهِ هَدِيَّةٌ لَكَ"
+  },
+
+  {
+    "arabicWord": "حَفْلَةٌ",
+    "englishMeaning": "Party",
+    "exampleSentence": "عِنْدِي حَفْلَةٌ"
+  },
+  {
+    "arabicWord": "دَعْوَةٌ",
+    "englishMeaning": "Invitation",
+    "exampleSentence": "تَلَقَّيْتُ دَعْوَةً"
+  }
+,
+  {
+    "arabicWord": "بَنْكٌ",
+    "englishMeaning": "Bank",
+    "exampleSentence": "أَذْهَبُ إِلَى الْبَنْكِ"
+  },
+  {
+    "arabicWord": "نُقُودٌ",
+    "englishMeaning": "Cash",
+    "exampleSentence": "عِنْدِي نُقُودٌ"
+  },
+  {
+    "arabicWord": "بِطَاقَةٌ",
+    "englishMeaning": "Card",
+    "exampleSentence": "أَدْفَعُ بِالْبِطَاقَةِ"
+  },
+
+  {
+    "arabicWord": "إِيجَارٌ",
+    "englishMeaning": "Rent",
+    "exampleSentence": "أَدْفَعُ الإِيجَارَ"
+  },
+  {
+    "arabicWord": "شَقَّةٌ",
+    "englishMeaning": "Apartment",
+    "exampleSentence": "أَسْكُنُ فِي شَقَّةٍ"
+  },
+
+  {
+    "arabicWord": "خَرِيطَةٌ",
+    "englishMeaning": "Map",
+    "exampleSentence": "أَنْظُرُ إِلَى الْخَرِيطَةِ"
+  },
+  {
+    "arabicWord": "طَرِيقٌ",
+    "englishMeaning": "Road",
+    "exampleSentence": "هَذَا الطَّرِيقُ طَوِيلٌ"
+  },
+
+  {
+    "arabicWord": "اِتِّجَاهٌ",
+    "englishMeaning": "Direction",
+    "exampleSentence": "أُرِيدُ الاِتِّجَاهَ"
+  },
+  {
+    "arabicWord": "يَمِينٌ",
+    "englishMeaning": "Right",
+    "exampleSentence": "اِذْهَبْ يَمِينًا"
+  },
+  {
+    "arabicWord": "يَسَارٌ",
+    "englishMeaning": "Left",
+    "exampleSentence": "اِذْهَبْ يَسَارًا"
+  },
+
+  {
+    "arabicWord": "مُسْتَقِيمٌ",
+    "englishMeaning": "Straight",
+    "exampleSentence": "اِذْهَبْ مُسْتَقِيمًا"
+  },
+
+  {
+    "arabicWord": "غَيْمٌ",
+    "englishMeaning": "Cloud",
+    "exampleSentence": "السَّمَاءُ بِهَا غَيْمٌ"
+  },
+  {
+    "arabicWord": "عَاصِفَةٌ",
+    "englishMeaning": "Storm",
+    "exampleSentence": "هُنَاكَ عَاصِفَةٌ"
+  },
+
+  {
+    "arabicWord": "اِسْتَخْدَمَ",
+    "englishMeaning": "Use",
+    "exampleSentence": "أَسْتَخْدِمُ الْهَاتِفَ"
+  },
+  {
+    "arabicWord": "أَرْسَلَ",
+    "englishMeaning": "Send",
+    "exampleSentence": "أُرْسِلُ رِسَالَةً"
+  },
+  {
+    "arabicWord": "اِسْتَلَمَ",
+    "englishMeaning": "Receive",
+    "exampleSentence": "اِسْتَلَمْتُ الرِّسَالَةَ"
+  }
+,
+  {
+    "arabicWord": "مِهْنَةٌ",
+    "englishMeaning": "Profession",
+    "exampleSentence": "مِهْنَتِي مُعَلِّمٌ"
+  },
+  {
+    "arabicWord": "خِدْمَةٌ",
+    "englishMeaning": "Service",
+    "exampleSentence": "هَذِهِ خِدْمَةٌ جَيِّدَةٌ"
+  },
+  {
+    "arabicWord": "تَصْلِيحٌ",
+    "englishMeaning": "Repair",
+    "exampleSentence": "أَحْتَاجُ إِلَى تَصْلِيحٍ"
+  },
+
+  {
+    "arabicWord": "عُطْلٌ",
+    "englishMeaning": "Breakdown/Fault",
+    "exampleSentence": "هُنَاكَ عُطْلٌ فِي الْجِهَازِ"
+  },
+  {
+    "arabicWord": "جِهَازٌ",
+    "englishMeaning": "Device",
+    "exampleSentence": "هَذَا جِهَازٌ جَدِيدٌ"
+  },
+
+  {
+    "arabicWord": "وَصْلٌ",
+    "englishMeaning": "Connection",
+    "exampleSentence": "الوَصْلُ قَوِيٌّ"
+  },
+  {
+    "arabicWord": "قَطْعٌ",
+    "englishMeaning": "Disconnection",
+    "exampleSentence": "هُنَاكَ قَطْعٌ فِي الْكَهْرَبَاءِ"
+  },
+
+  {
+    "arabicWord": "تَأْجِيرٌ",
+    "englishMeaning": "Renting",
+    "exampleSentence": "أُرِيدُ تَأْجِيرَ سَيَّارَةٍ"
+  },
+  {
+    "arabicWord": "تَوْصِيلٌ",
+    "englishMeaning": "Delivery",
+    "exampleSentence": "أُرِيدُ تَوْصِيلَ الطَّعَامِ"
+  },
+
+  {
+    "arabicWord": "زِبُونٌ",
+    "englishMeaning": "Customer",
+    "exampleSentence": "الزَّبُونُ رَاضٍ"
+  },
+  {
+    "arabicWord": "بَائِعٌ",
+    "englishMeaning": "Seller",
+    "exampleSentence": "الْبَائِعُ صَادِقٌ"
+  },
+
+  {
+    "arabicWord": "تَجْرِبَةٌ",
+    "englishMeaning": "Experience",
+    "exampleSentence": "هَذِهِ تَجْرِبَةٌ جَدِيدَةٌ"
+  },
+  {
+    "arabicWord": "مُحَاوَلَةٌ",
+    "englishMeaning": "Attempt",
+    "exampleSentence": "هَذِهِ مُحَاوَلَةٌ جَيِّدَةٌ"
+  }
+,
+  {
+    "arabicWord": "وِصَفَةٌ طِبِّيَّةٌ",
+    "englishMeaning": "Medical prescription",
+    "exampleSentence": "أَخَذْتُ وِصَفَةً طِبِّيَّةً مِنَ الطَّبِيبِ"
+  },
+  {
+    "arabicWord": "أَسْعَافٌ",
+    "englishMeaning": "Ambulance",
+    "exampleSentence": "يَحْتَاجُ صَدِيقِي إِلَى أَسْعَافٍ سَرِيعًا"
+  },
+  {
+    "arabicWord": "حَادِثٌ",
+    "englishMeaning": "Accident",
+    "exampleSentence": "حَدَثَ حَادِثٌ عَلَى الطَّرِيقِ"
+  },
+  {
+    "arabicWord": "تَذْكِرَةُ سَفَرٍ",
+    "englishMeaning": "Travel ticket",
+    "exampleSentence": "حَجَزْتُ تَذْكِرَةَ السَّفَرِ غَدًا"
+  },
+  {
+    "arabicWord": "مَوْقِفُ حَافِلَةٍ",
+    "englishMeaning": "Bus stop",
+    "exampleSentence": "الْحَافِلَةُ تَوْقَفُ فِي مَوْقِفِ حَافِلَةٍ قَرِيبٍ"
+  },
+  {
+    "arabicWord": "صَرِيفَةٌ",
+    "englishMeaning": "Currency exchange",
+    "exampleSentence": "ذَهَبْتُ إِلَى صَرِيفَةٍ لِتَبْدِيلِ النُقُودِ"
+  },
+  {
+    "arabicWord": "مَصْرِفٌ",
+    "englishMeaning": "Bank",
+    "exampleSentence": "أَذْهَبُ إِلَى المَصْرِفِ لِسَحْبِ النُقُودِ"
+  },
+  {
+    "arabicWord": "رَقْمُ حِسَابٍ",
+    "englishMeaning": "Account number",
+    "exampleSentence": "هَلْ أَحْضَرْتَ رَقْمَ الحِسَابِ؟"
+  },
+  {
+    "arabicWord": "وِزَارَةٌ",
+    "englishMeaning": "Ministry / Government office",
+    "exampleSentence": "زُرْتُ الوِزَارَةَ لِلطَّلَبِ"
+  },
+  {
+    "arabicWord": "مَطْعَمٌ صِحِّيّ",
+    "englishMeaning": "Healthy restaurant",
+    "exampleSentence": "أُرِيدُ أَنْ أَذْهَبَ إِلَى مَطْعَمٍ صِحِيّ"
+  }
+,
+  {
+    "arabicWord": "طَعَامٌ سَرِيعٌ",
+    "englishMeaning": "Fast food",
+    "exampleSentence": "أُحِبُ أَنْ آكُلَ طَعَامًا سَرِيعًا أَحْيَانًا"
+  },
+  {
+    "arabicWord": "سُوبرماركَت",
+    "englishMeaning": "Supermarket",
+    "exampleSentence": "ذَهَبْتُ إِلَى السُوبرماركَتِ لِشِرَاءِ الطَّعَامِ"
+  },
+  {
+    "arabicWord": "خِدْمَةُ تَوْصِيلٍ",
+    "englishMeaning": "Delivery service",
+    "exampleSentence": "اِسْتَعْمَلْتُ خِدْمَةَ التَّوْصِيلِ لِلْطَعَامِ"
+  },
+  {
+    "arabicWord": "وَصْفَةُ طَبْخٍ",
+    "englishMeaning": "Cooking recipe",
+    "exampleSentence": "اِتَّبَعْتُ وَصْفَةَ طَبْخٍ جَدِيدَةٍ"
+  },
+  {
+    "arabicWord": "مَكْتَبَةٌ",
+    "englishMeaning": "Library",
+    "exampleSentence": "أَقْرَأُ كُتُبِي فِي المَكْتَبَةِ"
+  },
+  {
+    "arabicWord": "مُسْتَشْفَى",
+    "englishMeaning": "Hospital",
+    "exampleSentence": "زُرْتُ المُسْتَشْفَى لِفَحْصِ الصِّحَّةِ"
+  },
+  {
+    "arabicWord": "صَيْدَلِيَّةٌ",
+    "englishMeaning": "Pharmacy",
+    "exampleSentence": "اِشْتَرَيْتُ الدَّوَاءَ مِنَ الصَّيْدَلِيَّةِ"
+  },
+  {
+    "arabicWord": "مِرْوَحَةٌ",
+    "englishMeaning": "Fan",
+    "exampleSentence": "اِسْتَعْمَلْتُ المِرْوَحَةَ فِي الغُرْفَةِ"
+  },
+  {
+    "arabicWord": "مِكْوَاةٌ",
+    "englishMeaning": "Iron (for clothes)",
+    "exampleSentence": "كَوَيْتُ القَمِيصَ بِالمِكْوَاةِ"
+  },
+  {
+    "arabicWord": "غَسَّالَةٌ",
+    "englishMeaning": "Washing machine",
+    "exampleSentence": "اِسْتَعْمَلْتُ الغَسَّالَةَ لِغَسْلِ المَلَابِسِ"
+  }
+,
+  {
+    "arabicWord": "هَاتِفٌ مَحْمُولٌ",
+    "englishMeaning": "Mobile phone",
+    "exampleSentence": "أَتَكَلَّمُ عَلَى هَاتِفِي المَحْمُولِ مَعَ صَدِيقِي"
+  },
+  {
+    "arabicWord": "شَاحِنٌ",
+    "englishMeaning": "Charger",
+    "exampleSentence": "نَسِيتُ الشَّاحِنَ فِي المَنْزِلِ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Watch / Clock",
+    "exampleSentence": "أَرَى السَّاعَةَ عَلَى الحَائِطِ"
+  },
+  {
+    "arabicWord": "نَظَّارَةٌ شَمْسِيَّةٌ",
+    "englishMeaning": "Sunglasses",
+    "exampleSentence": "أَرْتَدِي النَّظَّارَةَ الشَّمْسِيَّةَ فِي الشَّمْسِ"
+  },
+  {
+    "arabicWord": "قُبَّعَةٌ",
+    "englishMeaning": "Hat / Cap",
+    "exampleSentence": "وَضَعْتُ القُبَّعَةَ عَلَى رَأْسِي"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag / Backpack",
+    "exampleSentence": "أَحْمِلُ حَقِيبَتِي إِلَى المَدْرَسَةِ"
+  },
+  {
+    "arabicWord": "مِظَلَّةٌ",
+    "englishMeaning": "Umbrella",
+    "exampleSentence": "اِسْتَعْمَلْتُ المِظَلَّةَ لِلْمَطَرِ"
+  },
+  {
+    "arabicWord": "مَظْهَرٌ خَارِجِيّ",
+    "englishMeaning": "Appearance / Outfit",
+    "exampleSentence": "أُحَافِظُ عَلَى مَظْهَرِي الخَارِجِيّ"
+  },
+  {
+    "arabicWord": "حِذَاءٌ",
+    "englishMeaning": "Shoes",
+    "exampleSentence": "اشْتَرَيْتُ حِذَاءً جَدِيدًا لِلْمَدْرَسَةِ"
+  },
+  {
+    "arabicWord": "جَوْرَبَاتٌ",
+    "englishMeaning": "Socks",
+    "exampleSentence": "أَرْتَدِي الجَوْرَبَاتِ مَعَ الحِذَاءِ"
+  },
+
+  
+
+  {
+    "arabicWord": "كُرْسِيّ",
+    "englishMeaning": "Chair",
+    "exampleSentence": "أَجْلِسُ عَلَى الكُرْسِيّ فِي الغُرْفَةِ"
+  },
+  {
+    "arabicWord": "مَكْتَبٌ",
+    "englishMeaning": "Desk / Office",
+    "exampleSentence": "أَدْرُسُ عَلَى المَكْتَبِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "سَجَّادَةٌ",
+    "englishMeaning": "Carpet / Prayer rug",
+    "exampleSentence": "وَضَعْتُ السَّجَّادَةَ فِي الغُرْفَةِ"
+  },
+  {
+    "arabicWord": "مِرْآةٌ",
+    "englishMeaning": "Mirror",
+    "exampleSentence": "أَنَظُرُ فِي المِرْآةِ قَبْلَ الخُرُوجِ"
+  },
+  {
+    "arabicWord": "بَابٌ",
+    "englishMeaning": "Door",
+    "exampleSentence": "أَغْلِقُ البَابَ عِنْدَ خُرُوجِي"
+  },
+  {
+    "arabicWord": "شُبَّاكٌ",
+    "englishMeaning": "Window",
+    "exampleSentence": "أَفْتَحُ الشُّبَّاكَ لِدُخُولِ الهَوَاءِ"
+  },
+  {
+    "arabicWord": "سِتَارَةٌ",
+    "englishMeaning": "Curtain",
+    "exampleSentence": "سَحَبْتُ السِّتَارَةَ لِحِمَايَةِ الخُصُوصِيَّةِ"
+  },
+  {
+    "arabicWord": "مِصْبَاحٌ",
+    "englishMeaning": "Lamp / Light",
+    "exampleSentence": "أُشْعِلُ المِصْبَاحَ لِلْمَطْلَعِ"
+  },
+  {
+    "arabicWord": "تِلْفَازٌ",
+    "englishMeaning": "Television",
+    "exampleSentence": "أُشَاهِدُ التِّلْفَازَ فِي المَسَاء"
+  },
+  {
+    "arabicWord": "رَادْيُو",
+    "englishMeaning": "Radio",
+    "exampleSentence": "أَسْمَعُ الأَخْبَارَ عَلَى الرَّادْيُو كُلَّ صَبَاحٍ"
+  }
+,
+  {
+    "arabicWord": "مَكْتَبَةٌ",
+    "englishMeaning": "Library / Bookstore",
+    "exampleSentence": "أَذْهَبُ إِلَى المَكْتَبَةِ لِاسْتِعَارَةِ الكُتُبِ"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا جَدِيدًا كُلَّ أُسْبُوعٍ"
+  },
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "أَكْتُبُ بِالقَلَمِ عَلَى الدَّفْتَرِ"
+  },
+  {
+    "arabicWord": "دَفْتَرٌ",
+    "englishMeaning": "Notebook",
+    "exampleSentence": "أُسَجِّلُ مَوَادَّ الدَّرْسِ فِي الدَّفْتَرِ"
+  },
+  {
+    "arabicWord": "مِسْطَرَةٌ",
+    "englishMeaning": "Ruler",
+    "exampleSentence": "أَقِيسُ الطُّولَ بِالمِسْطَرَةِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag / Backpack",
+    "exampleSentence": "أَحْمِلُ الكُتُبَ فِي الحَقِيبَةِ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Clock / Watch",
+    "exampleSentence": "أَنْظُرُ إِلَى السَّاعَةِ لِأَعْلَمَ الوَقْتَ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ",
+    "englishMeaning": "Telephone / Mobile",
+    "exampleSentence": "أَتَّصِلُ بِصَدِيقِي عَلَى الهَاتِفِ"
+  },
+  {
+    "arabicWord": "مِفْتَاحٌ",
+    "englishMeaning": "Key",
+    "exampleSentence": "أَفْتَحُ البَابَ بِالمِفْتَاحِ"
+  },
+  {
+    "arabicWord": "كُوبٌ",
+    "englishMeaning": "Cup / Glass",
+    "exampleSentence": "أَشْرَبُ مَاءً فِي الكُوبِ"
+  }
+,
+  {
+    "arabicWord": "مَطْبَخٌ",
+    "englishMeaning": "Kitchen",
+    "exampleSentence": "أُحِبُّ الطَبْخَ فِي المَطْبَخِ"
+  },
+  {
+    "arabicWord": "ثَلَّاجَةٌ",
+    "englishMeaning": "Refrigerator",
+    "exampleSentence": "أَضَعُ الطَّعَامَ فِي الثَلَّاجَةِ"
+  },
+  {
+    "arabicWord": "فُرْنٌ",
+    "englishMeaning": "Oven",
+    "exampleSentence": "أَخْبُزُ الخُبْزَ فِي الفُرْنِ"
+  },
+  {
+    "arabicWord": "مِغْسَلَةٌ",
+    "englishMeaning": "Sink / Washbasin",
+    "exampleSentence": "أَغْسِلُ الأَوَانِي فِي المِغْسَلَةِ"
+  },
+  {
+    "arabicWord": "مِنْضَدَةٌ",
+    "englishMeaning": "Table / Desk",
+    "exampleSentence": "أَضَعُ الكُتُبَ عَلَى المِنْضَدَةِ"
+  },
+  {
+    "arabicWord": "كُرْسِيٌّ",
+    "englishMeaning": "Chair",
+    "exampleSentence": "أَجْلِسُ عَلَى الكُرْسِيِّ"
+  },
+  {
+    "arabicWord": "سَرِيرٌ",
+    "englishMeaning": "Bed",
+    "exampleSentence": "أَنَامُ عَلَى السَّرِيرِ"
+  },
+  {
+    "arabicWord": "وِسَادَةٌ",
+    "englishMeaning": "Pillow",
+    "exampleSentence": "أَضَعُ الرَّأْسَ عَلَى الوِسَادَةِ"
+  },
+  {
+    "arabicWord": "بَسَاطٌ",
+    "englishMeaning": "Carpet / Rug",
+    "exampleSentence": "أَجْلِسُ عَلَى البَسَاطِ فِي الغُرْفَةِ"
+  },
+  {
+    "arabicWord": "مِرْآةٌ",
+    "englishMeaning": "Mirror",
+    "exampleSentence": "أَنْظُرُ إِلَى نَفْسِي فِي المِرْآةِ"
+  }
+,
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Clock / Watch",
+    "exampleSentence": "أَنْظُرُ إِلَى السَّاعَةِ لِأَعْرِفَ الوَقْتَ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ",
+    "englishMeaning": "Phone",
+    "exampleSentence": "أَتَحَدَّثُ مَعَ صَدِيقِي فِي الهَاتِفِ"
+  },
+  {
+    "arabicWord": "لَابْتُوبٌ",
+    "englishMeaning": "Laptop",
+    "exampleSentence": "أَعْمَلُ عَلَى اللَّابْتُوبِ فِي المَنْزِلِ"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا جَدِيدًا هَذَا اليَوْمَ"
+  },
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "أَكْتُبُ بِالقَلَمِ عَلَى الوَرَقَةِ"
+  },
+  {
+    "arabicWord": "دَفْتَرٌ",
+    "englishMeaning": "Notebook",
+    "exampleSentence": "أَكْتُبُ دَرُوسِي فِي الدَّفْتَرِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag / Backpack",
+    "exampleSentence": "أَضَعُ الكُتُبَ فِي الحَقِيبَةِ"
+  },
+  {
+    "arabicWord": "مِفْتَاحٌ",
+    "englishMeaning": "Key",
+    "exampleSentence": "أَفْتَحُ البَابَ بِالمِفْتَاحِ"
+  },
+  {
+    "arabicWord": "نَافِذَةٌ",
+    "englishMeaning": "Window",
+    "exampleSentence": "أُحِبُّ إِطْلَالَةَ النُّورِ مِنَ النَّافِذَةِ"
+  },
+  {
+    "arabicWord": "بَابٌ",
+    "englishMeaning": "Door",
+    "exampleSentence": "أُغْلِقُ البَابَ عِنْدَ الخُرُوجِ"
+  }
+,
+  {
+    "arabicWord": "مَطْبَخٌ",
+    "englishMeaning": "Kitchen",
+    "exampleSentence": "أُحَضِّرُ الطَّعَامَ فِي المَطْبَخِ"
+  },
+  {
+    "arabicWord": "غُرْفَةُ نَوْمٍ",
+    "englishMeaning": "Bedroom",
+    "exampleSentence": "أَنَامُ فِي غُرْفَةِ النَّوْمِ كُلَّ لَيْلَةٍ"
+  },
+  {
+    "arabicWord": "حَمَّامٌ",
+    "englishMeaning": "Bathroom",
+    "exampleSentence": "أَغْسِلُ وَجْهِي فِي الحَمَّامِ"
+  },
+  {
+    "arabicWord": "غُرْفَةُ جُلُوسٍ",
+    "englishMeaning": "Living room",
+    "exampleSentence": "أَجْلِسُ مَعَ أَهْلِي فِي غُرْفَةِ الجُلُوسِ"
+  },
+  {
+    "arabicWord": "سِتَارَةٌ",
+    "englishMeaning": "Curtain",
+    "exampleSentence": "أَغْلِقُ السِّتَارَةَ لِلرَّاحَةِ"
+  },
+  {
+    "arabicWord": "سَرِيرٌ",
+    "englishMeaning": "Bed",
+    "exampleSentence": "أَنَامُ عَلَى السَّرِيرِ كُلَّ لَيْلَةٍ"
+  },
+  {
+    "arabicWord": "مِرْآةٌ",
+    "englishMeaning": "Mirror",
+    "exampleSentence": "أَنَظُرُ إِلَى نَفْسِي فِي المِرْآةِ"
+  },
+  {
+    "arabicWord": "مِكْنَسَةٌ",
+    "englishMeaning": "Broom / Vacuum cleaner",
+    "exampleSentence": "أُنَظِّفُ الغُرْفَةَ بِالمِكْنَسَةِ"
+  },
+  {
+    "arabicWord": "ثَلَّاجَةٌ",
+    "englishMeaning": "Refrigerator",
+    "exampleSentence": "أَحْفَظُ الطَّعَامَ فِي الثَّلَّاجَةِ"
+  },
+  {
+    "arabicWord": "مَوْقِدٌ",
+    "englishMeaning": "Stove / Cooker",
+    "exampleSentence": "أَطْبُخُ الطَّعَامَ عَلَى المَوْقِدِ"
+  }
+,
+  {
+    "arabicWord": "سُوقٌ",
+    "englishMeaning": "Market / Bazaar",
+    "exampleSentence": "أَذْهَبُ إِلَى السُّوقِ لِشِرَاءِ الخُضَرِ"
+  },
+  {
+    "arabicWord": "مَخْزَنٌ",
+    "englishMeaning": "Store / Shop",
+    "exampleSentence": "اشْتَرَيْتُ الطَّعَامَ مِنَ المَخْزَنِ"
+  },
+  {
+    "arabicWord": "سِلَّةُ مُلَاحَظَاتٍ",
+    "englishMeaning": "Shopping basket",
+    "exampleSentence": "أَضَعُ الفَوَاكِهَ فِي سِلَّةِ المُلَاحَظَاتِ"
+  },
+  {
+    "arabicWord": "ثَمَنٌ",
+    "englishMeaning": "Price",
+    "exampleSentence": "كَمْ ثَمَنُ هَذِهِ القَمِيصَةِ؟"
+  },
+  {
+    "arabicWord": "خَصْمٌ",
+    "englishMeaning": "Discount",
+    "exampleSentence": "هَلْ هُنَاكَ خَصْمٌ عَلَى هذا البَضَاعَةِ؟"
+  },
+  {
+    "arabicWord": "فَاتُورَةٌ",
+    "englishMeaning": "Bill / Invoice",
+    "exampleSentence": "أَعْطَانِي البَائِعُ الفَاتُورَةَ بَعْدَ الشِّرَاءِ"
+  },
+  {
+    "arabicWord": "نُقُودٌ",
+    "englishMeaning": "Money / Cash",
+    "exampleSentence": "أَدْفَعُ النُّقُودَ لِشِرَاءِ الخُضَرِ"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ بَنْزِينٍ",
+    "englishMeaning": "Gas station / Petrol station",
+    "exampleSentence": "تَوَقَّفْنَا فِي مَحَطَّةِ البَنْزِين لِمِلْئِ الخَزَّانِ"
+  },
+  {
+    "arabicWord": "حِمْلٌ",
+    "englishMeaning": "Luggage / Load",
+    "exampleSentence": "أَحْمِلُ حِمْلِي إِلَى السَّيَّارَةِ"
+  },
+  {
+    "arabicWord": "رِسَالَةٌ",
+    "englishMeaning": "Letter / Mail",
+    "exampleSentence": "أَرْسِلُ رِسَالَةً إِلَى صَدِيقِي"
+  }
+,
+  {
+    "arabicWord": "طَرِيقٌ",
+    "englishMeaning": "Road / Street",
+    "exampleSentence": "السَّيَّارَةُ سَارَتْ عَلَى الطَّرِيقِ السَّرِيعِ"
+  },
+  {
+    "arabicWord": "مُرُورٌ",
+    "englishMeaning": "Traffic / Traffic department",
+    "exampleSentence": "يَجِبُ أَنْ أَتَّبِعَ قَوَاعِدَ المُرُورِ"
+  },
+  {
+    "arabicWord": "إِشَارَةُ مَرُورٍ",
+    "englishMeaning": "Traffic light / Signal",
+    "exampleSentence": "تَوَقَّفْتُ أَمَامَ إِشَارَةِ المَرُورِ الحَمْرَاء"
+  },
+  {
+    "arabicWord": "مِسَافَةٌ",
+    "englishMeaning": "Distance",
+    "exampleSentence": "المَطْعَمُ بَعِيدٌ فِي مِسَافَةِ كِيلُومِتَرٍ وَاحِدٍ"
+  },
+  {
+    "arabicWord": "خَرِيطَةٌ",
+    "englishMeaning": "Map",
+    "exampleSentence": "أَسْتَعْمِلُ خَرِيطَةً لِوَجْهَتِي"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ قِطَارٍ",
+    "englishMeaning": "Train station",
+    "exampleSentence": "نَزَلْنَا فِي مَحَطَّةِ القِطَارِ الرَّئِيسِيَّةِ"
+  },
+  {
+    "arabicWord": "تَذْكِرَةُ قِطَارٍ",
+    "englishMeaning": "Train ticket",
+    "exampleSentence": "اشْتَرَيْتُ تَذْكِرَةَ القِطَارِ لِلْمَدِينَةِ المُجَاوِرَةِ"
+  },
+  {
+    "arabicWord": "مَرْكَزُ سَيَّارَاتٍ",
+    "englishMeaning": "Parking lot / Car park",
+    "exampleSentence": "وَقَفْتُ سَيَّارَتِي فِي مَرْكَزِ السَّيَّارَاتِ"
+  },
+  {
+    "arabicWord": "حَافِلَةٌ سَرِيعَةٌ",
+    "englishMeaning": "Express bus",
+    "exampleSentence": "رَكِبْتُ الحَافِلَةَ السَّرِيعَةَ لِلسَّفَرِ إِلَى المَدِينَةِ"
+  },
+  {
+    "arabicWord": "مَوْقِفُ سَيَّارَةٍ",
+    "englishMeaning": "Car stop / Taxi stand",
+    "exampleSentence": "تَوَقَّفْنَا فِي مَوْقِفِ السَّيَّارَةِ لِلرُّكَّابِ"
+  }
+,
+  {
+    "arabicWord": "مَطْعَمٌ",
+    "englishMeaning": "Restaurant",
+    "exampleSentence": "ذَهَبْنَا إِلَى مَطْعَمٍ جَدِيدٍ لِتَجْرِبَةِ الطَّعَامِ"
+  },
+  {
+    "arabicWord": "قَائِمَةُ الطَّعَامِ",
+    "englishMeaning": "Menu",
+    "exampleSentence": "طَلَبْتُ قَائِمَةَ الطَّعَامِ لِأَرَى الأَطْبَاقَ"
+  },
+  {
+    "arabicWord": "نَادِلٌ",
+    "englishMeaning": "Waiter",
+    "exampleSentence": "الْنَادِلُ جَاءَ لِيَأْخُذَ طَلَبِي"
+  },
+  {
+    "arabicWord": "طَبَقٌ",
+    "englishMeaning": "Dish / Plate",
+    "exampleSentence": "أُحِبُّ طَبَقَ الشُّورْبَةِ الْحَارَّةِ"
+  },
+  {
+    "arabicWord": "مَشْرُوبٌ",
+    "englishMeaning": "Drink / Beverage",
+    "exampleSentence": "أَشْرَبُ مَشْرُوبَ الْعَصِيرِ الطَّازَجِ"
+  },
+  {
+    "arabicWord": "حَلْوَى",
+    "englishMeaning": "Dessert / Sweet",
+    "exampleSentence": "أَكَلْتُ حَلْوَى لَذِيذَةً بَعْدَ الطَّعَامِ"
+  },
+  {
+    "arabicWord": "فَاتُورَةٌ",
+    "englishMeaning": "Bill / Check",
+    "exampleSentence": "طَلَبْنَا الفَاتُورَةَ بَعْدَ الانْتِهَاءِ مِنَ الطَّعَامِ"
+  },
+  {
+    "arabicWord": "حَجْزٌ",
+    "englishMeaning": "Reservation",
+    "exampleSentence": "عَمِلْتُ حَجْزًا لِلطَّاوِلَةِ لِمَسَاءٍ غَدًا"
+  },
+  {
+    "arabicWord": "مَطْبَخٌ",
+    "englishMeaning": "Kitchen",
+    "exampleSentence": "يَعْمَلُ الطَّبَّاخُ فِي المَطْبَخِ لِتَجْهِيزِ الطَّعَامِ"
+  },
+  {
+    "arabicWord": "وَصْفَةٌ",
+    "englishMeaning": "Recipe",
+    "exampleSentence": "تَعَلَّمْتُ وَصْفَةَ كَعْكٍ جَدِيدَةٍ"
+  }
+,
+  {
+    "arabicWord": "سُوقٌ",
+    "englishMeaning": "Market",
+    "exampleSentence": "ذَهَبْتُ إِلَى السُّوقِ لِشِرَاءِ الخُضَرِ"
+  },
+  {
+    "arabicWord": "دُكَّانٌ",
+    "englishMeaning": "Shop / Store",
+    "exampleSentence": "يَتَمَتَّعُ الدُّكَّانُ بِسِعْرٍ مُنَاسِبٍ"
+  },
+  {
+    "arabicWord": "سِلَّةُ مُؤَنٍ",
+    "englishMeaning": "Shopping basket",
+    "exampleSentence": "وَضَعْتُ الفَوَاكِهَ فِي سِلَّةِ المُؤَنِ"
+  },
+  {
+    "arabicWord": "خُضَرٌ",
+    "englishMeaning": "Vegetables",
+    "exampleSentence": "شَرَيْتُ خُضَرًا طَازَجَةً مِنَ السُّوقِ"
+  },
+  {
+    "arabicWord": "فَوَاكِهُ",
+    "englishMeaning": "Fruits",
+    "exampleSentence": "أُحِبُّ أَكْلَ الفَوَاكِهِ بَعْدَ الغَدَاءِ"
+  },
+  {
+    "arabicWord": "سِلْعَةٌ",
+    "englishMeaning": "Goods / Item",
+    "exampleSentence": "اخْتَرْتُ سِلْعَةً جَدِيدَةً لِلمَتَاجِرِ"
+  },
+  {
+    "arabicWord": "سِعْرٌ",
+    "englishMeaning": "Price",
+    "exampleSentence": "اسْأَلْتُ عَنِ السِّعْرِ قَبْلَ الشِّرَاءِ"
+  },
+  {
+    "arabicWord": "خِصْمٌ",
+    "englishMeaning": "Discount",
+    "exampleSentence": "حَصَلْتُ عَلَى خِصْمٍ خَمْسَةَ فِي المِئَةِ"
+  },
+  {
+    "arabicWord": "فَاتُورَةُ شِرَاءِ",
+    "englishMeaning": "Receipt",
+    "exampleSentence": "أَخَذْتُ فَاتُورَةَ الشِّرَاءِ بَعْدَ الدَّفْعِ"
+  },
+  {
+    "arabicWord": "مُوَزِّعٌ",
+    "englishMeaning": "Vendor / Seller",
+    "exampleSentence": "تَكَلَّمْتُ مَعَ المُوَزِّعِ فِي السُّوقِ"
+  }
+,
+  {
+    "arabicWord": "سَيَّارَةٌ",
+    "englishMeaning": "Car",
+    "exampleSentence": "أَقُودُ سَيَّارَتِي إِلَى المَدْرَسَةِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "شَاحِنَةٌ",
+    "englishMeaning": "Truck",
+    "exampleSentence": "تَحْمِلُ الشَّاحِنَةُ الْبَضَائِعَ إِلَى السُّوقِ"
+  },
+  {
+    "arabicWord": "دَرَّاجَةٌ نَارِيَّةٌ",
+    "englishMeaning": "Motorcycle",
+    "exampleSentence": "يَسْتَخْدِمُ أَخِي الدَّرَّاجَةَ النَّارِيَّةَ لِلذَّهابِ إِلَى العَمَلِ"
+  },
+  {
+    "arabicWord": "قِطَارٌ",
+    "englishMeaning": "Train",
+    "exampleSentence": "سَافَرْتُ بِالقِطَارِ إِلَى المَدِينَةِ القَرِيبَةِ"
+  },
+  {
+    "arabicWord": "طَائِرَةٌ",
+    "englishMeaning": "Airplane",
+    "exampleSentence": "سَأُسَافِرُ فِي طَائِرَةٍ إِلَى دُبَيّ"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ قِطَارٍ",
+    "englishMeaning": "Train station",
+    "exampleSentence": "تَوَقَّفَ القِطَارُ فِي المَحَطَّةِ الرَّئِيسِيَّةِ"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ حَافِلَةٍ",
+    "englishMeaning": "Bus station",
+    "exampleSentence": "الْحَافِلَةُ تَنْطَلِقُ مِنْ مَحَطَّةِ الحَافِلَاتِ السَّاعَةَ الثَّامِنَةَ"
+  },
+  {
+    "arabicWord": "خَرِيطَةٌ",
+    "englishMeaning": "Map",
+    "exampleSentence": "اِسْتَعْمَلْتُ خَرِيطَةً لِلوُصُولِ إِلَى المَطَارِ"
+  },
+  {
+    "arabicWord": "مِتْرُو",
+    "englishMeaning": "Metro / Subway",
+    "exampleSentence": "أَسْتَقْبِلُ المِتْرُو كُلَّ يَوْمٍ لِلوُصُولِ إِلَى العَمَلِ"
+  },
+  {
+    "arabicWord": "إِشَارَةُ مَرُورٍ",
+    "englishMeaning": "Traffic light",
+    "exampleSentence": "تَوَقَّفْتُ عِنْدَ إِشَارَةِ المَرُورِ الحَمْرَاء"
+  }
+,
+  {
+    "arabicWord": "مَاءٌ",
+    "englishMeaning": "Water",
+    "exampleSentence": "أَشْرَبُ كَأْسَ مَاءٍ بَعْدَ الغَذَاءِ"
+  },
+  {
+    "arabicWord": "قَهْوَةٌ",
+    "englishMeaning": "Coffee",
+    "exampleSentence": "أُحِبُّ شُرْبَ القَهْوَةِ فِي الصَّبَاحِ"
+  },
+  {
+    "arabicWord": "شَايٌ",
+    "englishMeaning": "Tea",
+    "exampleSentence": "يَشْرَبُ أَبِي الشَّايَ مَعَ السُّكَّرِ"
+  },
+  {
+    "arabicWord": "عَصِيرٌ",
+    "englishMeaning": "Juice",
+    "exampleSentence": "أَشْرَبُ عَصِيرَ بُرْتُقَالٍ بَعْدَ العَشَاءِ"
+  },
+  {
+    "arabicWord": "خُبْزٌ",
+    "englishMeaning": "Bread",
+    "exampleSentence": "آكُلُ خُبْزًا مَعَ الجُبْنِ وَ الزَّبَدَةِ"
+  },
+  {
+    "arabicWord": "لَحْمٌ",
+    "englishMeaning": "Meat",
+    "exampleSentence": "تُحَضَّرُ الطَّبْخَةُ بِاللَّحْمِ وَالخُضْرَاوَاتِ"
+  },
+  {
+    "arabicWord": "سَمَكٌ",
+    "englishMeaning": "Fish",
+    "exampleSentence": "نَأْكُلُ السَّمَكَ فِي العَشَاءِ"
+  },
+  {
+    "arabicWord": "خَضَرٌ",
+    "englishMeaning": "Vegetables",
+    "exampleSentence": "تَحْتَوِي وَصْفَتِي عَلَى الكَثِيرِ مِنَ الخُضَرِ"
+  },
+  {
+    "arabicWord": "فَوَاكِهُ",
+    "englishMeaning": "Fruits",
+    "exampleSentence": "آكُلُ فَوَاكِهُ بَعْدَ الغَذَاءِ"
+  },
+  {
+    "arabicWord": "حَلِيبٌ",
+    "englishMeaning": "Milk",
+    "exampleSentence": "أَشْرَبُ كَأْسَ حَلِيبٍ فِي الصَّبَاحِ"
+  }
+,
+  {
+    "arabicWord": "سُوقٌ",
+    "englishMeaning": "Market",
+    "exampleSentence": "أَذْهَبُ إِلَى السُّوقِ لِشِرَاءِ الخُضَرِ"
+  },
+  {
+    "arabicWord": "مَتْجَرٌ",
+    "englishMeaning": "Shop / Store",
+    "exampleSentence": "زُرْتُ المَتْجَرَ لِشِرَاءِ المَلَابِسِ"
+  },
+  {
+    "arabicWord": "ثَمَنٌ",
+    "englishMeaning": "Price",
+    "exampleSentence": "كَمْ هُوَ ثَمَنُ هَذِهِ القَمِيصَةِ؟"
+  },
+  {
+    "arabicWord": "نُقُودٌ",
+    "englishMeaning": "Money / Cash",
+    "exampleSentence": "لَدَيَّ نُقُودٌ كَافِيَةٌ لِلشِّرَاءِ"
+  },
+  {
+    "arabicWord": "فَاتُورَةٌ",
+    "englishMeaning": "Bill / Invoice",
+    "exampleSentence": "أَخَذْتُ الفَاتُورَةَ بَعْدَ الدَّفْعِ"
+  },
+  {
+    "arabicWord": "خَصْمٌ",
+    "englishMeaning": "Discount",
+    "exampleSentence": "هَذَا المَتْجَرُ يُقَدِّمُ خَصْمًا عَظِيمًا"
+  },
+  {
+    "arabicWord": "مَلَابِسٌ",
+    "englishMeaning": "Clothes",
+    "exampleSentence": "أَحْتَاجُ إِلَى بَعْضِ المَلَابِسِ الجَدِيدَةِ"
+  },
+  {
+    "arabicWord": "حِذَاءٌ",
+    "englishMeaning": "Shoes",
+    "exampleSentence": "اشْتَرَيْتُ حِذَاءً جَدِيدًا أَمْسِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag",
+    "exampleSentence": "لَدَيَّ حَقِيبَةٌ لِشِرَاءِ الأَغْرَاضِ"
+  },
+  {
+    "arabicWord": "مِلْحٌ",
+    "englishMeaning": "Salt",
+    "exampleSentence": "اشْتَرَيْتُ مِلْحًا وَسُكَّرًا مِنَ السُّوقِ"
+  }
+,
+  {
+    "arabicWord": "طَائِرَةٌ",
+    "englishMeaning": "Airplane",
+    "exampleSentence": "سَأُسَافِرُ بِالطَّائِرَةِ غَدًا"
+  },
+  {
+    "arabicWord": "مَحَطَّةُ قِطَارٍ",
+    "englishMeaning": "Train station",
+    "exampleSentence": "نَزَلْنَا فِي مَحَطَّةِ القِطَارِ الأُسْتَاذِيَّةِ"
+  },
+  {
+    "arabicWord": "تَذْكِرَةُ قِطَارٍ",
+    "englishMeaning": "Train ticket",
+    "exampleSentence": "اشْتَرَيْتُ تَذْكِرَةَ قِطَارٍ إِلَى المَدِينَةِ"
+  },
+  {
+    "arabicWord": "سَيَّارَةُ أُجْرَةٍ",
+    "englishMeaning": "Taxi",
+    "exampleSentence": "رَكِبْتُ سَيَّارَةَ أُجْرَةٍ لِلوُصُولِ إِلَى المَطَارِ"
+  },
+  {
+    "arabicWord": "خَرِيطَةٌ",
+    "englishMeaning": "Map",
+    "exampleSentence": "اِسْتَعْمَلْتُ الخَرِيطَةَ لِلعُثُورِ عَلَى الطَّرِيقِ"
+  },
+  {
+    "arabicWord": "إِشَارَةُ مَرُورٍ",
+    "englishMeaning": "Traffic light",
+    "exampleSentence": "تَوَقَّفْنَا أَمَامَ إِشَارَةِ المَرُورِ الحَمْرَاء"
+  },
+  {
+    "arabicWord": "طَرِيقٌ سَرِيعٌ",
+    "englishMeaning": "Highway",
+    "exampleSentence": "سَافَرْنَا عَلَى الطَّرِيقِ السَّرِيعِ إِلَى البَلَدِ الآخَرِ"
+  },
+  {
+    "arabicWord": "جِسْرٌ",
+    "englishMeaning": "Bridge",
+    "exampleSentence": "عَبَرْنَا الجِسْرَ لِلذِّهَابِ إِلَى المَدِينَةِ"
+  },
+  {
+    "arabicWord": "نَافِذَةٌ",
+    "englishMeaning": "Window (in transport / bus/train)",
+    "exampleSentence": "جَلَسْتُ قُرْبَ النَّافِذَةِ لِمُشَاهَدَةِ المَنَاظِرِ"
+  },
+  {
+    "arabicWord": "مُحَرِّكٌ",
+    "englishMeaning": "Engine / Motor",
+    "exampleSentence": "تَوَقَّفَ المُحَرِّكُ فِي نِصْفِ الطَّرِيقِ"
+  },
+
+
+  
+  {
+    "arabicWord": "خُبْزٌ",
+    "englishMeaning": "Bread",
+    "exampleSentence": "أَشْتَرِي خُبْزًا مِنَ المَخْبَزِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "حَلِيبٌ",
+    "englishMeaning": "Milk",
+    "exampleSentence": "أَشْرَبُ كَأْسًا مِنَ الحَلِيبِ صَبَاحًا"
+  },
+  {
+    "arabicWord": "جُبْنٌ",
+    "englishMeaning": "Cheese",
+    "exampleSentence": "وَضَعْتُ الجُبْنَ عَلَى السَّنْدْوِيشِ"
+  },
+  {
+    "arabicWord": "فَوَاكِهٌ",
+    "englishMeaning": "Fruits",
+    "exampleSentence": "أُحِبُّ أَنْ آكُلَ فَوَاكِهًا بَعْدَ الغَدَاءِ"
+  },
+  {
+    "arabicWord": "خُضَرٌ",
+    "englishMeaning": "Vegetables",
+    "exampleSentence": "تَشْمَلُ وَصْفَتِي الخُضَرَ الطَّازَجَةَ"
+  },
+  {
+    "arabicWord": "مَاءٌ",
+    "englishMeaning": "Water",
+    "exampleSentence": "أَشْرَبُ المَاءَ كُلَّ سَاعَةٍ"
+  },
+  {
+    "arabicWord": "قَهْوَةٌ",
+    "englishMeaning": "Coffee",
+    "exampleSentence": "أُحِبُّ شُرْبَ القَهْوَةِ صَبَاحًا"
+  },
+  {
+    "arabicWord": "شَايٌ",
+    "englishMeaning": "Tea",
+    "exampleSentence": "تَفَضَّلَ بِفِنْجَانِ الشَّايِ مَعِي"
+  },
+  {
+    "arabicWord": "سُكَّرٌ",
+    "englishMeaning": "Sugar",
+    "exampleSentence": "أَضِيفُ السُّكَّرَ إِلَى القَهْوَةِ"
+  },
+  {
+    "arabicWord": "زَيْتٌ",
+    "englishMeaning": "Oil",
+    "exampleSentence": "أَقْلِي الخُضَرَ بِزَيْتِ الزَّيْتُونِ"
+  }
+,
+  {
+    "arabicWord": "سِكِّينٌ",
+    "englishMeaning": "Knife",
+    "exampleSentence": "اِسْتَعْمَلْتُ السِّكِّينَ لِتَقْطِيعِ الخُضَرِ"
+  },
+  {
+    "arabicWord": "شَوْكَةٌ",
+    "englishMeaning": "Fork",
+    "exampleSentence": "اِسْتَعْمَلْتُ الشَّوْكَةَ لِلْأَكْلِ"
+  },
+  {
+    "arabicWord": "مِلْعَقَةٌ",
+    "englishMeaning": "Spoon",
+    "exampleSentence": "أَكَلْتُ الحَلِيبَ بِالمِلْعَقَةِ"
+  },
+  {
+    "arabicWord": "مِنْدِيلٌ",
+    "englishMeaning": "Handkerchief / Napkin",
+    "exampleSentence": "اِسْتَعْمَلْتُ المِنْدِيلَ لِمَسِّ وَجْهِي"
+  },
+  {
+    "arabicWord": "كُوبٌ",
+    "englishMeaning": "Cup / Glass",
+    "exampleSentence": "شَرِبْتُ مَاءً فِي الكُوبِ"
+  },
+  {
+    "arabicWord": "طَبَقٌ",
+    "englishMeaning": "Plate",
+    "exampleSentence": "وَضَعْتُ الطَّعَامَ فِي الطَّبَقِ"
+  },
+  {
+    "arabicWord": "حَلِيبٌ",
+    "englishMeaning": "Milk",
+    "exampleSentence": "أَشْرَبُ حَلِيبًا كُلَّ صَبَاحٍ"
+  },
+  {
+    "arabicWord": "خُبْزٌ",
+    "englishMeaning": "Bread",
+    "exampleSentence": "أَكَلْتُ خُبْزًا طَازَجًا"
+  },
+  {
+    "arabicWord": "جُبْنٌ",
+    "englishMeaning": "Cheese",
+    "exampleSentence": "وَضَعْتُ الجُبْنَ عَلَى السَّنْدْوِتشِ"
+  },
+  {
+    "arabicWord": "سُكَّرٌ",
+    "englishMeaning": "Sugar",
+    "exampleSentence": "أَضَفْتُ سُكَّرًا إِلَى الشَّايِ"
+  }
+,
+  {
+    "arabicWord": "مَطَرٌ",
+    "englishMeaning": "Rain",
+    "exampleSentence": "هَطَلَ المَطَرُ الْيَوْمَ"
+  },
+  {
+    "arabicWord": "شَمْسٌ",
+    "englishMeaning": "Sun",
+    "exampleSentence": "تَسْطَعُ الشَمْسُ فِي الصَّبَاحِ"
+  },
+  {
+    "arabicWord": "قَمَرٌ",
+    "englishMeaning": "Moon",
+    "exampleSentence": "الْقَمَرُ جَمِيلٌ فِي اللَّيْلِ"
+  },
+  {
+    "arabicWord": "نَجْمٌ",
+    "englishMeaning": "Star",
+    "exampleSentence": "تَلْمَعُ النُّجُومُ فِي السَّمَاءِ"
+  },
+  {
+    "arabicWord": "غَيْمٌ",
+    "englishMeaning": "Cloud",
+    "exampleSentence": "تَغَيَّمَتِ السَّمَاءُ بِالغُيومِ"
+  },
+  {
+    "arabicWord": "رِيحٌ",
+    "englishMeaning": "Wind",
+    "exampleSentence": "تَهُبُ الرِّيحُ بِشِدَّةٍ"
+  },
+  {
+    "arabicWord": "ثَلْجٌ",
+    "englishMeaning": "Snow",
+    "exampleSentence": "سَقَطَ الثَلْجُ فِي الشِّتَاءِ"
+  },
+  {
+    "arabicWord": "نَهْرٌ",
+    "englishMeaning": "River",
+    "exampleSentence": "يَجْرِي النَّهْرُ بِيُسْرٍ"
+  },
+  {
+    "arabicWord": "بَحْرٌ",
+    "englishMeaning": "Sea",
+    "exampleSentence": "أُحِبُ السِّبَاحَةَ فِي البَحْرِ"
+  },
+  {
+    "arabicWord": "جَبَلٌ",
+    "englishMeaning": "Mountain",
+    "exampleSentence": "صَعِدْنَا الجَبَلَ فِي العُطْلَةِ"
+  }
+,
+  {
+    "arabicWord": "مَفْتَاحٌ",
+    "englishMeaning": "Key",
+    "exampleSentence": "أَضَعُ المَفْتَاحَ عَلَى الطَّاوِلَةِ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ",
+    "englishMeaning": "Phone",
+    "exampleSentence": "تَلَقَّيْتُ مُكَالمَةً عَلَى الهَاتِفِ"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا جَدِيدًا كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "اِسْتَعْمِلْتُ القَلَمَ لِلكِتَابَةِ"
+  },
+  {
+    "arabicWord": "مَكْتَبٌ",
+    "englishMeaning": "Desk / Office",
+    "exampleSentence": "وَضَعْتُ الكُتُبَ عَلَى المَكْتَبِ"
+  },
+  {
+    "arabicWord": "سَاعَةٌ",
+    "englishMeaning": "Clock / Watch",
+    "exampleSentence": "أَنْظُرُ إِلَى السَّاعَةِ لِأَعْلَمَ الوَقْتَ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag",
+    "exampleSentence": "وَضَعْتُ الأَشْيَاءَ فِي الحَقِيبَةِ"
+  },
+  {
+    "arabicWord": "مِنْدِيلٌ",
+    "englishMeaning": "Handkerchief / Tissue",
+    "exampleSentence": "اِسْتَعْمَلْتُ المِنْدِيلَ لِمَسِّ وَجْهِي"
+  },
+  {
+    "arabicWord": "كُوبٌ",
+    "englishMeaning": "Cup",
+    "exampleSentence": "شَرِبْتُ مَاءً فِي الكُوبِ"
+  },
+  {
+    "arabicWord": "طَبَقٌ",
+    "englishMeaning": "Plate / Dish",
+    "exampleSentence": "وَضَعْتُ الطَّعَامَ عَلَى الطَّبَقِ"
+  }
+,
+  {
+    "arabicWord": "مِفْتَاحُ بَيْتٍ",
+    "englishMeaning": "House key",
+    "exampleSentence": "أَخَذْتُ مِفْتَاحَ البَيْتِ قَبْلَ الخُرُوجِ"
+  },
+  {
+    "arabicWord": "نَظَّارَةٌ",
+    "englishMeaning": "Glasses",
+    "exampleSentence": "أَرْتَدِي النَّظَّارَةَ لِلقِرَاءَةِ"
+  },
+  {
+    "arabicWord": "حِذَاءٌ",
+    "englishMeaning": "Shoes",
+    "exampleSentence": "وَضَعْتُ الحِذَاءَ الجَدِيدَ عَلَى القَدَمِ"
+  },
+  {
+    "arabicWord": "قُبَّعَةٌ",
+    "englishMeaning": "Hat / Cap",
+    "exampleSentence": "لَبِسْتُ القُبَّعَةَ فِي الشَّمْسِ"
+  },
+  {
+    "arabicWord": "مِظَلَّةٌ",
+    "englishMeaning": "Umbrella",
+    "exampleSentence": "أَحْمِلُ المِظَلَّةَ فِي اليَوْمِ المُمطِرِ"
+  },
+  {
+    "arabicWord": "سِوَارٌ",
+    "englishMeaning": "Bracelet",
+    "exampleSentence": "شَرَيْتُ سِوَارًا جَدِيدًا لِي"
+  },
+  {
+    "arabicWord": "خَاتَمٌ",
+    "englishMeaning": "Ring",
+    "exampleSentence": "وَضَعْتُ الخَاتَمَ عَلَى أَصَابِعِي"
+  },
+  {
+    "arabicWord": "حَقِيبَةُ كُتُبٍ",
+    "englishMeaning": "School bag",
+    "exampleSentence": "وَضَعْتُ الكُتُبَ فِي حَقِيبَةِ الكُتُبِ"
+  },
+  {
+    "arabicWord": "قَمِيصٌ",
+    "englishMeaning": "Shirt",
+    "exampleSentence": "اِرْتَدَيْتُ القَمِيصَ الأَزْرَقَ الْيَوْمَ"
+  },
+  {
+    "arabicWord": "بِنْطَالٌ",
+    "englishMeaning": "Pants / Trousers",
+    "exampleSentence": "لَبِسْتُ البِنْطَالَ السَّوْدَاءِ"
+  }
+,
+  {
+    "arabicWord": "سَيَّارَةٌ",
+    "englishMeaning": "Car",
+    "exampleSentence": "أَمْلِكُ سَيَّارَةً جَدِيدَةً"
+  },
+  {
+    "arabicWord": "دَرَّاجَةٌ",
+    "englishMeaning": "Bicycle",
+    "exampleSentence": "أُرِيدُ أَنْ أَرْكَبَ دَرَّاجَتِي فِي الحَدِيقَةِ"
+  },
+  {
+    "arabicWord": "مِتْرٌ",
+    "englishMeaning": "Taxi",
+    "exampleSentence": "أَسْتَقِلُّ المِتْرَ لِلذَّهَابِ إِلَى العَمَلِ"
+  },
+  {
+    "arabicWord": "قِطَارٌ",
+    "englishMeaning": "Train",
+    "exampleSentence": "يَصِلُ القِطَارُ فِي المَحَطَّةِ السَّاعَةَ الثَّانِيَةَ"
+  },
+  {
+    "arabicWord": "مَطَارٌ",
+    "englishMeaning": "Airport",
+    "exampleSentence": "أَسَافِرُ مِنَ المَطَارِ غَدًا"
+  },
+  {
+    "arabicWord": "حَافِلَةٌ",
+    "englishMeaning": "Bus",
+    "exampleSentence": "تَأَخَّرَتِ الحَافِلَةُ الْيَوْمَ"
+  },
+  {
+    "arabicWord": "طَائِرَةٌ",
+    "englishMeaning": "Airplane",
+    "exampleSentence": "رَكِبْتُ الطَّائِرَةَ إِلَى دُبَي"
+  },
+  {
+    "arabicWord": "سَاعَةُ يَدٍ",
+    "englishMeaning": "Wristwatch",
+    "exampleSentence": "أَرْتَدِي سَاعَةَ اليَدِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "هَاتِفٌ مَحْمُولٌ",
+    "englishMeaning": "Mobile phone",
+    "exampleSentence": "أَتَحَدَّثُ مَعَ صَدِيقِي بِالهَاتِفِ المَحْمُولِ"
+  },
+  {
+    "arabicWord": "حِاسُوبٌ",
+    "englishMeaning": "Computer / Laptop",
+    "exampleSentence": "أَعْمَلُ عَلَى الحَاسُوبِ فِي المَنْزِلِ"
+  }
+,
+  {
+    "arabicWord": "قَلَمٌ",
+    "englishMeaning": "Pen",
+    "exampleSentence": "أَكْتُبُ بِالقَلَمِ فِي الدَّفْتَرِ"
+  },
+  {
+    "arabicWord": "كِتَابٌ",
+    "englishMeaning": "Book",
+    "exampleSentence": "أَقْرَأُ كِتَابًا جَدِيدًا كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "دَفْتَرٌ",
+    "englishMeaning": "Notebook",
+    "exampleSentence": "أَكْتُبُ مَلَاحِظِي فِي الدَّفْتَرِ"
+  },
+  {
+    "arabicWord": "مِسْطَرَةٌ",
+    "englishMeaning": "Ruler",
+    "exampleSentence": "أَقِيسُ الطُّولَ بِالمِسْطَرَةِ"
+  },
+  {
+    "arabicWord": "حَقِيبَةٌ",
+    "englishMeaning": "Bag / Backpack",
+    "exampleSentence": "أَحْمِلُ كُتُبِي فِي الحَقِيبَةِ"
+  },
+  {
+    "arabicWord": "مَكْتَبٌ",
+    "englishMeaning": "Desk",
+    "exampleSentence": "أَجْلِسُ عَلَى المَكْتَبِ لِلدِّرَاسَةِ"
+  },
+  {
+    "arabicWord": "كُرْسِيٌّ",
+    "englishMeaning": "Chair",
+    "exampleSentence": "أَجْلِسُ عَلَى الكُرْسِيِّ فِي الفَصْلِ"
+  },
+  {
+    "arabicWord": "سَاعَةُ جُدْوَلٍ",
+    "englishMeaning": "Clock",
+    "exampleSentence": "أَنْظُرُ إِلَى سَاعَةِ الجُدْوَلِ لِأَعْلَمَ الوَقْتَ"
+  },
+  {
+    "arabicWord": "مَسْجِدٌ",
+    "englishMeaning": "Mosque",
+    "exampleSentence": "أَذْهَبُ إِلَى المَسْجِدِ كُلَّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "كُوبٌ",
+    "englishMeaning": "Cup",
+    "exampleSentence": "أَشْرَبُ الشَّايَ فِي الكُوبِ"
+  }
+,
+  {
+    "arabicWord": "طَعَامٌ",
+    "englishMeaning": "Food",
+    "exampleSentence": "أُحِبُّ أَنْ أَأْكُلَ طَعَامًا صِحِيًّا"
+  },
+  {
+    "arabicWord": "مَاءٌ",
+    "englishMeaning": "Water",
+    "exampleSentence": "أَشْرَبُ كَأْسَ مَاءٍ بَارِدٍ"
+  },
+  {
+    "arabicWord": "خُبْزٌ",
+    "englishMeaning": "Bread",
+    "exampleSentence": "آكُلُ خُبْزًا مَعَ الجُبْنِ"
+  },
+  {
+    "arabicWord": "حَلِيبٌ",
+    "englishMeaning": "Milk",
+    "exampleSentence": "أَشْرَبُ حَلِيبًا كُلَّ صَبَاحٍ"
+  },
+  {
+    "arabicWord": "فَوَاكِهُ",
+    "englishMeaning": "Fruits",
+    "exampleSentence": "أُحِبُّ أَنْ أَأْكُلَ فَوَاكِهُ طَازَجَةً"
+  },
+  {
+    "arabicWord": "خَضَارٌ",
+    "englishMeaning": "Vegetables",
+    "exampleSentence": "آكُلُ خَضَارًا كُلَّ يَوْمٍ لِصِحَّتِي"
+  },
+  {
+    "arabicWord": "سُكَّرٌ",
+    "englishMeaning": "Sugar",
+    "exampleSentence": "أَضَعُ قَلِيلًا مِنَ السُّكَّرِ فِي الشَّايِ"
+  },
+  {
+    "arabicWord": "شَايٌ",
+    "englishMeaning": "Tea",
+    "exampleSentence": "أَشْرَبُ الشَّايَ بَارِدًا أَوْ حَارًا"
+  },
+  {
+    "arabicWord": "قَهْوَةٌ",
+    "englishMeaning": "Coffee",
+    "exampleSentence": "أَشْرَبُ قَهْوَةً صَبَاحَ كُلِّ يَوْمٍ"
+  },
+  {
+    "arabicWord": "عَصِيرٌ",
+    "englishMeaning": "Juice",
+    "exampleSentence": "أَشْرَبُ عَصِيرَ فَوَاكِهٍ طَازَجَ"
+  }
+,
+  {
+    "arabicWord": "مُؤَسَّسَةٌ",
+    "englishMeaning": "Organization / Institution",
+    "exampleSentence": "تَعْمَلُ فِي مُؤَسَّسَةٍ كَبِيرَةٍ"
+  },
+  {
+    "arabicWord": "مِهْنَةٌ",
+    "englishMeaning": "Profession / Job",
+    "exampleSentence": "أَرْغَبُ فِي تَعَلُّم مِهْنَةٍ جَدِيدَةٍ"
+  },
+  {
+    "arabicWord": "مَشْغُولٌ",
+    "englishMeaning": "Busy",
+    "exampleSentence": "أَنَا مَشْغُولٌ بِالْعَمَلِ هَذَا الأُسْبُوعِ"
+  },
+  {
+    "arabicWord": "تَحَدٍّ",
+    "englishMeaning": "Challenge",
+    "exampleSentence": "وَاجَهْتُ تَحَدِّي صَعْبٍ فِي الدِّرَاسَةِ"
+  },
+  {
+    "arabicWord": "نَجَاحٌ",
+    "englishMeaning": "Success",
+    "exampleSentence": "يَتَمَنَّى كُلُّ طَالِبٍ النَّجَاحَ فِي الامتحانات"
+  },
+  {
+    "arabicWord": "فَشَلٌ",
+    "englishMeaning": "Failure",
+    "exampleSentence": "تَعَلَّمْتُ مِنَ الفَشَلِ لِأَصْبَحَ أَفْضَلَ"
+  },
+  {
+    "arabicWord": "إِلْهَامٌ",
+    "englishMeaning": "Inspiration",
+    "exampleSentence": "كُتُبُ النُّجُومِ تُعْطِي إِلْهَامًا كَبِيرًا"
+  },
+  {
+    "arabicWord": "تَطَوُّرٌ",
+    "englishMeaning": "Development / Progress",
+    "exampleSentence": "يَحْتَاجُ الشَّرِكَةُ إِلَى تَطَوُّرٍ سَرِيعٍ"
+  },
+  {
+    "arabicWord": "مُهَاجَرٌ",
+    "englishMeaning": "Immigrant",
+    "exampleSentence": "يَعِيشُ مُهَاجِرُونَ فِي بَلَدٍ جَدِيدٍ"
+  },
+  {
+    "arabicWord": "مَسْؤُولِيَّةٌ",
+    "englishMeaning": "Responsibility",
+    "exampleSentence": "عَلَيْهِ أَنْ يَتَحَمَّلَ مَسْؤُولِيَّتَهُ"
+  }
+,
+  {
+    "arabicWord": "تَقْنِيَةٌ",
+    "englishMeaning": "Technology",
+    "exampleSentence": "يَسْتَخْدِمُ الشَّرِكَةُ تَقْنِيَةً جَدِيدَةً"
+  },
+  {
+    "arabicWord": "بَرْمَجِيَّةٌ",
+    "englishMeaning": "Software",
+    "exampleSentence": "أَنَا أَعْمَلُ عَلَى بَرْمَجِيَّةٍ حَاسُوبِيَّةٍ"
+  },
+  {
+    "arabicWord": "تَدْرِيبٌ",
+    "englishMeaning": "Training",
+    "exampleSentence": "حَضَرْتُ دَوْرَةَ تَدْرِيبٍ لِتَحْسِينِ مَهَارَاتِي"
+  },
+  {
+    "arabicWord": "صِحَّةٌ",
+    "englishMeaning": "Health",
+    "exampleSentence": "الصِّحَّةُ ثَرْوَةٌ كَبِيرَةٌ"
+  },
+  {
+    "arabicWord": "رِجَالُ أَعْمَالٍ",
+    "englishMeaning": "Businessmen",
+    "exampleSentence": "يُحِبُّ رِجَالُ الأَعْمَالِ تَعَلُّمَ الأَفْكَارِ الجَدِيدَةِ"
+  },
+  {
+    "arabicWord": "تَقْيِيمٌ",
+    "englishMeaning": "Evaluation / Assessment",
+    "exampleSentence": "قَامَ الأُسْتَاذُ بِتَقْيِيمِ الأَعْمَالِ الطُّلَّابِيَّةِ"
+  },
+  {
+    "arabicWord": "مَجَالٌ",
+    "englishMeaning": "Field / Area of work",
+    "exampleSentence": "هُوَ مُتَخَصِّصٌ فِي مَجَالِ الطِّبِّ"
+  },
+  {
+    "arabicWord": "إِجْتِمَاعٌ",
+    "englishMeaning": "Meeting",
+    "exampleSentence": "حَضَرْتُ إِجْتِمَاعًا مَعَ الزُّملَاءِ"
+  },
+  {
+    "arabicWord": "مُنَاقَشَةٌ",
+    "englishMeaning": "Discussion / Debate",
+    "exampleSentence": "أَجْرَيْنَا مُنَاقَشَةً عَنِ المَشْرُوعِ الجَدِيدِ"
+  },
+  {
+    "arabicWord": "وِجْهَةُ نَظَرٍ",
+    "englishMeaning": "Perspective / Point of view",
+    "exampleSentence": "كُلُّ شَخْصٍ لَهُ وَجْهَةُ نَظَرٍ مُخْتَلِفَةٍ"
+  }
+,
+  {
+    "arabicWord": "تَأْمِينٌ",
+    "englishMeaning": "Insurance",
+    "exampleSentence": "شَرَكْتُ فِي بَرْنَامَجِ تَأْمِينٍ صِحِّيٍّ"
+  },
+  {
+    "arabicWord": "فَاتُورَةٌ",
+    "englishMeaning": "Invoice / Bill",
+    "exampleSentence": "أَرْسَلْتُ الفَاتُورَةَ إِلَى العَمِيلِ"
+  },
+  {
+    "arabicWord": "مُحَامٍ",
+    "englishMeaning": "Lawyer",
+    "exampleSentence": "اسْتَشَرْتُ مُحَامِي فِي القَضِيَّةِ"
+  },
+  {
+    "arabicWord": "قَضِيَّةٌ",
+    "englishMeaning": "Legal case / Issue",
+    "exampleSentence": "تَتَعَامَلُ المَحْكَمَةُ مَعَ القَضَايَا المُخْتَلِفَةِ"
+  },
+  {
+    "arabicWord": "سَفَرٌ دُوَلِيٌّ",
+    "englishMeaning": "International travel",
+    "exampleSentence": "أُحِبُّ السَّفَرَ الدُّوَلِيَّ لِلتَّعَلُّمِ"
+  },
+  {
+    "arabicWord": "تَأْشِيرَةُ سَفَرٍ",
+    "englishMeaning": "Travel visa",
+    "exampleSentence": "حَصَلْتُ عَلَى تَأْشِيرَةِ سَفَرٍ لِأَمْرِيكَا"
+  },
+  {
+    "arabicWord": "حَجْزُ فُنْدُقٍ",
+    "englishMeaning": "Hotel booking",
+    "exampleSentence": "قُمْتُ بِحَجْزِ فُنْدُقٍ لِلإِقَامَةِ"
+  },
+  {
+    "arabicWord": "حَالَةُ طَوَارِئٍ",
+    "englishMeaning": "Emergency situation",
+    "exampleSentence": "يَجِبُ الإِسْرَاعُ فِي حَالَةِ طَوَارِئٍ"
+  },
+  {
+    "arabicWord": "نُقُودٌ وَرَقِيَّةٌ",
+    "englishMeaning": "Cash",
+    "exampleSentence": "أَحْمِلُ نُقُودًا وَرَقِيَّةً لِلْمُصْرِفِ"
+  },
+  {
+    "arabicWord": "مَصْرِفِيَّةٌ",
+    "englishMeaning": "Banking / Financial service",
+    "exampleSentence": "أَسْتَخْدِمُ خِدْمَاتٍ مَصْرِفِيَّةً لِتَدْفِيعِ الفَوَاتِيرِ"
+  }
+,
+  {
+    "arabicWord": "إِدَارَةُ أَعْمَالٍ",
+    "englishMeaning": "Business management",
+    "exampleSentence": "أَتَعَلَّمُ إِدَارَةَ أَعْمَالٍ لِتَحْسِينِ مَهَارَاتِي"
+  },
+  {
+    "arabicWord": "تَخْطِيطٌ مَالِيٌّ",
+    "englishMeaning": "Financial planning",
+    "exampleSentence": "التَّخْطِيطُ المَالِيُّ يُسَاعِدُنَا عَلَى تَجَنُّبِ الدَّيُونِ"
+  },
+  {
+    "arabicWord": "تَسْوِيقٌ رَقْمِيٌّ",
+    "englishMeaning": "Digital marketing",
+    "exampleSentence": "أَعْمَلُ فِي شَرِكَةٍ لِلتَّسْوِيقِ الرَّقْمِيِّ"
+  },
+  {
+    "arabicWord": "بَرْمَجَةٌ",
+    "englishMeaning": "Programming / Coding",
+    "exampleSentence": "أُحِبُّ تَعَلُّمَ بَرْمَجَةِ التَّطْبِيقَاتِ"
+  },
+  {
+    "arabicWord": "تَحْلِيلُ بَيَانَاتٍ",
+    "englishMeaning": "Data analysis",
+    "exampleSentence": "أَعْمَلُ عَلَى تَحْلِيلِ بَيَانَاتٍ كَبِيرَةٍ لِشَرِكَتِي"
+  },
+  {
+    "arabicWord": "تَسْوِيَةُ نِزَاعٍ",
+    "englishMeaning": "Conflict resolution",
+    "exampleSentence": "يَجِبُ عَلَى القَائِدِ أَنْ يَتَقَنَ تَسْوِيَةَ النِّزَاعَاتِ"
+  },
+  {
+    "arabicWord": "قَائِمَةُ مَهَامٍّ",
+    "englishMeaning": "To-do list",
+    "exampleSentence": "أَعْمَلُ كُلَّ يَوْمٍ عَلَى قَائِمَةِ مَهَامٍّ مُرَتَّبَةٍ"
+  },
+  {
+    "arabicWord": "مَهَارَةُ التَّوَاصُلِ",
+    "englishMeaning": "Communication skill",
+    "exampleSentence": "تُسَاعِدُنِي مَهَارَةُ التَّوَاصُلِ فِي التَّفَاوُضِ"
+  },
+  {
+    "arabicWord": "تَقْيِيمُ أَدَاءِ",
+    "englishMeaning": "Performance evaluation",
+    "exampleSentence": "تَجْرِي الشَّرِكَةُ تَقْيِيمَ أَدَاءِ المُوَظَّفِينَ سَنَوِيًّا"
+  },
+  {
+    "arabicWord": "تَسْوِيقٌ اِبْتِكَارِيٌّ",
+    "englishMeaning": "Innovative marketing",
+    "exampleSentence": "نَحْنُ نُطَبِّقُ أَفْكَارَ تَسْوِيقٍ اِبْتِكَارِيَّةٍ لِزِيَادَةِ المَبِيعَاتِ"
+  }
+,
+  {
+    "arabicWord": "الطَّاقَةُ الشَّمْسِيَّةُ",
+    "englishMeaning": "Solar energy",
+    "exampleSentence": "نَسْتَخْدِمُ الطَّاقَةَ الشَّمْسِيَّةَ فِي المَنْزِلِ لِتَوْفِيرِ الكَهْرَبَاء"
+  },
+  {
+    "arabicWord": "الاِسْتِثْمَارُ",
+    "englishMeaning": "Investment",
+    "exampleSentence": "يَجِبُ أَنْ نُخَطِّطَ لِلِاسْتِثْمَارِ فِي الأَعْمَالِ بِحِكْمَةٍ"
+  },
+  {
+    "arabicWord": "تَقْنِيَّةُ المَعْلُومَاتِ",
+    "englishMeaning": "Information technology (IT)",
+    "exampleSentence": "أَعْمَلُ فِي مَجَالِ تَقْنِيَّةِ المَعْلُومَاتِ"
+  },
+  {
+    "arabicWord": "الأَمْنُ السَّبَاحِيّ",
+    "englishMeaning": "Cybersecurity",
+    "exampleSentence": "نَحْنُ نَعْمَلُ عَلَى تَحْسِينِ الأَمْنِ السَّبَاحِيِّ لِمَوَاقِعِنَا"
+  },
+  {
+    "arabicWord": "التَّوْسِيعُ العَالَمِيّ",
+    "englishMeaning": "Global expansion",
+    "exampleSentence": "تَسْعَى الشَّرِكَةُ إِلَى التَّوْسِيعِ العَالَمِيِّ"
+  },
+  {
+    "arabicWord": "إِدَارَةُ وَقْتٍ",
+    "englishMeaning": "Time management",
+    "exampleSentence": "تَعَلُّمُ إِدَارَةِ الوَقْتِ يُسَاعِدُنِي عَلَى الْإِنْتَاجِيَّةِ"
+  },
+  {
+    "arabicWord": "الاستِقْلَالُ المَالِيّ",
+    "englishMeaning": "Financial independence",
+    "exampleSentence": "أَرْغَبُ فِي حُصُولِ الاسْتِقْلَالِ المَالِيِّ فِي العُمُرِ الصَّغِير"
+  },
+  {
+    "arabicWord": "تَقْدِيرُ المَخَاطِرِ",
+    "englishMeaning": "Risk assessment",
+    "exampleSentence": "يَجِبُ أَنْ نُجْرِي تَقْدِيرَ المَخَاطِرِ قَبْلَ كُلِّ اسْتِثْمَارٍ"
+  },
+  {
+    "arabicWord": "التَّقْنِيَّاتُ الحَدِيثَةُ",
+    "englishMeaning": "Modern technologies",
+    "exampleSentence": "نَسْتَخْدِمُ التَّقْنِيَّاتِ الحَدِيثَةَ لِتَحْسِينِ الإِنْتَاجِ"
+  },
+  {
+    "arabicWord": "إِدَارَةُ المَشَارِيعِ",
+    "englishMeaning": "Project management",
+    "exampleSentence": "تَعَلَّمْتُ إِدَارَةَ المَشَارِيعِ لِتَنْفِيذِهَا بَشَكْلٍ فَعَّال"
+  }
+
+,
+  {
+    "arabicWord": "التَّطَوُّعُ",
+    "englishMeaning": "Volunteering",
+    "exampleSentence": "أُحِبُّ التَّطَوُّعَ فِي المَنْظَّمَاتِ الإِنْسَانِيَّةِ"
+  },
+  {
+    "arabicWord": "المَسْؤُولِيَّةُ الاِجْتِمَاعِيَّةُ",
+    "englishMeaning": "Social responsibility",
+    "exampleSentence": "تَحْتَفِظُ الشَّرِكَةُ بِالمَسْؤُولِيَّةِ الاِجْتِمَاعِيَّةِ عَنِ المَوَاطِنِ"
+  },
+  {
+    "arabicWord": "تَحْلِيلُ البَيَانَاتِ",
+    "englishMeaning": "Data analysis",
+    "exampleSentence": "أَعْمَلُ عَلَى تَحْلِيلِ البَيَانَاتِ لِتَحْسِينِ الأَفْعَالِ"
+  },
+  {
+    "arabicWord": "الإِبْرَازُ الشَّخْصِيُّ",
+    "englishMeaning": "Personal branding",
+    "exampleSentence": "يَجِبُ عَلَيْكَ العَمَلُ عَلَى الإِبْرَازِ الشَّخْصِيِّ لِلنَّجَاحِ فِي المِهَنَةِ"
+  },
+  {
+    "arabicWord": "الإِبْتِكَارُ",
+    "englishMeaning": "Innovation",
+    "exampleSentence": "تَسْتَخْدِمُ الشَّرِكَةُ الإِبْتِكَارَ لِتَحْسِينِ خَدَمَاتِهَا"
+  },
+  {
+    "arabicWord": "تَسْوِيقُ الرَّقْمِيّ",
+    "englishMeaning": "Digital marketing",
+    "exampleSentence": "أَتَعَلَّمُ تَسْوِيقَ الرَّقْمِيِّ لِتَزْيِيدِ المَبِيعَاتِ"
+  },
+  {
+    "arabicWord": "الإِدَارَةُ العَالَمِيَّةُ",
+    "englishMeaning": "Global management",
+    "exampleSentence": "يَتَعَلَّمُ الطُّلَّابُ الإِدَارَةَ العَالَمِيَّةَ لِتَوْسِيعِ أَعْمَالِهِمْ"
+  },
+  {
+    "arabicWord": "الأَجْهِزَةُ القَابِلَةُ لِلاِرْتِدَاءِ",
+    "englishMeaning": "Wearable devices",
+    "exampleSentence": "تَسْتَخْدِمُ الأَجْهِزَةُ القَابِلَةُ لِلاِرْتِدَاءِ فِي الرِّعَايَةِ الصِّحِّيَّةِ"
+  },
+  {
+    "arabicWord": "التَّعَلُّمُ المُمْتَدُّ",
+    "englishMeaning": "Lifelong learning",
+    "exampleSentence": "أُؤْمِنُ بِأَهَمِّيَّةِ التَّعَلُّمِ المُمْتَدِّ لِتَحْسِينِ الذَّاتِ"
+  },
+  {
+    "arabicWord": "التَّوَاصُلُ الاِجْتِمَاعِيُّ",
+    "englishMeaning": "Social networking",
+    "exampleSentence": "أَسْتَخْدِمُ التَّوَاصُلَ الاِجْتِمَاعِيَّ لِتَوْسِيعِ عُلُومِي وَعُلُومِ زُمَلَائِي"
+  }
+,
+  {
+    "arabicWord": "الطَّاقَةُ المُتَجَدِّدَةُ",
+    "englishMeaning": "Renewable energy",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى تَطْوِيرِ الطَّاقَةِ المُتَجَدِّدَةِ لِلْبِلَادِ"
+  },
+  {
+    "arabicWord": "الذَّكَاءُ الاِصْطِنَاعِيُّ",
+    "englishMeaning": "Artificial intelligence",
+    "exampleSentence": "يُسْتَخْدَمُ الذَّكَاءُ الاِصْطِنَاعِيُّ فِي تَحْلِيلِ المَعْلُومَاتِ"
+  },
+  {
+    "arabicWord": "التَّقْنِيَّةُ النَّظِيفَةُ",
+    "englishMeaning": "Clean technology",
+    "exampleSentence": "تُسَاعِدُ التَّقْنِيَّةُ النَّظِيفَةُ عَلَى حِفْظِ البِيئَةِ"
+  },
+  {
+    "arabicWord": "الإِقْتِصَادُ الرَّقْمِيُّ",
+    "englishMeaning": "Digital economy",
+    "exampleSentence": "تَتَطَوَّرُ الدُّوَلُ فِي الإِقْتِصَادِ الرَّقْمِيِّ سَرِيعًا"
+  },
+  {
+    "arabicWord": "الأَمْنُ السَّايبِرِيُّ",
+    "englishMeaning": "Cybersecurity",
+    "exampleSentence": "يَتَعَلَّمُ الطُّلَّابُ أَسَاسِيَّ الأَمْنِ السَّايبِرِيِّ فِي الدُّوَلِ المُتَقَدِّمَةِ"
+  },
+  {
+    "arabicWord": "تَحْكِيمُ الآلَاتِ",
+    "englishMeaning": "Automation",
+    "exampleSentence": "تُسَاعِدُ تَحْكِيمُ الآلَاتِ فِي تَسْرِيعِ عَمَلِيَّاتِ الشَّرِكَةِ"
+  },
+  {
+    "arabicWord": "البَيئَةُ الذَّكِيَّةُ",
+    "englishMeaning": "Smart environment",
+    "exampleSentence": "يُطَوَّرُ المَدِينَةُ لِتَكُونَ بِيئَةً ذَكِيَّةً"
+  },
+  {
+    "arabicWord": "تَجْمِيعُ المَعْلُومَاتِ",
+    "englishMeaning": "Data collection",
+    "exampleSentence": "يُسَاعِدُ تَجْمِيعُ المَعْلُومَاتِ فِي اتِّخَاذِ القَرَارَاتِ الصَّحِيحَةِ"
+  },
+  {
+    "arabicWord": "إِدَارَةُ المَشَارِيعِ",
+    "englishMeaning": "Project management",
+    "exampleSentence": "يَتَعَلَّمُ المُدِيرُونَ إِدَارَةَ المَشَارِيعِ لِضَمَانِ النَّجَاحِ"
+  },
+  {
+    "arabicWord": "التحَوُّلُ الرَّقْمِيُّ",
+    "englishMeaning": "Digital transformation",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى التَّحَوُّلِ الرَّقْمِيِّ لِتَحْسِينِ خَدَمَاتِهَا"
+  }
+,
+  {
+    "arabicWord": "الاستدامة",
+    "englishMeaning": "Sustainability",
+    "exampleSentence": "تُرَكِّزُ الشَّرِكَةُ عَلَى الاسْتِدَامَةِ فِي كُلِّ مَشَارِيعِهَا"
+  },
+  {
+    "arabicWord": "تحليل البيانات",
+    "englishMeaning": "Data analysis",
+    "exampleSentence": "يُسَاعِدُ تَحْلِيلُ البَيَانَاتِ فِي اتِّخَاذِ القَرَارَاتِ"
+  },
+  {
+    "arabicWord": "الذكاء العاطفي",
+    "englishMeaning": "Emotional intelligence",
+    "exampleSentence": "يُعَزِّزُ الذَّكَاءُ العَاطِفِيُّ التَّوَاصُلَ وَالتَّفَاهُمَ بَيْنَ الفَرِيقِ"
+  },
+  {
+    "arabicWord": "التجارة الإلكترونية",
+    "englishMeaning": "E-commerce",
+    "exampleSentence": "تَزْدَادُ شَرِكَاتُ التِّجَارَةِ الإِلِكْتُرُونِيَّةِ سُرْعَانَ فِي السُّوقِ"
+  },
+  {
+    "arabicWord": "الابتكار",
+    "englishMeaning": "Innovation",
+    "exampleSentence": "تَعْمَلُ المَدِينَةُ عَلَى تَشْجِيعِ الاِبْتِكَارِ فِي التِّقْنِيَّةِ"
+  },
+  {
+    "arabicWord": "القيادة التحويلية",
+    "englishMeaning": "Transformational leadership",
+    "exampleSentence": "تُسَاعِدُ القِيَادَةُ التَّحْوِيلِيَّةُ فِي تَحْفِيزِ الفَرِيقِ"
+  },
+  {
+    "arabicWord": "التعليم عن بعد",
+    "englishMeaning": "Remote learning",
+    "exampleSentence": "تَزْدَادُ شَعْبِيَّةُ التَّعْلِيمِ عَنْ بُعْدٍ فِي العَالَمِ"
+  },
+  {
+    "arabicWord": "التحليلات التنبؤية",
+    "englishMeaning": "Predictive analytics",
+    "exampleSentence": "تُسَاعِدُ التَّحْلِيلَاتُ التَّنَبُّؤِيَّةُ فِي تَوَقُّعِ السُّوقِ"
+  },
+  {
+    "arabicWord": "إدارة المخاطر",
+    "englishMeaning": "Risk management",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى إِدَارَةِ المَخَاطِرِ بَشَكْلٍ فَعَّالٍ"
+  },
+  {
+    "arabicWord": "التشغيل الذكي",
+    "englishMeaning": "Smart operations",
+    "exampleSentence": "يُسَاعِدُ التَّشْغِيلُ الذَّكِيُّ فِي تَحْسِينِ كَفَاءَةِ العَمَلِ"
+  }
+,
+  {
+    "arabicWord": "إدارة المشاريع",
+    "englishMeaning": "Project management",
+    "exampleSentence": "تَعْتَمِدُ الشَّرِكَةُ عَلَى إِدَارَةِ المَشَارِيعِ لِتَنْفِيذِهَا بَكَفَاءَةٍ"
+  },
+  {
+    "arabicWord": "الاقتصاد الرقمي",
+    "englishMeaning": "Digital economy",
+    "exampleSentence": "تَتَطَوَّرُ الدُّوَلُ فِي الاقْتِصَادِ الرَّقْمِيِّ بِسُرْعَةٍ"
+  },
+  {
+    "arabicWord": "الأمن السيبراني",
+    "englishMeaning": "Cybersecurity",
+    "exampleSentence": "تُعْتَبَرُ الأَمْنُ السَّيْبَرَانِيُّ أَمْرًا ضَرُورِيًّا لِحِمَايَةِ البَيَانَاتِ"
+  },
+  {
+    "arabicWord": "تحسين الأداء",
+    "englishMeaning": "Performance improvement",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى تَحْسِينِ الأَدَاءِ لِمُوَاجَهَةِ التَّحَدِّيَاتِ"
+  },
+  {
+    "arabicWord": "الاستثمار المستدام",
+    "englishMeaning": "Sustainable investment",
+    "exampleSentence": "تَرْكِّزُ الصُّنْدُوقَاتُ عَلَى الاِسْتِثْمَارِ المُسْتَدَامِ لِضَمَانِ العَائِدِ"
+  },
+  {
+    "arabicWord": "تحليل المخاطر",
+    "englishMeaning": "Risk analysis",
+    "exampleSentence": "يُسَاعِدُ تَحْلِيلُ المَخَاطِرِ فِي تَقْلِيلِ الخَسَائِرِ"
+  },
+  {
+    "arabicWord": "إدارة الوقت",
+    "englishMeaning": "Time management",
+    "exampleSentence": "يُعَزِّزُ إِدَارَةُ الوَقْتِ الكَفَاءَةَ وَالإِنْتَاجِيَّةَ"
+  },
+  {
+    "arabicWord": "الاستثمار الذكي",
+    "englishMeaning": "Smart investment",
+    "exampleSentence": "يُنَصَحُ بِالاِسْتِثْمَارِ الذَّكِيِّ لِتَحْقِيقِ عَوَائِدَ أَعْلَى"
+  },
+  {
+    "arabicWord": "التحول الرقمي",
+    "englishMeaning": "Digital transformation",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى التَّحَوُّلِ الرَّقْمِيِّ لِتَحْسِينِ الخَدَمَاتِ"
+  },
+  {
+    "arabicWord": "تطوير المهارات",
+    "englishMeaning": "Skills development",
+    "exampleSentence": "يُسَاعِدُ تَطْوِيرُ المَهَارَاتِ فِي تَقْوِيَةِ القُدُرَاتِ المِهَنِيَّةِ"
+  }
+,
+  {
+    "arabicWord": "الذكاء الاصطناعي",
+    "englishMeaning": "Artificial intelligence",
+    "exampleSentence": "تُسَاعِدُ التِّقْنِيَاتُ فِي الذَّكَاءِ الاِصْطِنَاعِيِّ عَلَى تَحْسِينِ الأَدَاءِ"
+  },
+  {
+    "arabicWord": "تحليل البيانات",
+    "englishMeaning": "Data analysis",
+    "exampleSentence": "تَسْتَخْدِمُ الشَّرِكَةُ أَدَوَاتِ تَحْلِيلِ البَيَانَاتِ لِفَهْمِ السُّوقِ"
+  },
+  {
+    "arabicWord": "التجارة الإلكترونية",
+    "englishMeaning": "E-commerce",
+    "exampleSentence": "تَزْدَادُ الشَّرِكَاتُ فِي مَجَالِ التِّجَارَةِ الإِلِكْتِرُونِيَّةِ"
+  },
+  {
+    "arabicWord": "الابتكار",
+    "englishMeaning": "Innovation",
+    "exampleSentence": "يُعْتَبَرُ الاِبْتِكَارُ أَسَاسِيًّا لِلنَّجَاحِ التِّجَارِيِّ"
+  },
+  {
+    "arabicWord": "إدارة الأزمات",
+    "englishMeaning": "Crisis management",
+    "exampleSentence": "تَعْتَمِدُ الشَّرِكَةُ عَلَى إِدَارَةِ الأَزْمَاتِ لِلتَّغَلُّبِ عَلَى المُشْكِلَاتِ"
+  },
+  {
+    "arabicWord": "تسويق رقمي",
+    "englishMeaning": "Digital marketing",
+    "exampleSentence": "يُسَاعِدُ التَّسْوِيقُ الرَّقْمِيُّ فِي تَعْزِيزِ المَبِيعَاتِ"
+  },
+  {
+    "arabicWord": "إدارة الموارد البشرية",
+    "englishMeaning": "Human resources management",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى إِدَارَةِ المَوَارِدِ البَشَرِيَّةِ بِكَفَاءَةٍ"
+  },
+  {
+    "arabicWord": "التعلم المستمر",
+    "englishMeaning": "Continuous learning",
+    "exampleSentence": "يُسَاعِدُ التَّعَلُّمُ المُسْتَمِرُّ فِي تَطْوِيرِ المَهَارَاتِ"
+  },
+  {
+    "arabicWord": "القدرة التنافسية",
+    "englishMeaning": "Competitiveness",
+    "exampleSentence": "تُسَاعِدُ القُدْرَةُ التَّنَافُسِيَّةُ الشَّرِكَةَ عَلَى البَقَاءِ فِي السُّوقِ"
+  },
+  {
+    "arabicWord": "إدارة الجودة",
+    "englishMeaning": "Quality management",
+    "exampleSentence": "تَعْمَلُ الشَّرِكَةُ عَلَى إِدَارَةِ الجَوْدَةِ لِتَحْسِينِ الخَدَمَاتِ"
+  }
+,
+  {
+    "arabicWord": "اَلذَّكَاءُ اَلْعَاطِفِيُّ",
+    "englishMeaning": "Emotional intelligence",
+    "exampleSentence": "يُسَاعِدُ اَلذَّكَاءُ اَلْعَاطِفِيُّ عَلَى فَهْمِ مَشَاعِرِ الآخَرِينَ"
+  },
+  {
+    "arabicWord": "اَلِاسْتِدَامَةُ",
+    "englishMeaning": "Sustainability",
+    "exampleSentence": "تَسْعَى اَلشَّرِكَةُ إِلَى تَحْقِيقِ اَلِاسْتِدَامَةِ فِي جَمِيعِ مَشَارِيعِهَا"
+  },
+  {
+    "arabicWord": "اَلتَّفْكِيرُ اَلنَّقْدِيُّ",
+    "englishMeaning": "Critical thinking",
+    "exampleSentence": "يُطَوِّرُ اَلتَّفْكِيرُ اَلنَّقْدِيُّ مَهَارَاتِ حَلِّ اَلْمَشَاكِلِ"
+  },
+  {
+    "arabicWord": "حَلُّ اَلنِّزَاعَاتِ",
+    "englishMeaning": "Conflict resolution",
+    "exampleSentence": "تَعْتَمِدُ اَلْفِرَقُ عَلَى حَلِّ اَلنِّزَاعَاتِ بِنَجَاحٍ"
+  },
+  {
+    "arabicWord": "اَلتَّوَاصُلُ اَلْفَعَّالُ",
+    "englishMeaning": "Effective communication",
+    "exampleSentence": "يُسَاعِدُ اَلتَّوَاصُلُ اَلْفَعَّالُ فِي تَقْوِيَةِ اَلعَلَاقَاتِ"
+  },
+  {
+    "arabicWord": "اَلْعَمَلُ اَلجَمَاعِيُّ",
+    "englishMeaning": "Teamwork",
+    "exampleSentence": "يُسَاعِدُ اَلْعَمَلُ اَلجَمَاعِيُّ فِي تَحْقِيقِ اَلأَهْدَافِ اَلسَّرِيعَةِ"
+  },
+  {
+    "arabicWord": "إِدَارَةُ اَلْوَقْتِ",
+    "englishMeaning": "Time management",
+    "exampleSentence": "تَعَلُّمُ إِدَارَةِ اَلْوَقْتِ يُحَسِّنُ اَلْكَفَاءَةَ"
+  },
+  {
+    "arabicWord": "مَهَارَاتُ اَلتَّفَاوُضِ",
+    "englishMeaning": "Negotiation skills",
+    "exampleSentence": "تُسَاعِدُ مَهَارَاتُ اَلتَّفَاوُضِ فِي اَلتَّوَصُّلِ إِلَى اتِّفَاقَاتٍ جَيِّدَةٍ"
+  },
+  {
+    "arabicWord": "اَلتَّخْطِيطُ اَلاِسْتِرَاتِيجِيُّ",
+    "englishMeaning": "Strategic planning",
+    "exampleSentence": "يَعْمَلُ اَلشَّرِكَاءُ عَلَى اَلتَّخْطِيطِ اَلاِسْتِرَاتِيجِيِّ لِلنُّمُوِّ"
+  },
+  {
+    "arabicWord": "حَلُّ اَلْمَشَاكِلِ اَلْإِبْدَاعِيُّ",
+    "englishMeaning": "Creative problem-solving",
+    "exampleSentence": "يُسَاعِدُ حَلُّ اَلْمَشَاكِلِ اَلْإِبْدَاعِيُّ فِي وَجْهِ اَلتَّحَدِّيَاتِ اَلسَّعْبَةِ"
+  }
+]
+
